@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>dokaben</setname>
-	<name>Dokaben (JP)</name>
+	<setname>trojanjo</setname>
+	<name>Tatakai no Banka (JP, Old Ver)</name>
 	<region>Japan</region>
-	<version></version>
-	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform>Capcom Mitchell</platform>
-	<series>Dokaben</series>
+	<version>Old Ver</version>
+	<alternative>yes</alternative>
+	<parent_title>Trojan</parent_title>
+	<platform>Capcom CPS-0</platform>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1989</year>
+	<year>1986</year>
 	<manufacturer>Capcom</manufacturer>
-	<category>Sports - Cards</category>
+	<category>Platform - Fighter Scrolling</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
-	<flip></flip>
+	<flip>n-a</flip>
 
-	<players>2 (simultaneous)</players>
+	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

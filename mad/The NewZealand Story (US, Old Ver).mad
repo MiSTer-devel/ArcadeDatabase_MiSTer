@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>tnzsop</setname>
-	<name>The NewZealand Story (W, prototype)</name>
-	<region>World</region>
-	<version>(prototype) (P0-041-1 PCB)</version>
+	<setname>tnzsuo</setname>
+	<name>The NewZealand Story (US, Old Ver)</name>
+	<region>USA</region>
+	<version>(old version) (P0-041A PCB)</version>
 	<alternative>yes</alternative>
 	<parent_title>The NewZealand Story</parent_title>
 	<platform>Taito The NewZealand Story hardware</platform>
@@ -12,7 +12,7 @@
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1988</year>
-	<manufacturer>Taito Corporation Japan</manufacturer>
+	<manufacturer>Taito America Corporation</manufacturer>
 	<category>Platform - Run, Jump &amp; Scrolling</category>
 
 	<resolution>15kHz</resolution>

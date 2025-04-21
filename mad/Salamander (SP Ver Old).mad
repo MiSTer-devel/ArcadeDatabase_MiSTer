@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>pipibibsa</setname>
-	<name>Pipi and Bibis - Whoopee!! (Z80 sound cpu, Set 2)</name>
+	<setname>spcloneo</setname>
+	<name>Salamander (SP Ver Old)</name>
 	<region>World</region>
-	<version>Z80 sound, set 2</version>
+	<version>SP Ver Old</version>
 	<alternative>yes</alternative>
-	<parent_title>Pipi and Bibis - Whoopee!!</parent_title>
-	<platform>Toaplan 2</platform>
-	<series>Pipi and Bibis - Whoopee!!</series>
+	<parent_title>Salamander</parent_title>
+	<platform>Konami GX400</platform>
+	<series>Gradius</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1991</year>
-	<manufacturer>Toaplan</manufacturer>
-	<category>Platform - Run Jump [Mature]</category>
+	<year>1986</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Shooter - Flying</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>

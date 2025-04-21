@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>dokaben</setname>
-	<name>Dokaben (JP)</name>
+	<setname>makaimurb</setname>
+	<name>Makai-Mura (JP, Rev B)</name>
 	<region>Japan</region>
 	<version></version>
-	<alternative>no</alternative>
+	<alternative>yes</alternative>
 	<parent_title></parent_title>
-	<platform>Capcom Mitchell</platform>
-	<series>Dokaben</series>
+	<platform>Capcom CPS-0</platform>
+	<series>Ghosts 'n</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1989</year>
+	<year>1985</year>
 	<manufacturer>Capcom</manufacturer>
-	<category>Sports - Cards</category>
+	<category>Platform - Fighter Scrolling</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
-	<flip></flip>
+	<flip>n-a</flip>
 
-	<players>2 (simultaneous)</players>
+	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

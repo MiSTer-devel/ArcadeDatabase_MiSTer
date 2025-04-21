@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>dokaben</setname>
-	<name>Dokaben (JP)</name>
-	<region>Japan</region>
+	<setname>wildfang</setname>
+	<name>Wild Fang - Tecmo Knight (W)</name>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform>Capcom Mitchell</platform>
-	<series>Dokaben</series>
+	<platform>Tecmo Ninja Gaiden hardware</platform>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1989</year>
-	<manufacturer>Capcom</manufacturer>
-	<category>Sports - Cards</category>
+	<manufacturer>Tecmo</manufacturer>
+	<category>Platform - Fighter Scrolling</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
@@ -22,5 +22,5 @@
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>2</num_buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

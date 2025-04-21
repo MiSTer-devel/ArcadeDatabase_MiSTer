@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>dokaben</setname>
-	<name>Dokaben (JP)</name>
-	<region>Japan</region>
+	<setname>stratof</setname>
+	<name>Raiga - Strato Fighter (US)</name>
+	<region>USA</region>
 	<version></version>
-	<alternative>no</alternative>
+	<alternative>yes</alternative>
 	<parent_title></parent_title>
-	<platform>Capcom Mitchell</platform>
-	<series>Dokaben</series>
+	<platform>Tecmo Ninja Gaiden hardware</platform>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1989</year>
-	<manufacturer>Capcom</manufacturer>
-	<category>Sports - Cards</category>
+	<year>1991</year>
+	<manufacturer>Tecmo</manufacturer>
+	<category>Shooter - Flying Horizontal</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>

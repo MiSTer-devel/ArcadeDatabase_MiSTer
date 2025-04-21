@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>nemoja</setname>
-	<name>Nemo (JP, 901120)</name>
-	<region>Japan</region>
-	<version>901120</version>
+	<setname>sf2yyc</setname>
+	<name>Street Fighter II'- Champion Edition (YYC) [bl]</name>
+	<region>bootleg</region>
+	<version>YYC</version>
 	<alternative>yes</alternative>
-	<parent_title>Nemo</parent_title>
+	<parent_title>Street Fighter II</parent_title>
 	<platform>Capcom CPS-1</platform>
-	<series></series>
+	<series>Street Fighter</series>
 	<homebrew>no</homebrew>
-	<bootleg>no</bootleg>
-	<year>1990</year>
+	<bootleg>yes</bootleg>
+	<year>1992</year>
 	<manufacturer>Capcom</manufacturer>
-	<category>Platform - Fighter Scrolling</category>
+	<category>Fighter - Versus</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
@@ -22,5 +22,5 @@
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>3</num_buttons>
+	<num_buttons>6</num_buttons>
 </misterarcadedescription>

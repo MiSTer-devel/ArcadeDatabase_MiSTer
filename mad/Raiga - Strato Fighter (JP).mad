@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>pipibibs</setname>
-	<name>Pipi and Bibis - Whoopee!! (Z80 sound cpu, Set 1)</name>
-	<region>World</region>
-	<version>Z80 sound, set 1</version>
+	<setname>raiga</setname>
+	<name>Raiga - Strato Fighter (JP)</name>
+	<region>Japan</region>
+	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Pipi and Bibis - Whoopee!!</parent_title>
-	<platform>Toaplan 2</platform>
-	<series>Pipi and Bibis - Whoopee!!</series>
+	<parent_title>Raiga - Strato Fighter</parent_title>
+	<platform>Tecmo Ninja Gaiden hardware</platform>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1991</year>
-	<manufacturer>Toaplan</manufacturer>
-	<category>Platform - Run Jump [Mature]</category>
+	<manufacturer>Tecmo</manufacturer>
+	<category>Shooter - Flying Horizontal</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>

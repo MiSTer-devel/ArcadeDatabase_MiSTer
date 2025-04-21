@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>dokaben</setname>
-	<name>Dokaben (JP)</name>
-	<region>Japan</region>
+	<setname>wwfsstarc</setname>
+	<name>WWF Superstars (CA)</name>
+	<region>Canada</region>
 	<version></version>
-	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform>Capcom Mitchell</platform>
-	<series>Dokaben</series>
+	<alternative>yes</alternative>
+	<parent_title>WWF Superstars</parent_title>
+	<platform>Technos Unique</platform>
+	<series>WWF Superstars</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1989</year>
-	<manufacturer>Capcom</manufacturer>
-	<category>Sports - Cards</category>
+	<manufacturer>Technos Japan</manufacturer>
+	<category>Sports - Wrestling</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>

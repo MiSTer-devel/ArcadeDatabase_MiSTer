@@ -1,23 +1,23 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>grobda</setname>
-	<name>Grobda (W, New Ver.)</name>
-	<region>World</region>
-	<version>New Ver.</version>
+	<setname>tokiu</setname>
+	<name>Toki (US, Set 1)</name>
+	<region>USA</region>
+	<version>Set 1</version>
 	<alternative>yes</alternative>
-	<parent_title></parent_title>
-	<platform>Namco Super Pac-Man hardware</platform>
+	<parent_title>Toki</parent_title>
+	<platform>Seibu Toki hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1984</year>
-	<manufacturer>Namco</manufacturer>
-	<category>Maze - Shooter Small</category>
+	<year>1989</year>
+	<manufacturer>TAD Corporation</manufacturer>
+	<category>Platform - Shooter Scrolling</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (cw)</rotation>
-	<flip>no</flip>
+	<rotation>horizontal</rotation>
+	<flip></flip>
 
 	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>

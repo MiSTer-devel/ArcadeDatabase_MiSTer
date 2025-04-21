@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>grobda</setname>
-	<name>Grobda (W, New Ver.)</name>
+	<setname>superpacm</setname>
+	<name>Super Pac-Man (Midway)</name>
 	<region>World</region>
-	<version>New Ver.</version>
+	<version>Midway</version>
 	<alternative>yes</alternative>
-	<parent_title></parent_title>
+	<parent_title>Super Pac-Man</parent_title>
 	<platform>Namco Super Pac-Man hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1984</year>
+	<year>1982</year>
 	<manufacturer>Namco</manufacturer>
-	<category>Maze - Shooter Small</category>
+	<category>Maze - Collect</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>vertical (cw)</rotation>
-	<flip>no</flip>
+	<flip>yes</flip>
 
 	<players>2 (alternating)</players>
-	<move_inputs>8-way</move_inputs>
+	<move_inputs>4-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>2</num_buttons>
+	<num_buttons>0</num_buttons>
 </misterarcadedescription>

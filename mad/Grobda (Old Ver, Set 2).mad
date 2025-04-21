@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>grobda</setname>
-	<name>Grobda (W, New Ver.)</name>
+	<setname>grobda3</setname>
+	<name>Grobda (Old Ver, Set 2)</name>
 	<region>World</region>
-	<version>New Ver.</version>
+	<version>Old Ver</version>
 	<alternative>yes</alternative>
-	<parent_title></parent_title>
+	<parent_title>Grobda</parent_title>
 	<platform>Namco Super Pac-Man hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>

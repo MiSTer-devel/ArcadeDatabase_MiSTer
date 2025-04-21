@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>dokaben</setname>
-	<name>Dokaben (JP)</name>
-	<region>Japan</region>
-	<version></version>
-	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform>Capcom Mitchell</platform>
-	<series>Dokaben</series>
+	<setname>spclone</setname>
+	<name>Salamander (SP Ver)</name>
+	<region>World</region>
+	<version>SP Ver</version>
+	<alternative>yes</alternative>
+	<parent_title>Salamander</parent_title>
+	<platform>Konami GX400</platform>
+	<series>Gradius</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1989</year>
-	<manufacturer>Capcom</manufacturer>
-	<category>Sports - Cards</category>
+	<year>1986</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Shooter - Flying</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>

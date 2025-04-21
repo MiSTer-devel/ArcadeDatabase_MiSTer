@@ -1,23 +1,23 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>suprloco</setname>
-	<name>Super Locomotive (W, Rev A)</name>
-	<region>World</region>
-	<version>Rev A</version>
+	<setname>timescan3</setname>
+	<name>Time Scanner (JP, S16B, Set 3)</name>
+	<region>Japan</region>
+	<version>Set 3</version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform>Sega Unique</platform>
+	<parent_title>Time Scanner</parent_title>
+	<platform>Sega System 16</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1982</year>
+	<year>1987</year>
 	<manufacturer>Sega</manufacturer>
-	<category>Maze - Driving</category>
+	<category>Arcade - Pinball</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>horizontal</rotation>
-	<flip></flip>
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
 
 	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>

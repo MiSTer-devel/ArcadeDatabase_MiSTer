@@ -1,23 +1,23 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>grobda</setname>
-	<name>Grobda (W, New Ver.)</name>
+	<setname>suprlocoo</setname>
+	<name>Super Locomotive (Old)</name>
 	<region>World</region>
-	<version>New Ver.</version>
+	<version>Old</version>
 	<alternative>yes</alternative>
-	<parent_title></parent_title>
-	<platform>Namco Super Pac-Man hardware</platform>
+	<parent_title>Super Locomotive</parent_title>
+	<platform>Sega Unique</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1984</year>
-	<manufacturer>Namco</manufacturer>
-	<category>Maze - Shooter Small</category>
+	<year>1982</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Maze - Driving</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (cw)</rotation>
-	<flip>no</flip>
+	<rotation>horizontal</rotation>
+	<flip></flip>
 
 	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>
