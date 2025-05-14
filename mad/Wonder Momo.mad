@@ -1,23 +1,23 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>sxevious</setname>
-	<name>Super Xevious</name>
+	<setname>wndrmomo</setname>
+	<name>Wonder Momo</name>
 	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>xevious</parent_title>
-	<platform>Namco Galaga based</platform>
+	<parent_title></parent_title>
+	<platform>Namco System 86</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1982</year>
+	<year>1987</year>
 	<manufacturer>Namco</manufacturer>
-	<category>Shooter - Flying Vertical</category>
+	<category>Fighter - 2D</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (cw)</rotation>
-	<flip>yes</flip>
+	<rotation>horizontal</rotation>
+	<flip></flip>
 
 	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>

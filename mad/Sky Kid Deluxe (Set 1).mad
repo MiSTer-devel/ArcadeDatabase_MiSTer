@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>sxevious</setname>
-	<name>Super Xevious</name>
+	<setname>skykiddx</setname>
+	<name>Sky Kid Deluxe (Set 1)</name>
 	<region>World</region>
-	<version></version>
+	<version>Set 1</version>
 	<alternative>no</alternative>
-	<parent_title>xevious</parent_title>
-	<platform>Namco Galaga based</platform>
-	<series></series>
+	<parent_title></parent_title>
+	<platform>Namco System 86</platform>
+	<series>Sky Kid</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1982</year>
+	<year>1986</year>
 	<manufacturer>Namco</manufacturer>
-	<category>Shooter - Flying Vertical</category>
+	<category>Shooter - Flying Horizontal</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (cw)</rotation>
-	<flip>yes</flip>
+	<rotation>horizontal</rotation>
+	<flip></flip>
 
-	<players>2 (alternating)</players>
+	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>
