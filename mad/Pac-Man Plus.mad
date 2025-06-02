@@ -6,10 +6,10 @@
 	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Pac-Man</parent_title>
+	<parent_title></parent_title>
 	<platform>Namco Pac-Man hardware</platform>
 	<series>Pac-Man</series>
-	<homebrew>yes</homebrew>
+	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1982</year>
 	<manufacturer>Namco - Midway</manufacturer>

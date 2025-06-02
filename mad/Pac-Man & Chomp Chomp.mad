@@ -6,8 +6,8 @@
 	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Pac-Man</parent_title>
-	<platform>Namco Pac-Man hardware</platform>
+	<parent_title>Pac &amp; Pal</parent_title>
+	<platform>Namco Super Pac-Man hardware</platform>
 	<series>Pac-Man</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
@@ -22,5 +22,5 @@
 	<players>2 (alternating)</players>
 	<move_inputs>4-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>0</num_buttons>
+	<num_buttons>1</num_buttons>
 </misterarcadedescription>

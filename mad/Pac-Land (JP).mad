@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>paclandj</setname>
+	<name>Pac-Land (JP)</name>
+	<region>Japan</region>
+	<version></version>
+	<alternative>yes</alternative>
+	<parent_title>Pac-Land</parent_title>
+	<platform>Namco Unique</platform>
+	<series>Pac-Man</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1984</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Platform - Run, Jump &amp; Scrolling</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>buttons</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>
