@@ -620,7 +620,7 @@ forgottnue,"Forgotten Worlds (US, Rev E)",USA,"Rev E, 88618B-2",yes,Forgotten Wo
 fpoint,"Flash Point (JP, Set 2)",Japan,"Set 2, FD1094 317-0127A",no,Flash Point,Sega System 16,,no,no,1989,Sega,Puzzle - Drop,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
 fpoint1,"Flash Point (JP, Set 1)",Japan,"Set 1, FD1094 317-0127A",yes,Flash Point,Sega System 16,,no,no,1989,Sega,Puzzle - Drop,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
 frenzy,Frenzy (Rev RA1),World,Rev RA1,no,,Stern based,,no,no,1981,Stern,Maze - Shooter Small,,15kHz,horizontal,,,2 (alternating),8-way,,1
-frogger,Frogger (Konami Bugfixed),World,Konami Bugfixed,no,Frogger,Konami Z80,,no,no,1981,Konami,Maze - Cross,,15kHz,vertical (cw),no,,2 (alternating),4-way,,0
+frogger,Frogger (Konami Bugfixed),World,Konami Bugfixed,no,Frogger,Konami Z80,,no,no,1981,Konami,Maze - Cross,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 froggers2,"Frogger (Sega, Set 2)",World,"Sega, Set 2",no,Frogger,Konami Z80,,no,no,1981,Konami,Maze - Cross,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 fstpman2,New Puck 2 (Fast) [hb],World,Fast,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco - Midway,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 futspy,Future Spy,World,,no,,Sega Zaxxon based,,no,no,1982,Sega-Gremlin,Shooter - Flying Diagonal,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
