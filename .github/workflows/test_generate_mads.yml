@@ -14,6 +14,15 @@ jobs:
     - name: Checkout repo
       uses: actions/checkout@v4
 
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install Python dependencies
+      run: |
+        pip install tqdm
+
     - name: Generate MAD files from CSV
       run: |
         mkdir -p mad
