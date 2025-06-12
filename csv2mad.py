@@ -4,7 +4,16 @@ import os
 import sys
 import csv
 import tqdm
+import re
 
+# Function to clean up filenames
+def sanitize_filename(name):
+    name = name.replace("&amp;", "&")  # Convert HTML entity
+    name = name.replace(":", " -")     # Replace colon with dash/space
+    name = re.sub(r'[<>:"/\\|?*\n\r]', '', name)  # Remove invalid characters
+    return name.strip()
+
+# Check script usage
 if len(sys.argv) != 2:
     print("Please call the script as follows")
     print("python3 csv2mad.py ARCADE_METADATA_FILE(.csv)")
@@ -23,9 +32,12 @@ with open(ARCADE_METADATA_CSV, "r") as file:
     next(csv_reader)  # Skip header row
 
     for game in tqdm.tqdm(csv_reader, desc="Generating mads", total=total_rows):
-        mad_filename = os.path.join(OUTPUT_DIR, game[MAD_NAME_COLUMN] + ".mad")
+        mad_filename = os.path.join(
+            OUTPUT_DIR,
+            sanitize_filename(game[MAD_NAME_COLUMN]).lower() + ".mad"
+        )
 
-        with open(mad_filename.replace("&amp;", "&"), 'w') as f:
+        with open(mad_filename, 'w') as f:
             f.write("<?xml version=\"1.0\" ?>\n")
             f.write("<misterarcadedescription>\n\n")
 
