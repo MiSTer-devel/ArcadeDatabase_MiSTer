@@ -27,9 +27,3 @@ jobs:
       run: |
         mkdir -p mad
         python3 csv2mad.py ArcadeDatabase_CSV/ArcadeDatabase.csv
-
-    - name: Upload generated MAD files
-      uses: actions/upload-artifact@v4
-      with:
-        name: mad-files
-        path: mad/
