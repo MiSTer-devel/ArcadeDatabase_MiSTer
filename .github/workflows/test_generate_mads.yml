@@ -27,3 +27,14 @@ jobs:
       run: |
         mkdir -p mad
         python3 csv2mad.py ArcadeDatabase_CSV/ArcadeDatabase.csv
+
+    - name: Commit updated MAD files
+      run: |
+        git config --global user.name "The CI/CD Bot"
+        git config --global user.email "theypsilon@gmail.com"
+        git add mad/
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update generated MAD files"
+          git push
