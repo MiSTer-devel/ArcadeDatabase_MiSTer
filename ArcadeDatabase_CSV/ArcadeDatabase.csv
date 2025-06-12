@@ -1207,8 +1207,8 @@ phoenixt,Phoenix,World,,yes,Phoenix,Taito Unique,,no,no,1980,Amstar,Shooter - Ga
 pickin,Pickin',World,,no,,Taito Licensed,,no,no,1983,Valadon Automation,Puzzle - Maze,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 pickinpi,Pickin' (Color Hack) [hb],World,Color Hack,yes,Pickin',Taito Licensed,,yes,no,1983,Pi,Puzzle - Maze,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 pingpong,Konami's Ping-Pong,World,,no,,Konami Z80,,no,no,1985,Konami,Sports - Ping Pong,,15kHz,horizontal,,,2 (simultaneous),2,,
-pipibibs,"Pipi &amp; Bibis - Whoopee!! (Z80 sound cpu, Set 1)",World,"Z80 sound, set 1",no,Pipi &amp; Bibis - Whoopee!!,Toaplan 2,Pipi and Bibis - Whoopee!!,no,no,1991,Toaplan,Platform - Run Jump [Mature],,15kHz,horizontal,,,2 (simultaneous),8-way,,2
-pipibibsa,"Pipi &amp; Bibis - Whoopee!! (Z80 sound cpu, Set 2)",World,"Z80 sound, set 2",yes,Pipi &amp; Bibis - Whoopee!!,Toaplan 2,Pipi and Bibis - Whoopee!!,no,no,1991,Toaplan,Platform - Run Jump [Mature],,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+pipibibs,"Pipi &amp; Bibis - Whoopee!! (Z80, Set 1)",World,"Z80 sound, set 1",no,Pipi &amp; Bibis - Whoopee!!,Toaplan 2,Pipi and Bibis - Whoopee!!,no,no,1991,Toaplan,Platform - Run Jump [Mature],,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+pipibibsa,"Pipi &amp; Bibis - Whoopee!! (Z80, Set 2)",World,"Z80 sound, set 2",yes,Pipi &amp; Bibis - Whoopee!!,Toaplan 2,Pipi and Bibis - Whoopee!!,no,no,1991,Toaplan,Platform - Run Jump [Mature],,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 whoopee,Pipi &amp; Bibis - Whoopee!! (Teki Paki hardware),World,Teki Paki hardware,yes,Pipi and Bibis - Whoopee!!,Toaplan 2,Pipi and Bibis - Whoopee!!,no,no,1991,Toaplan,Platform - Run Jump [Mature],,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 pisces,Pisces,World,,no,,Namco Galaxian based,,no,no,1982,Subelectro,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 piscesb,Pisces [bl],World,,yes,Pisces,Namco Galaxian based,,no,yes,1982,,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1

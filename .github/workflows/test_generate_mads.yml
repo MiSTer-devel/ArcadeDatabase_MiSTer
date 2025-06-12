@@ -1,0 +1,26 @@
+name: Test Generate MADs Only
+
+on:
+  push:
+    branches:
+      - automationPatch
+  workflow_dispatch:
+
+jobs:
+  generate_mads:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+
+    - name: Generate MAD files from CSV
+      run: |
+        mkdir -p mad
+        python3 csv2mad.py ArcadeDatabase_CSV/ArcadeDatabase.csv
+
+    - name: Upload generated MAD files
+      uses: actions/upload-artifact@v3
+      with:
+        name: mad-files
+        path: mad/
