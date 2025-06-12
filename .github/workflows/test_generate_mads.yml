@@ -38,3 +38,4 @@ jobs:
         else
           git commit -m "Update generated MAD files"
           git push
+        fi
