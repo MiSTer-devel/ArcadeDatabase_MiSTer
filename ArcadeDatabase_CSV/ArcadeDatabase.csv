@@ -256,7 +256,7 @@ bouldash,Boulder Dash - Boulder Dash Part 2 (W),World,,no,Boulder Dash Part 2,Da
 bouldashj,Boulder Dash - Boulder Dash Part 2 (JP),Japan,,yes,Boulder Dash Part 2,Data East MEC-M1,Boulder Dash,no,no,1990,Data East,Maze - Digging,,15kHz,horizontal,,,2 (alternating),4-way,,2
 brain,Brain,World,,no,Brain,Sega System 1,,no,no,1986,Sega - Coreland,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
 brakman,Brakman [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Scott Lawrence,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-breakout,Breakout (TTL),World,TTL,no,Breakout,Atari Discrete hardware,Breakout,no,no,1976,Atari,TTL - Ball &amp; Paddle - Breakout,,15kHz,vertical (cw),no,,2 (alternating),,rotary,0
+breakout,Breakout (TTL),World,TTL,no,Breakout,Atari Discrete hardware,Breakout,no,no,1976,Atari,TTL - Ball &amp; Paddle - Breakout,,15kHz,vertical (cw),no,,2 (alternating),,paddle,0
 brubber,Burnin' Rubber,World,,no,Burnin' Rubber,Data East Burger Time hardware,,no,no,1982,Data East,Driving - Race,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
 btime,Burger Time (Set 1),World,Set 1,no,Burger Time,Data East Burger Time hardware,,no,no,1982,Data East,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 btime2,"Burger Time (Data East, Set 2)",World,"Data East, Set 2",yes,Burger Time,Data East Burger Time hardware,,no,no,1982,Data East,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
@@ -1207,8 +1207,8 @@ phoenixt,Phoenix,World,,yes,Phoenix,Taito Unique,,no,no,1980,Amstar,Shooter - Ga
 pickin,Pickin',World,,no,,Taito Licensed,,no,no,1983,Valadon Automation,Puzzle - Maze,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 pickinpi,Pickin' (Color Hack) [hb],World,Color Hack,yes,Pickin',Taito Licensed,,yes,no,1983,Pi,Puzzle - Maze,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 pingpong,Konami's Ping-Pong,World,,no,,Konami Z80,,no,no,1985,Konami,Sports - Ping Pong,,15kHz,horizontal,,,2 (simultaneous),2,,
-pipibibs,"Pipi &amp; Bibis - Whoopee!! (Z80, Set 1)",World,"Z80 sound, set 1",no,Pipi &amp; Bibis - Whoopee!!,Toaplan 2,Pipi and Bibis - Whoopee!!,no,no,1991,Toaplan,Platform - Run Jump [Mature],,15kHz,horizontal,,,2 (simultaneous),8-way,,2
-pipibibsa,"Pipi &amp; Bibis - Whoopee!! (Z80, Set 2)",World,"Z80 sound, set 2",yes,Pipi &amp; Bibis - Whoopee!!,Toaplan 2,Pipi and Bibis - Whoopee!!,no,no,1991,Toaplan,Platform - Run Jump [Mature],,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+pipibibs,"Pipi &amp; Bibis - Whoopee!! (Z80 sound cpu, Set 1)",World,"Z80 sound, set 1",no,Pipi &amp; Bibis - Whoopee!!,Toaplan 2,Pipi and Bibis - Whoopee!!,no,no,1991,Toaplan,Platform - Run Jump [Mature],,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+pipibibsa,"Pipi &amp; Bibis - Whoopee!! (Z80 sound cpu, Set 2)",World,"Z80 sound, set 2",yes,Pipi &amp; Bibis - Whoopee!!,Toaplan 2,Pipi and Bibis - Whoopee!!,no,no,1991,Toaplan,Platform - Run Jump [Mature],,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 whoopee,Pipi &amp; Bibis - Whoopee!! (Teki Paki hardware),World,Teki Paki hardware,yes,Pipi and Bibis - Whoopee!!,Toaplan 2,Pipi and Bibis - Whoopee!!,no,no,1991,Toaplan,Platform - Run Jump [Mature],,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 pisces,Pisces,World,,no,,Namco Galaxian based,,no,no,1982,Subelectro,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 piscesb,Pisces [bl],World,,yes,Pisces,Namco Galaxian based,,no,yes,1982,,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
@@ -2546,3 +2546,60 @@ paclandm,Pac-Land (Midway),World,,no,Pac-Land,Namco Unique,Pac-Man,no,no,1984,Na
 paclandj,Pac-Land (JP),Japan,,yes,Pac-Land,Namco Unique,Pac-Man,no,no,1984,Namco,"Platform - Run, Jump &amp; Scrolling",,15kHz,horizontal,,,2 (alternating),buttons,,3
 paclandjo,"Pac-Land (JP, Old)",Japan,Old,yes,Pac-Land,Namco Unique,Pac-Man,no,no,1984,Namco,"Platform - Run, Jump &amp; Scrolling",,15kHz,horizontal,,,2 (alternating),buttons,,3
 paclandjo2,"Pac-Land (JP, Older)",Japan,Older,yes,Pac-Land,Namco Unique,Pac-Man,no,no,1984,Namco,"Platform - Run, Jump &amp; Scrolling",,15kHz,horizontal,,,2 (alternating),buttons,,3
+metrocrs,Metro-Cross (Set 1),World,Set 1,no,,Namco Baraduke hardware,,no,no,1985,Namco,"Platform - Run, Jump &amp; Scrolling",,15kHz,horizontal,,,2 (alternating),8-way,,1
+metrocrsa,Metro-Cross (Set 2),World,Set 2,yes,Metro-Cross,Namco Baraduke hardware,,no,no,1985,Namco,"Platform - Run, Jump &amp; Scrolling",,15kHz,horizontal,,,2 (alternating),8-way,,1
+lghost,Laser Ghost (W),World,FD1094 317-0166,no,,Sega System 18,,no,no,1990,Sega,Shooter - Gun,,15kHz,horizontal,,,2-3 (simultaneous),lightgun,lightgun,2
+lghostj,Laser Ghost (JP),Japan,FD1094 317-0164,yes,Laser Ghost,Sega System 18,,no,no,1990,Sega,Shooter - Gun,,15kHz,horizontal,,,2-3 (simultaneous),lightgun,lightgun,2
+lghostu,Laser Ghost (US),USA,FD1094 317-0165,yes,Laser Ghost,Sega System 18,,no,no,1990,Sega,Shooter - Gun,,15kHz,horizontal,,,2-3 (simultaneous),lightgun,lightgun,2
+desertbr,Desert Breaker (W),World,FD1094 317-0196,no,,Sega System 18,,no,no,1992,Sega,Shooter - Walking,,15kHz,vertical (ccw),,,2-3 (simultaneous),8-way,,3
+desertbrj,Desert Breaker (JP),World,FD1094 317-0194,yes,Desert Breaker,Sega System 18,,no,no,1992,Sega,Shooter - Walking,,15kHz,vertical (ccw),,,2-3 (simultaneous),8-way,,3
+ajax,Ajax,World,,no,,Konami Ajax hardware,,no,no,1987,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (alternating),8-way,,3
+ajaxj,Ajax (JP),Japan,,yes,Ajax,Konami Ajax hardware,,no,no,1987,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (alternating),8-way,,3
+typhoon,Typhoon,World,,yes,Ajax,Konami Ajax hardware,,no,no,1987,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (alternating),8-way,,3
+starforc,Star Force,World,,no,,Tecmo Senjyo hardware,Star Force,no,no,1984,Tehkan,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (alternating),8-way,,1
+baluba,Baluba-louk no Densetsu (JP),Japan,,no,,Tecmo Senjyo hardware,,no,no,1986,"Able Corp, Ltd",Platform - Run Jump,,15kHz,vertical (cw),,,2 (alternating),8-way,,1
+megaforc,Mega Force (W),World,,no,Star Force,Tecmo Senjyo hardware,Star Force,no,no,1984,Tehkan,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (alternating),8-way,,1
+megaforcu,Mega Force (US),USA,,yes,Star Force,Tecmo Senjyo hardware,Star Force,no,no,1984,Tehkan,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (alternating),8-way,,1
+astrass,Astra SuperStars (JP),Japan,980514 V1.002,no,,Sega ST-V,,no,no,1998,Sunsoft,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,6
+bakubaku,Baku Baku Animal (JP),Japan,950407 V1.000,no,,Sega ST-V,,no,no,1995,Sega,Puzzle - Drop,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+batmanfr,Batman Forever (JUE),World,960507 V1.000,no,,Sega ST-V,,no,no,1996,Acclaim,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+colmns97,Columns '97 (JET),World,961209 V1.000,no,,Sega ST-V,Columns,no,no,1996,Sega,Puzzle - Drop,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+cotton2,Cotton 2 (JUET),World,970902 V1.000,no,,Sega ST-V,Cotton,no,no,1997,Success,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+cottonbm,Cotton Boomerang (JUET),World,980709 V1.000,no,,Sega ST-V,Cotton,no,no,1998,Success,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+danchih,Danchi de Hanafuda (JP),Japan,990607 V1.400,no,,Sega ST-V,,no,no,1999,Altron (Tecmo License),Tabletop - Hanafuda,,15kHz,horizontal,,,1,8-way,mahjong,20
+danchiq,Danchi de Quiz - Okusan Yontaku Desuyo! (JP),Japan,001128 V1.200,no,,Sega ST-V,,no,no,2000,Altron,Quiz - Questions in Japanese,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+decathlt,Decathlete (JUET),World,960709 V1.001,no,,Sega ST-V,,no,no,1996,Sega,Sports - Track &amp; Field,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+diehard,Die Hard Arcade (UET),World,960515 V1.000,no,,Sega ST-V,Dynamite Deka,no,no,1996,Sega,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+ejihon,Ejihon Tantei Jimusho (JP),Japan,950613 V1.000,no,,Sega ST-V,,no,no,1995,Sega,Puzzle - Misc.,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+ffreveng,Final Fight Revenge - Final Revenge (JUET),World,990930 V1.100,no,,Sega ST-V,Final Fight,no,no,1999,Capcom,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,6
+findlove,Zenkoku Seifuku Bishoujo Grand Prix Find Love (JP),Japan,971212 V1.000,no,,Sega ST-V,,no,no,1997,Daiki - FCF,Puzzle - Reconstruction,,15kHz,horizontal,,,1,8-way,,4
+fhboxers,Funky Head Boxers (JUETBKAL),World,951218 V1.000,no,,Sega ST-V,,no,no,1995,Sega,Sports - Boxing,,15kHz,horizontal,,,1,8-way,,4
+gaxeduel,Golden Axe - The Duel (JUETL),World,950117 V1.000,no,,Sega ST-V,Golden Axe,no,no,1994,Sega,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,6
+groovef,Groove on Fight - Gouketsuji Ichizoku 3 (JP),Japan,970416 V1.001,no,,Sega ST-V,Power Instinct,no,no,1997,Atlus,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,6
+grdforce,Guardian Force (JUET),World,980318 V0.105,no,,Sega ST-V,,no,no,1998,Success,Shooter - Flying Vertical,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+hanagumi,Sakura Taisen - Hanagumi Taisen Columns (JP),Japan,971007 V1.010,no,,Sega ST-V,Columns,no,no,1997,Sega,Puzzle - Drop,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+introdon,Karaoke Quiz Intro Don Don! (JP),Japan,960213 V1.000,no,,Sega ST-V,,no,no,1996,Sunsoft - Success,Quiz - Questions in Japanese,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+maruchan,Maru-Chan de Goo! (JP),Japan,971216 V1.000,no,,Sega ST-V,,no,no,1997,Sega - Toyosuisan,Multiplay - Mini-Games,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+mausuke,Mausuke no Ojama the World (JP),Japan,960314 V1.000,no,,Sega ST-V,,no,no,1996,Data East Corporation,Puzzle - Drop,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+othellos,Othello Shiyouyo (JP),Japan,980423 V1.002,no,,Sega ST-V,Othello,no,no,1998,Success,Tabletop - Othello - Reversi,,15kHz,horizontal,,,1,8-way,,4
+pblbeach,Pebble Beach - The Great Shot (JUE),World,950913 V0.990,no,,Sega ST-V,,no,no,1995,T&amp;E Soft,Sports - Golf,,15kHz,horizontal,,,2 (alternating),8-way,,4
+prikura,Princess Clara Daisakusen (JP),Japan,960910 V1.000,no,,Sega ST-V,,no,no,1996,Atlus,Maze - Shooter Large,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+kiwames,Pro Mahjong Kiwame S (JP),Japan,951020 V1.208,no,,Sega ST-V,Pro Mahjong Kiwame,no,no,1995,Athena,Tabletop - Mahjong,,15kHz,horizontal,,,1,8-way,mahjong,20
+puyosun,Puyo Puyo Sun (JP),Japan,961115 V0.001,no,,Sega ST-V,Puyo Puyo,no,no,1996,Compile,Puzzle - Drop,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+sandor,Puzzle &amp; Action - Sando-R (JP),Japan,951114 V1.000,no,,Sega ST-V,Puzzle &amp; Action,no,no,1995,Sega,Multiplay - Mini-Games,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+rsgun,Radiant Silvergun (JUET),World,980523 V1.000,no,,Sega ST-V,Radiant Silvergun,no,no,1998,Treasure,Shooter - Flying Vertical,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+seabass,Sea Bass Fishing (JUET),World,971110 V0.001,no,,Sega ST-V,,no,no,1997,A wave inc. (Able License),Sports - Fishing,,15kHz,horizontal,,,1,8-way,,4
+shanhigw,Shanghai - The Great Wall - Shanghai Triple Threat (JUE),World,950623 V1.005,no,,Sega ST-V,Shanghai,no,no,1995,Sunsoft - Activision,Tabletop - Shanghai,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+shienryu,Shienryu (JUET),World,961226 V1.000,no,,Sega ST-V,,no,no,1997,Warashi,Shooter - Flying Vertical,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+sokyugrt,Soukyugurentai - Terra Diver (JUET),World,960821 V1.000,no,,Sega ST-V,,no,no,1996,Raizing - Eighting,Shooter - Flying Vertical,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+sss,Steep Slope Sliders (JUET),World,981110 V1.000,no,,Sega ST-V,,no,no,1998,Capcom - Cave - Victor Interactive Software,Sports - Skiing,,15kHz,horizontal,,,1,8-way,,4
+suikoenb,Suiko Enbu - Outlaws of the Lost Dynasty (JUETL),World,950314 V2.001,no,,Sega ST-V,,no,no,1995,Data East Corporation,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,6
+smleague,Super Major League (US),USA,960108 V1.000,no,,Sega ST-V,Major League,no,no,1995,Sega,Sports - Baseball,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+sasissu,Taisen Tanto-R Sashissu!! (JP),Japan,980216 V1.000,no,,Sega ST-V,,no,no,1998,Sega,Multiplay - Mini-Games,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+twcup98,Tecmo World Cup '98 (JUET),World,980410 V1.000,no,,Sega ST-V,Tecmo World Cup,no,no,1998,Tecmo,Sports - Soccer,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+elandore,Touryuu Densetsu Elan-Doree - Elan Doree - Legend of Dragoon (JUET),World,980922 V1.006,no,,Sega ST-V,,no,no,1998,Sai-Mate,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,6
+vfkids,Virtua Fighter Kids (JUET),World,960319 V0.000,no,,Sega ST-V,Virtua Fighter,no,no,1996,Sega,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+vfremix,Virtua Fighter Remix (JUETBKAL),World,950428 V1.000,no,,Sega ST-V,Virtua Fighter,no,no,1995,Sega,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+myfairld,Virtual Mahjong 2 - My Fair Lady (JP),Japan,980608 V1.000,no,,Sega ST-V,Virtual Mahjong,no,no,1998,Micronet,Tabletop - Mahjong,,15kHz,horizontal,,,1,8-way,mahjong,20
+winterht,Winter Heat (JUET),World,971012 V1.000,no,,Sega ST-V,,no,no,1997,Sega,Sports - Skiing,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+znpwfv,Zen Nippon Pro-Wres Featuring Virtua (JP),Japan,971123 V1.000,no,,Sega ST-V,All Japan Pro Wrestling,no,no,1997,Sega,Sports - Wrestling,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
