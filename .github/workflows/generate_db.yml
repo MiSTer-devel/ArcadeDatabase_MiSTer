@@ -2,7 +2,7 @@ name: Generate DBs
 
 on:
   schedule:
-    - cron:  '0 12 * * *'
+    - cron: '0 12 * * *'
   push:
     branches:
       - main
@@ -15,7 +15,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -31,21 +32,45 @@ jobs:
         mkdir -p mad
         python3 csv2mad.py ArcadeDatabase_CSV/ArcadeDatabase.csv
 
-    - name: Commit updated MAD files
+    - name: Configure Git
       run: |
         git config --global user.name "The CI/CD Bot"
         git config --global user.email "theypsilon@gmail.com"
+
+    - name: Create a new branch
+      run: |
+        BRANCH_NAME=update-mad-files-${{ github.run_id }}
+        git checkout -b $BRANCH_NAME
         git add mad/
         if git diff --cached --quiet; then
           echo "No changes to commit"
+          echo "SKIP_PR=true" >> $GITHUB_ENV
         else
           git commit -m "Update generated MAD files"
-          git push
+          git push origin $BRANCH_NAME
+          echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
         fi
 
     - name: Generate DBs
+      if: env.SKIP_PR != 'true'
       run: |
-        set -euo pipefail
-        git config --global user.email "theypsilon@gmail.com"
-        git config --global user.name "The CI/CD Bot"
         ./.github/generate_db.py
+
+    - name: Commit generated DB files
+      if: env.SKIP_PR != 'true'
+      run: |
+        git add .
+        git commit -m "Add generated DB files" || echo "No new DB files to commit"
+        git push origin $BRANCH_NAME || true
+
+    - name: Create Pull Request
+      if: env.SKIP_PR != 'true'
+      uses: peter-evans/create-pull-request@v6
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: "Update MAD and DB files"
+        title: "[Bot] Update MAD and DB files"
+        body: |
+          This pull request contains updated MAD files and the generated database files.
+        branch: ${{ env.BRANCH_NAME }}
+        base: main
