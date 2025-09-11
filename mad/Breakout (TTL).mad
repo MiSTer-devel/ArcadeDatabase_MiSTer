@@ -21,6 +21,6 @@
 
 	<players>2 (alternating)</players>
 	<move_inputs></move_inputs>
-	<special_controls>rotary</special_controls>
+	<special_controls>paddle</special_controls>
 	<num_buttons>0</num_buttons>
 </misterarcadedescription>

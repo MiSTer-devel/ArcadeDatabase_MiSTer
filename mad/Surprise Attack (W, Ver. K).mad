@@ -1,18 +1,18 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>karnova</setname>
-	<name>Karnov (US, Rev 5)</name>
-	<region>USA</region>
-	<version>US Rev 5</version>
-	<alternative>yes</alternative>
-	<parent_title>Karnov</parent_title>
-	<platform>Data East Karnov hardware</platform>
-	<series>Karnov</series>
+	<setname>suratk</setname>
+	<name>Surprise Attack (W, Ver. K)</name>
+	<region>World</region>
+	<version>Ver. K</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Konami Surprise Attack hardware</platform>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1987</year>
-	<manufacturer>Data East USA</manufacturer>
+	<year>1990</year>
+	<manufacturer>Konami</manufacturer>
 	<category>Platform - Shooter Scrolling</category>
 
 	<resolution>15kHz</resolution>
@@ -22,5 +22,5 @@
 	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>3</num_buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

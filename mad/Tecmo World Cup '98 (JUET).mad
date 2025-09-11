@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>silkwormp</setname>
-	<name>Silk Worm (Prototype)</name>
+	<setname>twcup98</setname>
+	<name>Tecmo World Cup '98 (JUET)</name>
 	<region>World</region>
-	<version>prototype</version>
-	<alternative>yes</alternative>
-	<parent_title>Silk Worm</parent_title>
-	<platform>Tecmo hardware</platform>
-	<series>Silk Worm</series>
+	<version>980410 V1.000</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Sega ST-V</platform>
+	<series>Tecmo World Cup</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1988</year>
+	<year>1998</year>
 	<manufacturer>Tecmo</manufacturer>
-	<category>Shooter - Misc. Horizontal</category>
+	<category>Sports - Soccer</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
@@ -22,5 +22,5 @@
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>3</num_buttons>
+	<num_buttons>4</num_buttons>
 </misterarcadedescription>

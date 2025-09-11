@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>shanhigw</setname>
+	<name>Shanghai - The Great Wall - Shanghai Triple Threat (JUE)</name>
+	<region>World</region>
+	<version>950623 V1.005</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Sega ST-V</platform>
+	<series>Shanghai</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1995</year>
+	<manufacturer>Sunsoft - Activision</manufacturer>
+	<category>Tabletop - Shanghai</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>4</num_buttons>
+</misterarcadedescription>

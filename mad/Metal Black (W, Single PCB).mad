@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>pipibibsa</setname>
-	<name>Pipi &amp; Bibis - Whoopee!! (Z80, Set 2)</name>
+	<setname>metalba</setname>
+	<name>Metal Black (W, Single PCB)</name>
 	<region>World</region>
-	<version>Z80 sound, set 2</version>
+	<version>Single PCB</version>
 	<alternative>yes</alternative>
-	<parent_title>Pipi &amp; Bibis - Whoopee!!</parent_title>
-	<platform>Toaplan 2</platform>
-	<series>Pipi and Bibis - Whoopee!!</series>
+	<parent_title>Metal Black</parent_title>
+	<platform>Taito F2 System</platform>
+	<series>Gun &amp; Frontier</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1991</year>
-	<manufacturer>Toaplan</manufacturer>
-	<category>Platform - Run Jump [Mature]</category>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<category>Shooter - Flying Horizontal</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
@@ -22,5 +22,5 @@
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>2</num_buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

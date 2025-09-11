@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>vfremix</setname>
+	<name>Virtua Fighter Remix (JUETBKAL)</name>
+	<region>World</region>
+	<version>950428 V1.000</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Sega ST-V</platform>
+	<series>Virtua Fighter</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1995</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Fighter - Versus</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>4</num_buttons>
+</misterarcadedescription>

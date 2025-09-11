@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>desertbrj</setname>
+	<name>Desert Breaker (JP)</name>
+	<region>World</region>
+	<version>FD1094 317-0194</version>
+	<alternative>yes</alternative>
+	<parent_title>Desert Breaker</parent_title>
+	<platform>Sega System 18</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1992</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Shooter - Walking</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip></flip>
+
+	<players>2-3 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>
