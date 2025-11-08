@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>wwallyj</setname>
+	<name>Wally wo Sagase! (JP, Rev B, 2P)</name>
+	<region>Japan</region>
+	<version>FD1094 317-0197B</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Sega System 18</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1992</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Multiplay - Mini-Games</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>Trackball</move_inputs>
+	<special_controls>Trackball</special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

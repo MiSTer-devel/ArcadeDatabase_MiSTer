@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>thundfox</setname>
+	<name>Thunder Fox (W, Rev 1)</name>
+	<region>World</region>
+	<version>Rev 1</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Taito F2 System</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1990</year>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<category>Platform - Fighter Scrolling</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>
