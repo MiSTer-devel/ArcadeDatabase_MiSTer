@@ -1,8 +1,6 @@
 name: Generate DBs
 
 on:
-  schedule:
-    - cron:  '0 12 * * *'
   push:
     branches:
       - main
@@ -17,9 +15,34 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - name: Generate DBs
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+
+    - name: Install Python dependencies
+      run: pip install tqdm==4.67.1
+
+    - name: Generate MAD files from CSV
       run: |
         set -euo pipefail
-        git config --global user.email "theypsilon@gmail.com"
         git config --global user.name "The CI/CD Bot"
-        ./.github/generate_db.py
+        git config --global user.email "theypsilon@gmail.com"
+
+        rm -rf mad
+        mkdir mad
+        python3 csv2mad.py ArcadeDatabase.csv
+        git add -A mad/
+        if git diff --cached --quiet; then
+          echo "No MAD changes detected"
+          echo "MAD_CHANGES=false" >> $GITHUB_ENV
+        else
+          echo "MAD changes detected"
+          git commit -m "Update generated MAD files"
+          git push origin main
+          echo "MAD_CHANGES=true" >> $GITHUB_ENV
+        fi
+
+    - name: Generate DB
+      if: env.MAD_CHANGES == 'true'
+      run: ./.github/generate_db.py
