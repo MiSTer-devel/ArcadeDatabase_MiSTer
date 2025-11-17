@@ -2464,12 +2464,12 @@ gradius,"Gradius (JP, ROM Version)",Japan,Rom Version,no,Nemesis,Konami GX400,Gr
 gwarrior,Galactic Warriors,World,,no,,Konami GX400,,no,no,1985,Konami,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 twinbee,TwinBee (ROM Version),World,Rom Version,no,,Konami GX400,Twin Bee,no,no,1985,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
 twinbeeb,TwinBee (Bubble System),World,Bubble System,no,Bubble System Bios,Konami GX400,Twin Bee,no,no,1985,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
-avengers,"Avengers (US, Rev C)",USA,Rev C,no,,Capcom CPS-0,,no,no,1987,Capcom,Fighter - Vertical,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
-avengersb,Avengers (US),USA,,yes,Avengers,Capcom CPS-0,,no,no,1987,Capcom,Fighter - Vertical,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
-avengersa,"Avengers (US, Rev A)",USA,Rev A,yes,Avengers,Capcom CPS-0,,no,no,1987,Capcom,Fighter - Vertical,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
-avengersc,"Avengers (US, Unk Rev)",USA,Unknown Rev,yes,Avengers,Capcom CPS-0,,no,no,1987,Capcom,Fighter - Vertical,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
-buraikenb,Hissatsu Buraiken (JP) [bl],Japan,bootleg,yes,Avengers,Capcom CPS-0,,no,yes,1987,Capcom,Fighter - Vertical,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
-buraiken,"Hissatsu Buraiken (JP, Rev A)",Japan,Rev A,no,Avengers,Capcom CPS-0,,no,no,1987,Capcom,Fighter - Vertical,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+avengers,"Avengers (US, Rev C)",USA,Rev C,no,,Capcom CPS-0,,no,no,1987,Capcom,Fighter - Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
+avengersb,Avengers (US),USA,,yes,Avengers,Capcom CPS-0,,no,no,1987,Capcom,Fighter - Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
+avengersa,"Avengers (US, Rev A)",USA,Rev A,yes,Avengers,Capcom CPS-0,,no,no,1987,Capcom,Fighter - Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
+avengersc,"Avengers (US, Unk Rev)",USA,Unknown Rev,yes,Avengers,Capcom CPS-0,,no,no,1987,Capcom,Fighter - Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
+buraikenb,Hissatsu Buraiken (JP) [bl],Japan,bootleg,yes,Avengers,Capcom CPS-0,,no,yes,1987,Capcom,Fighter - Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
+buraiken,"Hissatsu Buraiken (JP, Rev A)",Japan,Rev A,no,Avengers,Capcom CPS-0,,no,no,1987,Capcom,Fighter - Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
 pmonster,Gamushara Battle! Puchi Monster (JP),Japan,990519,no,,Capcom CPS-1,,no,no,1999,Capcom,Medal Game - Versus,,15kHz,horizontal,,,1,Buttons,,2
 vulcan,Vulcan Venture (New),World,New,no,,Konami Twin16 hardware,Gradius,no,no,1988,Konami,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,3
 vulcana,Vulcan Venture (Old),World,Old,yes,Vulcan Venture,Konami Twin16 hardware,Gradius,no,no,1988,Konami,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,3
