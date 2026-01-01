@@ -2,11 +2,11 @@
 <misterarcadedescription>
 
 	<setname>tnk3</setname>
-	<name>TNKIII</name>
-	<region>World</region>
+	<name>T.N.K III (US)</name>
+	<region>USA</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>TNKIII</parent_title>
+	<parent_title>T.N.K III</parent_title>
 	<platform>SNK Triple Z80</platform>
 	<series></series>
 	<homebrew>no</homebrew>
