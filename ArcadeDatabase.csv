@@ -1769,8 +1769,8 @@ timescan3,"Time Scanner (JP, S16B, Set 3)",Japan,Set 3,no,Time Scanner,Sega Syst
 timesold,"Time Soldiers (US, Rev 3)",USA,Rev 3,no,Time Soldiers,SNK - Alpha Denshi,Time Soldiers,no,no,1987,Alpha Denshi Co.,Shooter - Walking,,15kHz,vertical (cw),,,2 (simultaneous),8-way,Rotary,2
 timesold1,"Time Soldiers (US, Rev 1)",USA,Rev 1,yes,Time Soldiers,SNK - Alpha Denshi,Time Soldiers,no,no,1987,Alpha Denshi Co.,Shooter - Walking,,15kHz,vertical (cw),,,2 (simultaneous),8-way,Rotary,2
 tiptop,Tip Top,World,,no,Congo Bongo,Sega Zaxxon based,Congo Bongo,no,no,1983,Sega/Gremlin,Platform - Run Jump,,15kHz,vertical (cw),,,2 (alternating),8-way,,1
-tnk3,TNKIII,World,,no,TNKIII,SNK Triple Z80,,no,no,1985,SNK,Shooter - Driving Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),"8-way,Positional",,2
-tnk3j,T.A.N.K (JP),Japan,,yes,TNKIII,SNK Triple Z80,,no,no,1985,SNK,Shooter - Driving Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),"8-way,Positional",,2
+tnk3,T.N.K III (US),USA,,no,T.N.K III,SNK Triple Z80,,no,no,1985,SNK,Shooter - Driving Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),"8-way,Positional",,2
+tnk3j,T.A.N.K (JP),Japan,,yes,T.N.K III,SNK Triple Z80,,no,no,1985,SNK,Shooter - Driving Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),"8-way,Positional",,2
 todruaga,The Tower of Druaga,World,,no,The Tower of Druaga,Namco Super Pac-Man hardware,,no,no,1984,Namco,Maze - Collect,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 todruagao,The Tower of Druaga (Old Ver),World,Old Ver,yes,The Tower of Druaga,Namco Super Pac-Man hardware,,no,no,1984,Namco,Maze - Collect,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 todruagas,The Tower of Druaga (Sidam) [bl],World,Sidam,yes,The Tower of Druaga,Namco Super Pac-Man hardware,,no,yes,1984,Namco,Maze - Collect,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
