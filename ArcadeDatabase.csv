@@ -2643,3 +2643,5 @@ qtorimon,Quiz Torimonochou (JP),Japan,,no,,Taito F2 System,,no,no,1990,Taito Cor
 thundfox,"Thunder Fox (W, Rev 1)",World,Rev 1,no,,Taito F2 System,,no,no,1990,Taito Corporation Japan,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 thundfoxj,"Thunder Fox (JP, Rev 1)",Japan,Rev 1,yes,Thunder Fox,Taito F2 System,,no,no,1990,Taito Corporation,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 thundfoxu,"Thunder Fox (US, Rev 1)",USA,Rev 1,yes,Thunder Fox,Taito F2 System,,no,no,1990,Taito America Corporation,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+naughtyb,Naughty Boy,World,,no,,Jaleco Naughty Boy hardware,,no,no,1982,Jaleco,Maze - Shooter Large,,15kHz,vertical (cw),,,2 (alternating),4-way,,1
+popflamn,Pop Flamer [bl],bootleg,bootleg on Naughty Boy PCB,no,,Jaleco Naughty Boy hardware,,no,yes,1982,Jaleco,Maze - Shooter Small,,15 kHz,vertical (cw),,,2 (alternating),4-way,,1
