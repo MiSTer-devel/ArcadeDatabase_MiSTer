@@ -2,18 +2,18 @@
 <misterarcadedescription>
 
 	<setname>cleansweept</setname>
-	<name>Clean Sweep (TTL)</name>
+	<name>Clean Sweep</name>
 	<region>World</region>
 	<version>TTL</version>
 	<alternative>no</alternative>
 	<parent_title>Galaxian</parent_title>
 	<platform>Namco Galaxian based</platform>
 	<series></series>
-	<homebrew>no</homebrew>
+	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>
-	<year>1974</year>
-	<manufacturer>Ramtek</manufacturer>
-	<category>Shooter - Gallery</category>
+	<year>1982</year>
+	<manufacturer>Marco and Ivan</manufacturer>
+	<category>Maze - Collect</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>vertical (cw)</rotation>
