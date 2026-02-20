@@ -337,7 +337,7 @@ ckongpt2b2,Crazy Kong Part II [bl],World,,yes,Crazy Kong,Donkey Kong hardware,Do
 ckongpt2b,Crazy Kong Part II (Alternative Levels) [bl],World,Alternative Levels,no,Crazy Kong,Donkey Kong hardware,Donkey Kong,no,yes,1981,Falcon,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 ckongpt2j,Crazy Kong Part II (JP),Japan,,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Falcon,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 ckongpt2jeu,Crazy Kong Part II (Jeutal) [bl],World,Jeutal,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,no,yes,1981,Falcon - Jeutel,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-cleansweept,Clean Sweep (TTL),World,TTL,no,Galaxian,Namco Galaxian based,,no,no,1974,Ramtek,Shooter - Gallery,,15kHz,vertical (cw),yes,,1,,rotary,0
+cleansweept,Clean Sweep,World,TTL,no,Galaxian,Namco Galaxian based,,yes,no,1982,Marco and Ivan,Maze - Collect,,15kHz,vertical (cw),yes,,1,,rotary,0
 clowns,Clowns,World,,no,Clowns,Midway 8080,,no,no,1978,Midway,Ball &amp; Paddle - Jump and Touch,,15kHz,horizontal,,,2 (alternating),,positional,0
 clubpacm,Pac-Man Club- Club Lambada (AR),Argentina,,no,Pac-Man,Namco Pac-Man hardware,Pac-Man,no,no,1989,Miky SRL,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 colony7,Colony 7 (Set 1),World,Set 1,no,Colony 7,Taito Unique,,no,no,1981,Taito,Shooter - Command,,15kHz,vertical (ccw),no,,1,8-way,,3
