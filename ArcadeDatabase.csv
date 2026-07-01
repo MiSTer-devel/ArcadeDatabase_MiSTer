@@ -56,6 +56,7 @@ afightere,"Action Fighter (W, S16B, unprotected, analog)",World,FD1089B 317-xxxx
 afighterf,"Action Fighter (W, S16B, 317-unknown, analog)",World,FD1089B 317-xxxx,yes,Action Fighter,Sega System 16,,no,no,1986,Sega,Shooter - Misc. Vertical,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,2
 afighterg,"Action Fighter (W, S16B, 317-unknown)",World,FD1089B 317-unknown,yes,Action Fighter,Sega System 16,,no,no,1986,Sega,Shooter - Misc. Vertical,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,2
 afighterh,"Action Fighter (W, S16B)",World,FD1089A 317-0018,no,Action Fighter,Sega System 16,,no,no,1986,Sega,Shooter - Misc. Vertical,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,2
+agallet,Air Gallet (Europe),Europe,,no,,CAVE 68000,,no,no,1996,Banpresto / Gazelle,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 airdueljm72,"Air Duel (JP, M72 hardware)",Japan,,no,Air Duel,Irem M72,,no,no,1990,Irem,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 airduelm72,"Air Duel (W, M72 hardware)",World,,yes,Air Duel,Irem M72,,no,no,1990,Irem,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 alcon,Alcon [bl],World,,no,Slap Fight,Toaplan Slap Fight hardware,Slap Fight,no,no,1986,Toaplan - Taito,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,2
