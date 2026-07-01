@@ -136,7 +136,7 @@ atetrisc2,"Tetris (Cocktail, Set 2)",World,"Cocktail, Set 2",yes,Tetris,Atari 65
 athena,Athena,Japan,,no,Athena,SNK Triple Z80,,no,no,1986,SNK,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 athenab,Athena [bl],Japan,,yes,Athena,SNK Triple Z80,,no,yes,1986,SNK,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 athenaff,Athena (Flip Fix),Japan,,no,Athena,SNK Triple Z80,,no,no,1986,SNK,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
-atlantis2,Battle of Atlantis,World,,no,Battle of Atlantis,Konami Scramble based,,no,no,1981,Comsoft,Shooter - Misc. Horizontal,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
+atlantis2,Battle of Atlantis,World,,no,Battle of Atlantis,Konami Scramble based,,no,no,1981,Comsoft,Shooter - Misc. Horizontal,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 atomicp,Atomic Point (KR),Korea,,no,Atomic Point,Sega System 16,,no,no,1990,Philko,Puzzle - Drop,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,1
 attackfc,Attack Force,World,,no,Attack Force,Midway 8080,,no,no,1979,Electronic Games Systems,Shooter - Gallery,,15kHz,horizontal,,,1,2-way horizontal,,1
 aurail,"Aurail (US, Set 3)",USA,"Set 3, unprotected",yes,Aurail,Sega System 16,,no,no,1990,Sega,Shooter - Driving Vertical,,15kHz,horizontal,n-a,,2 (alternating),8-way,n-a,3
@@ -977,7 +977,7 @@ mikie,Mikie,World,,no,,Konami 6809 based,,no,no,1984,Konami,Maze - Fighter,,15kH
 mikiehs,Mikie (High School Graffiti),World,,yes,,Konami 6809 based,,no,no,1984,Konami,Maze - Fighter,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,2
 mikiej,Shinnyuushain Tooru-kun,World,,yes,,Konami 6809 based,,no,no,1984,Konami,Maze - Fighter,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,2
 mikiek,Shin-ip Sawon - Seok Dol-i,World,,yes,,Konami 6809 based,,no,no,1984,Konami,Maze - Fighter,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,2
-mimonscr,Mighty Monkey (Scamble Hardware),World,Scramble Hardware,no,,Konami Scramble based,,no,yes,1982,,Shooter - Flying Horizontal,,15kHz,vertical (cw),,,2 (alternating),8-way,,2
+mimonscr,Mighty Monkey (Scramble Hardware) [bl],World,Scramble Hardware,no,,Konami Scramble based,,no,yes,1982,,Shooter - Flying Horizontal,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 minefld,Minefield,World,,no,,Konami Scramble based,,no,no,1983,Stern,Shooter - Driving Horizontal,,15kHz,vertical (cw),yes,,1,8-way,twin stick,4
 missile,Missile Command (Rev 3),USA,,no,Missile Command,Atari Missile Command,,no,no,1980,Atari,Shooter - Command,,15kHz,horizontal,,,2 (alternating),Trackball,,3
 missile1,Missile Command (Rev 1),USA,,yes,Missile Command,Atari Missile Command,,no,no,1980,Atari,Shooter - Command,,15kHz,horizontal,,,2 (alternating),Trackball,,3
