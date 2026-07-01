@@ -2410,12 +2410,12 @@ xmenj,"X-Men (4P, Ver JBA)",Japan,Ver. JBA,yes,X-Men,Konami X-Men hardware,X-Men
 xmenja,"X-Men (4P, Ver JEA)",Japan,Ver. JEA,yes,X-Men,Konami X-Men hardware,X-Men,no,no,1992,Konami,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,3
 xmenu,"X-Men (4P, Ver UBB)",USA,Ver. UBB,no,X-Men,Konami X-Men hardware,X-Men,no,no,1992,Konami,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,3
 xmenua,"X-Men (4P, Ver UEB)",USA,Ver. UEB,yes,X-Men,Konami X-Men hardware,X-Men,no,no,1992,Konami,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,3
-circusc,"Circus Charlie (Level Select, Set 1)",World,Level Select Set 1,no,,Konami Unique,,no,no,1984,Konami,"Platform - Run, Jump &amp; Scrolling",,15kHz,vertical (cw),,,2 (alternating),2-way,,1
-circuscc,Circus Charlie (Centuri),World,Centuri,yes,Circus Charlie,Konami Unique,,no,no,1984,Konami,"Platform - Run, Jump &amp; Scrolling",,15kHz,vertical (cw),,,2 (alternating),2-way,,1
-circusce,"Circus Charlie (Centuri, Earlier)",World,"Centuri, Earlier",yes,Circus Charlie,Konami Unique,,no,no,1984,Konami,"Platform - Run, Jump &amp; Scrolling",,15kHz,vertical (cw),,,2 (alternating),2-way,,1
-circusc2,"Circus Charlie (Level Select, Set 2)",World,"Level Select, Set 2",yes,Circus Charlie,Konami Unique,,no,no,1984,Konami,"Platform - Run, Jump &amp; Scrolling",,15kHz,vertical (cw),,,2 (alternating),2-way,,1
-circusc3,"Circus Charlie (Level Select, Set 3)",World,"Level Select, Set 3",yes,Circus Charlie,Konami Unique,,no,no,1984,Konami,"Platform - Run, Jump &amp; Scrolling",,15kHz,vertical (cw),,,2 (alternating),2-way,,1
-circusc4,Circus Charlie (No Level Select),World,No Level Select,yes,Circus Charlie,Konami Unique,,no,no,1984,Konami,"Platform - Run, Jump &amp; Scrolling",,15kHz,vertical (cw),,,2 (alternating),2-way,,1
+circusc,"Circus Charlie (Level Select, Set 1)",World,Level Select Set 1,no,,Konami Unique,,no,no,1984,Konami,"Platform - Run, Jump &amp; Scrolling",,15kHz,vertical (cw),yes,,2 (alternating),2-way,,1
+circuscc,Circus Charlie (Centuri),World,Centuri,yes,Circus Charlie,Konami Unique,,no,no,1984,Konami,"Platform - Run, Jump &amp; Scrolling",,15kHz,vertical (cw),yes,,2 (alternating),2-way,,1
+circusce,"Circus Charlie (Centuri, Earlier)",World,"Centuri, Earlier",yes,Circus Charlie,Konami Unique,,no,no,1984,Konami,"Platform - Run, Jump &amp; Scrolling",,15kHz,vertical (cw),yes,,2 (alternating),2-way,,1
+circusc2,"Circus Charlie (Level Select, Set 2)",World,"Level Select, Set 2",yes,Circus Charlie,Konami Unique,,no,no,1984,Konami,"Platform - Run, Jump &amp; Scrolling",,15kHz,vertical (cw),yes,,2 (alternating),2-way,,1
+circusc3,"Circus Charlie (Level Select, Set 3)",World,"Level Select, Set 3",yes,Circus Charlie,Konami Unique,,no,no,1984,Konami,"Platform - Run, Jump &amp; Scrolling",,15kHz,vertical (cw),yes,,2 (alternating),2-way,,1
+circusc4,Circus Charlie (No Level Select),World,No Level Select,yes,Circus Charlie,Konami Unique,,no,no,1984,Konami,"Platform - Run, Jump &amp; Scrolling",,15kHz,vertical (cw),yes,,2 (alternating),2-way,,1
 wwfsstar,WWF Superstars (EU),Europe,,yes,,Technos Unique,WWF Superstars,no,no,1989,Technos Japan,Sports - Wrestling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 wwfsstarj,WWF Superstars (JP),Japan,,no,WWF Superstars,Technos Unique,WWF Superstars,no,no,1989,Technos Japan,Sports - Wrestling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 wwfsstaru4,"WWF Superstars (US, Rev 4)",USA,Rev 4,yes,WWF Superstars,Technos Unique,WWF Superstars,no,no,1989,Technos Japan,Sports - Wrestling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
