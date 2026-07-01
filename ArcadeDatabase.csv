@@ -2554,9 +2554,9 @@ lghostj,Laser Ghost (JP),Japan,FD1094 317-0164,yes,Laser Ghost,Sega System 18,,n
 lghostu,Laser Ghost (US),USA,FD1094 317-0165,yes,Laser Ghost,Sega System 18,,no,no,1990,Sega,Shooter - Gun,,15kHz,horizontal,,,2-3 (simultaneous),lightgun,lightgun,2
 desertbr,Desert Breaker (W),World,FD1094 317-0196,no,,Sega System 18,,no,no,1992,Sega,Shooter - Walking,,15kHz,vertical (ccw),,,2-3 (simultaneous),8-way,,3
 desertbrj,Desert Breaker (JP),World,FD1094 317-0194,yes,Desert Breaker,Sega System 18,,no,no,1992,Sega,Shooter - Walking,,15kHz,vertical (ccw),,,2-3 (simultaneous),8-way,,3
-ajax,Ajax,World,,no,,Konami Ajax hardware,,no,no,1987,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (alternating),8-way,,3
-ajaxj,Ajax (JP),Japan,,yes,Ajax,Konami Ajax hardware,,no,no,1987,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (alternating),8-way,,3
-typhoon,Typhoon,World,,yes,Ajax,Konami Ajax hardware,,no,no,1987,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (alternating),8-way,,3
+ajax,Ajax,World,,no,,Konami Ajax hardware,,no,no,1987,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,3
+ajaxj,Ajax (JP),Japan,,yes,Ajax,Konami Ajax hardware,,no,no,1987,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,3
+typhoon,Typhoon,World,,yes,Ajax,Konami Ajax hardware,,no,no,1987,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,3
 starforc,Star Force,World,,no,,Tecmo Senjyo hardware,Star Force,no,no,1984,Tehkan,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (alternating),8-way,,1
 baluba,Baluba-louk no Densetsu (JP),Japan,,no,,Tecmo Senjyo hardware,,no,no,1986,"Able Corp, Ltd",Platform - Run Jump,,15kHz,vertical (cw),,,2 (alternating),8-way,,1
 megaforc,Mega Force (W),World,,no,Star Force,Tecmo Senjyo hardware,Star Force,no,no,1984,Tehkan,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (alternating),8-way,,1
