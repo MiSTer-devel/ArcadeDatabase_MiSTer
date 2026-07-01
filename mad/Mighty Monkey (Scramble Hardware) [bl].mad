@@ -2,7 +2,7 @@
 <misterarcadedescription>
 
 	<setname>mimonscr</setname>
-	<name>Mighty Monkey (Scamble Hardware)</name>
+	<name>Mighty Monkey (Scramble Hardware) [bl]</name>
 	<region>World</region>
 	<version>Scramble Hardware</version>
 	<alternative>no</alternative>
@@ -17,7 +17,7 @@
 
 	<resolution>15kHz</resolution>
 	<rotation>vertical (cw)</rotation>
-	<flip></flip>
+	<flip>yes</flip>
 
 	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>
