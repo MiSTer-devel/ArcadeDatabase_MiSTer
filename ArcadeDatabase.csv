@@ -850,8 +850,8 @@ joustwr,Joust (White-Red Label),World,White-Red Label,yes,Joust,Williams 1st Gen
 jumpshot,Jump Shot,World,,no,Jump Shot,Namco Pac-Man hardware,,no,no,1985,Bally - Midway,Sports - Basketball,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,1
 jumpshotp,Jump Shot (Engineering Sample),World,Engineering Sample,yes,Jump Shot,Namco Pac-Man hardware,,no,no,1985,Bally - Midway,Sports - Basketball,,15kHz,vertical (cw),no,,2 (simultaneous),8-way,,1
 jyangoku,"Jyangokushi- Haoh no Saihai (JP, 990527)",Japan,990527,no,,Capcom CPS-2,,no,no,1999,Capcom,Tabletop - Mahjong,,15kHz,horizontal,n-a,,1,8-way,n-a,2
-kageki,Kageki (W),World,,no,Kageki,Taito The NewZealand Story hardware,Kageki,no,no,1988,Taito Corporation Japan,Fighter - Versus,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
-kagekij,Kageki (JP),Japan,,yes,Kageki,Taito The NewZealand Story hardware,Kageki,no,no,1988,Taito Corporation Japan,Fighter - Versus,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
+kageki,Kageki (W),World,,no,Kageki,Taito The NewZealand Story hardware,Kageki,no,no,1988,Taito Corporation Japan,Fighter - Versus,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+kagekij,Kageki (JP),Japan,,yes,Kageki,Taito The NewZealand Story hardware,Kageki,no,no,1988,Taito Corporation Japan,Fighter - Versus,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 kaiteids,Kaitei Daisensou (JP),Japan,,yes,In The Hunt,Irem M92,In The Hunt,no,no,1993,Irem,Shooter - Misc. Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 kamakazi3,Kamakazi III (Superg) [hb],World,Superg,yes,Scramble,Konami Scramble based,,yes,no,1979,hack,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 kamikazesp,"Kamikaze (Scramble, ES) [bl]",Spain,"Scramble, Spanish",yes,Scramble,Konami Scramble based,,no,yes,1981,Konami,Shooter - Flying Horizontal,,15kHz,vertical (cw),no,,2 (alternating),4-way,,0
@@ -2056,11 +2056,11 @@ arknoid2b,Arkanoid - Revenge of DOH (JP) [bl],Japan,bootleg,yes,Arkanoid,Taito T
 arknoid2j,Arkanoid - Revenge of DOH (JP),Japan,,yes,Arkanoid,Taito The NewZealand Story hardware,Arkanoid,no,no,1987,Taito Corporation,Ball &amp; Paddle - Breakout,,15kHz,vertical (ccw),yes,,2 (alternating),dial,,2
 arknoid2u,Arkanoid - Revenge of DOH (US),USA,,yes,Arkanoid,Taito The NewZealand Story hardware,Arkanoid,no,no,1987,Taito America Corporation (Romstar license),Ball &amp; Paddle - Breakout,,15kHz,vertical (ccw),yes,,2 (alternating),dial,,2
 insectx,Insector X [bl],World,,yes,Insector X,Taito The NewZealand Story hardware,Insector X,no,ys,1989,bootleg (Nagoya Kaihatsu),Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
-kagekih,Kageki (hack),World,hack,yes,Kageki,Taito The NewZealand Story hardware,Kageki,no,no,1988,hack,Fighter - Versus,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
-kagekiu,Kageki (US),USA,,yes,Kageki,Taito The NewZealand Story hardware,Kageki,no,no,1988,Kaneko - Taito America Corporation (Romstar license),Fighter - Versus,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
-drtoppel,Dr. Toppel's Adventure (W),World,,no,,Taito The NewZealand Story hardware,Dr. Toppel's Adventure,no,no,1987,Kaneko - Taito Corporation Japan,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (alternating),8-way,,2
-drtoppelu,Dr. Toppel's Adventure (US),USA,,yes,Dr. Toppel's Adventure,Taito The NewZealand Story hardware,Dr. Toppel's Adventure,no,no,1987,Kaneko - Taito Corporation Japan,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (alternating),8-way,,2
-drtoppelj,Dr. Toppel's Tankentai (JP),Japan,,yes,Dr. Toppel's Adventure,Taito The NewZealand Story hardware,Dr. Toppel's Adventure,no,no,1987,Kaneko - Taito Corporation Japan,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (alternating),8-way,,2
+kagekih,Kageki (hack),World,hack,yes,Kageki,Taito The NewZealand Story hardware,Kageki,no,no,1988,hack,Fighter - Versus,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+kagekiu,Kageki (US),USA,,yes,Kageki,Taito The NewZealand Story hardware,Kageki,no,no,1988,Kaneko - Taito America Corporation (Romstar license),Fighter - Versus,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+drtoppel,Dr. Toppel's Adventure (W),World,,no,,Taito The NewZealand Story hardware,Dr. Toppel's Adventure,no,no,1987,Kaneko - Taito Corporation Japan,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
+drtoppelu,Dr. Toppel's Adventure (US),USA,,yes,Dr. Toppel's Adventure,Taito The NewZealand Story hardware,Dr. Toppel's Adventure,no,no,1987,Kaneko - Taito Corporation Japan,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
+drtoppelj,Dr. Toppel's Tankentai (JP),Japan,,yes,Dr. Toppel's Adventure,Taito The NewZealand Story hardware,Dr. Toppel's Adventure,no,no,1987,Kaneko - Taito Corporation Japan,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 chukatai,Chuka Taisen (W),World,(P0-028-A PCB),no,Chuka Taisen,Taito The NewZealand Story hardware,Chuka Taisen,no,no,1988,Taito Corporation Japan,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
 plumppop,Plump Pop (JP),Japan,,no,Plump Pop,Taito The NewZealand Story hardware,Plump Pop,no,no,1987,Taito Corporation,Ball &amp; Paddle - Jump and Touch,,15kHz,horizontal,,,2 (simultaneous),dial,,1
 mpumpkin,Magical Pumpkin - Puroland de Daibouken (JP),Japan,960712,no,Magical Pumpkin - Puroland de Daibouken,Capcom CPS-1,Hello Kitty,no,no,1996,Capcom,Driving - Race,,15kHz,horizontal,,,1,positional,wheel,3
