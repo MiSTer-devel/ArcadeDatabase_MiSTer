@@ -357,6 +357,7 @@ commandoj,Senjou no Ookami,Japan,,yes,Commando,Capcom CPS-0,Commando,no,no,1985,
 commandou,"Commando (US, Set 1)",USA,Set 1,yes,Commando,Capcom CPS-0,Commando,no,no,1985,Capcom,Shooter - Walking,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 commandou2,"Commando (US, Set 2)",USA,Set 2,yes,Commando,Capcom CPS-0,Commando,no,no,1985,Capcom,Shooter - Walking,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 comotion,CoMotion,World,,no,,Sega Blockade hardware,,no,no,1976,Gremlin,Maze - Surround,,15kHz,horizontal,,,4 (simultaneous),,,
+complexx,Complex X,World,,no,,Taito Qix Hardware,,no,no,1984,Taito America Corporation,Maze,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,1
 congo,Congo Bongo,World,,no,Congo Bongo,Sega Zaxxon based,Congo Bongo,no,no,1983,Sega/Gremlin,Platform - Run Jump,,15kHz,vertical (cw),,,2 (alternating),8-way,,1
 contra,"Contra (US-AS, Set 1)",USA,Set 1,yes,Contra,Konami Contra based,Contra,no,no,1987,Konami,Platform - Shooter Scrolling,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 contra1,"Contra (US-AS, Set 2)",USA - Asia,Set 2,yes,Contra,Konami Contra based,Contra,no,no,1987,Konami,Platform - Shooter Scrolling,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
@@ -1306,6 +1307,8 @@ myqbert,Mello Yello Q'bert,World,,yes,,Konami Unique,Q'bert,no,no,1982,Gottlieb,
 qberttst,Q'bert (Early Test Version),World,Early Test Version,yes,,Konami Unique,Q'bert,no,no,1982,Gottlieb,Platform - Run Jump,,15kHz,vertical (ccw),yes,,2 (alternating),4-way diagonal,,0
 qbertqub,Q'bert Qubes,World,,no,,Konami Unique,Q'bert,no,no,1982,Gottlieb,Platform - Run Jump,,15kHz,vertical (ccw),,,2 (alternating),4-way diagonal,,0
 qbertj,Q'bert (JP),Japan,,yes,,Konami Unique,Q'bert,no,no,1982,Gottlieb,Platform - Run Jump,,15kHz,vertical (ccw),yes,,2 (alternating),4-way diagonal,,0
+qix,Qix (set 1),World,,no,,Taito Qix Hardware,Qix,no,no,1981,Taito America Corporation,Maze,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,2
+qix2,Qix II (Tournament),World,,no,,Taito Qix Hardware,Qix,no,no,1981,Taito America Corporation,Maze,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,2
 qndream,"Quiz Nanairo Dreams- Nijiirochou no Kiseki (JP, 960826)",Japan,960826,no,,Capcom CPS-2,Puzz Loop,no,no,1996,Capcom,Quiz - Questions in Japanese,,15kHz,horizontal,n-a,,2 (simultaneous),4-way,n-a,4
 qtono2j,"Quiz Tonosama no Yabou 2- Zenkoku-ban (JP, 950123)",Japan,950123,no,,Capcom CPS-1,,no,no,1995,Capcom,Quiz - Questions in Japanese,,15kHz,horizontal,n-a,,2 (simultaneous),4-way,,1
 quartet,"Quatret (W, 4 Players) Rev A",World,"Rev A, 4 Players",no,Quatret,Sega System 16,Quatret,no,no,1986,Sega,Maze - Shooter Large,,15kHz,horizontal,no,,4 (simultaneous),8-way,,2
@@ -1426,6 +1429,7 @@ scrampt,"Scramble (ES, Petaco, S.A.) [bl]",Spain,"Spanish, Petaco, S.A.",yes,Scr
 sdi,"SDI- Strategic Defense Initiative (JP, S16A, New Ver.)",Japan,"S16A, FD1089B 317-0027",no,SDI,Sega System 16,,no,no,1987,Sega,Shooter - Command,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,1
 sdib,"SDI- Strategic Defense Initiative (W, S16B)",World,"S16B, FD1089A 317-0028",no,SDI,Sega System 16,,no,no,1987,Sega,Shooter - Command,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,1
 sdia,"SDI- Strategic Defense Initiative (JP, S16A, Old Ver.)",Japan,"S16A,Old Ver",yes,SDI,Sega System 16,,no,no,1987,Sega,Shooter - Command,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,1
+sdungeon,Space Dungeon,World,,no,,Taito Qix Hardware,,no,no,1981,Taito America Corporation,Shooter,,15kHz,vertical (ccw),no,,2 (alternating),8-way,twin stick,0
 searchar,SAR - Search And Rescue (W),World,,no,SAR - Search And Rescue,SNK 68000,SAR - Search And Rescue,no,no,1989,SNK,Shooter - Walking,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
 searcharj,"SAR - Search And Rescue (JP, version 3)",Japan,,yes,SAR - Search And Rescue,SNK 68000,SAR - Search And Rescue,no,no,1989,SNK,Shooter - Walking,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
 searcharu,SAR - Search And Rescue (US),USA,,yes,SAR - Search And Rescue,SNK 68000,SAR - Search And Rescue,no,no,1989,SNK,Shooter - Walking,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
