@@ -279,6 +279,7 @@ buglaxn,Galaxian (Bug Sprites) [hb],World,Bug Sprites,yes,Galaxian,Namco Galaxia
 bullet,"Bullet (W, 317-0041)",World,FD1094 317-0041,no,Bullet,Sega System 16,,no,no,1987,Sega,Shooter - Walking,,15kHz,horizontal,n-a,,3 (simultaneous),8-way,,4
 bullfgt,Bull Fight (315-5056),World,315-5056,no,Bull Fight,Sega System 1,,no,no,1984,Sega,Sports - Bull Fighting,,15kHz,horizontal,,,2 (alternating),8-way,,2
 bwidow,Black Widow,World,,no,Black Widow,Atari Vector,,no,no,1982,Atari,Shooter - Field,,31kHz,horizontal,,,1,8-way,twin stick,4
+cadanglr,Angler Dangler,USA,,no,Angler Dangler,Data East DECO Cassette,,no,no,1982,Data East,Sports - Fishing,,15kHz,vertical (ccw),,,2 (alternating),,,2
 calipso,Calipso,World,,no,Calipso,Konami Scramble based,,no,no,1982,Tago Electronics,Maze - Shooter Small,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,1
 candory,Candory (Ponpoko with Mario) [bl],World,Ponpoko with Mario,yes,Ponpoko,Namco Pac-Man hardware,Mario,no,yes,1982,,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,1
 canyon,Canyon Bomber,World,,no,Canyon Bomber,Atari 6502,,no,no,1977,Atari,Shooter - Gallery,,15kHz,horizontal,,,2 (simultaneous),,,1
@@ -290,6 +291,7 @@ captcommr1,"Captain Commando (W, 911014)",World,911014,yes,Captain Commando,Capc
 captcommu,"Captain Commando (US, 920928)",USA,920928,yes,Captain Commando,Capcom CPS-1,,no,no,1991,Capcom,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
 caractn,Car Action (Set 1),World,Set 1,yes,Burning Rubber,Data East Burger Time hardware,,no,no,1982,,Driving - Race,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
 caractn2,Car Action (Set 2),World,Set 2,yes,Burning Rubber,Data East Burger Time hardware,,no,no,1982,,Driving - Race,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
+castfant,Astro Fantasia,USA,,no,Astro Fantasia,Data East DECO Cassette,,no,no,1981,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
 catacomb,Catacomb,World,,no,Catacomb,Namco Galaga based,,no,no,1982,MTM Games,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 caterpil,Caterpillar [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Phi,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 cavenger,Cosmic Avenger,World,,no,,Universal Lady Bug,,no,no,1981,Universal,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
@@ -298,11 +300,16 @@ cawingj,"U.S. Navy (JP, 901012)",Japan,901012,yes,Carrier Air Wing,Capcom CPS-1,
 cawingr1,"Carrier Air Wing (W, 901990)",World,901990,yes,Carrier Air Wing,Capcom CPS-1,U.N. Squadron,no,no,1990,Capcom,Shooter - Flying Horizontal,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
 cawingu,"Carrier Air Wing (US, 901130)",USA,901130,yes,Carrier Air Wing,Capcom CPS-1,U.N. Squadron,no,no,1990,Capcom,Shooter - Flying Horizontal,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
 cawingur1,"Carrier Air Wing (US, 901012)",USA,901012,yes,Carrier Air Wing,Capcom CPS-1,U.N. Squadron,no,no,1990,Capcom,Shooter - Flying Horizontal,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
+cbdash,Boulder Dash,USA,,no,Boulder Dash,Data East DECO Cassette,,no,no,1985,Data East,Maze - Digging,,15kHz,vertical (ccw),,,2 (alternating),4-way,,2
+cbnj,Bump n Jump,USA,,no,Bump n Jump,Data East DECO Cassette,,no,no,1982,Data East,Driving - Race,,15kHz,vertical (ccw),,,2 (alternating),8-way,,1
+cbtime,Burger Time,USA,,no,Burger Time,Data East DECO Cassette,,no,no,1983,Data East,Platform - Run Jump,,15kHz,vertical (ccw),,,2 (alternating),4-way,,1
+cburnrub,Burnin Rubber (set 1),USA,,no,Burnin Rubber,Data East DECO Cassette,,no,no,1982,Data East,Driving - Race,,15kHz,vertical (ccw),,,2 (alternating),8-way,,1
 ccastles,Crystal Castles,World,,no,Crystal Castles,Atari 6502,Crystal Castles,no,no,1983,Atari,Maze - Collect,,15kHz,horizontal,,,2 (alternating),8-way,,3
 cclimber,Crazy Climber,World,,no,Crazy Climber,Taito Licensed,Crazy Climber,no,no,1980,Nichibutsu,Climbing - Building,,15kHz,horizontal,,,2 (alternating),8-way,twin stick,4
 cclimbera,"Crazy Climber (US, Set 2)",USA,Set 2,yes,Crazy Climber,Taito Licensed,Crazy Climber,no,no,1980,Nichibutsu,Climbing - Building,,15kHz,horizontal,,,2 (alternating),8-way,twin stick,4
 cclimbr2,Crazy Climber 2 (JP),Japan,,no,Crazy Climber 2,Nichibutsu M68000 (Armed F),,no,no,1988,Nichibutsu,Climbing - Building,,15kHz,horizontal,,,2 (alternating),2-way,,4
 cclimbr2a,"Crazy Climber 2 (JP, Harder)",Japan,,yes,Crazy Climber 2,Nichibutsu M68000 (Armed F),,no,no,1988,Nichibutsu,Climbing - Building,,15kHz,horizontal,,,2 (alternating),2-way,,4
+cdsteljn,DS Telejan,Japan,,no,DS Telejan,Data East DECO Cassette,,no,no,1981,Data East,Tabletop - Mahjong,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cemescry,Cemescary [hb],World,,yes,Centipede,Atari Centipede based,,yes,no,1980,Atari,Shooter - Gallery,,15kHz,vertical (ccw),no,,1,,trackball,1
 cencourt,"Center Court (W, 4 Players) Prototype",World,"4 Players, Prototype",yes,Passing Shot,Sega System 16,,no,no,1988,Sega,Sports - Tennis,,15kHz,vertical (ccw),no,,2 (simultaneous),8-way,,4
 centipdd,Centipede Dux [hb],World,,yes,Centipede,Atari Centipede based,Centipede,yes,no,1989,Atari,Shooter - Gallery,,15kHz,vertical (ccw),no,,1,,trackball,1
@@ -310,6 +317,11 @@ centiped,Centipede (Rev 4),World,Rev 4,no,Centipede,Atari Centipede based,Centip
 centiped1,Centipede (Rev 1),World,Rev 1,yes,Centipede,Atari Centipede based,Centipede,no,no,1980,Atari,Shooter - Gallery,,15kHz,vertical (ccw),yes,,1,,trackball,1
 centiped2,Centipede (Rev 2),World,Rev 2,yes,Centipede,Atari Centipede based,Centipede,no,no,1980,Atari,Shooter - Gallery,,15kHz,vertical (ccw),yes,,1,,trackball,1
 centiped3,Centipede (Rev 3),World,Rev 3,yes,Centipede,Atari Centipede based,Centipede,no,no,1980,Atari,Shooter - Gallery,,15kHz,vertical (ccw),yes,,1,,trackball,1
+cfboy0a1,Flash Boy,Japan,,no,Flash Boy,Data East DECO Cassette,,no,no,1981,Data East,Platform - Fighter Scrolling,,15kHz,vertical (ccw),,,2 (alternating),,,2
+cfghtice,Fighting Ice Hockey,USA,,no,Fighting Ice Hockey,Data East DECO Cassette,,no,no,1984,Data East,Sports - Hockey,,15kHz,vertical (ccw),,,2 (alternating),,,2
+cflyball,Flying Ball,USA,,no,Flying Ball,Data East DECO Cassette,,no,no,1985,Data East,,,15kHz,vertical (ccw),,,2 (alternating),,,2
+cgraplop,Cluster Buster,USA,,no,Cluster Buster,Data East DECO Cassette,,no,no,1983,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
+chamburger,Hamburger (Japan),Japan,,no,Hamburger,Data East DECO Cassette,,no,no,1982,Data East,Platform - Run Jump,,15kHz,vertical (ccw),,,2 (alternating),4-way,,1
 chameleo,Chameleon,Japan,,no,Chameleon,Jaleco Unique,,no,no,1983,Jaleco,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),4-way,,1
 chelnov,Chelnov - Atomic Runner (W),World,,no,Chelnov - Atomic Runner,Data East Karnov hardware,Chelnov,no,no,1988,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,3
 chelnovj,Chelnov - Atomic Runner (JP),Japan,,yes,Chelnov - Atomic Runner,Data East Karnov hardware,Chelnov,no,no,1988,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,3
@@ -325,6 +337,7 @@ chtpac3d,Pac-Man 3D (Cheat) [hb],World,Cheat,yes,Pac-Man,Namco Pac-Man hardware,
 chtpman2,New Puck 2 (Cheat) [hb],World,Cheat,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco - Midway,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 chtpop,"Pac-Man (Popeye, Cheat) [hb]",World,"Popeye, Cheat",yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco - Midway,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 chtpuck,New Puck X (Cheat) [hb],World,Cheat,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Deluxe,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+chwy,Highway Chase,USA,,no,Highway Chase,Data East DECO Cassette,,no,no,1980,Data East,Shooter - Driving Vertical,,15kHz,vertical (ccw),,,2 (alternating),,,2
 ckong,Crazy Kong (Kyoei),World,Kyoei,no,,Donkey Kong hardware,Donkey Kong,no,no,1981,Falcon - Kyoei,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 ckong3a,Crazy Kong Part II (Set 2) [hb],World,Set 2,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Falcon,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 ckonga2,Crazy Kong Part II (Set 1) [hb],World,Set 1,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Falcon,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
@@ -338,9 +351,17 @@ ckongpt2b2,Crazy Kong Part II [bl],World,,yes,Crazy Kong,Donkey Kong hardware,Do
 ckongpt2b,Crazy Kong Part II (Alternative Levels) [bl],World,Alternative Levels,no,Crazy Kong,Donkey Kong hardware,Donkey Kong,no,yes,1981,Falcon,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 ckongpt2j,Crazy Kong Part II (JP),Japan,,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Falcon,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 ckongpt2jeu,Crazy Kong Part II (Jeutal) [bl],World,Jeutal,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,no,yes,1981,Falcon - Jeutel,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
+clapapa2,Rootin Tootin,USA,,no,Rootin Tootin,Data East DECO Cassette,,no,no,1983,Data East,Maze - Collect,,15kHz,vertical (ccw),,,2 (alternating),4-way,,2
 cleansweept,Clean Sweep,World,TTL,no,Galaxian,Namco Galaxian based,,yes,no,1982,Marco and Ivan,Maze - Collect,,15kHz,vertical (cw),yes,,1,,rotary,0
+clocknch,Lock'n'Chase,USA,,no,Lock'n'Chase,Data East DECO Cassette,,no,no,1981,Data East,Maze - Collect,,15kHz,vertical (ccw),,,2 (alternating),4-way,,2
 clowns,Clowns,World,,no,Clowns,Midway 8080,,no,no,1978,Midway,Ball &amp; Paddle - Jump and Touch,,15kHz,horizontal,,,2 (alternating),,positional,0
 clubpacm,Pac-Man Club- Club Lambada (AR),Argentina,,no,Pac-Man,Namco Pac-Man hardware,Pac-Man,no,no,1989,Miky SRL,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+cluckypo,Lucky Poker,USA,,no,Lucky Poker,Data East DECO Cassette,,no,no,1981,Data East,Casino - Cards,,15kHz,vertical (ccw),,,2 (alternating),,,2
+cmanhat,Manhattan (Japan),Japan,,no,Manhattan,Data East DECO Cassette,,no,no,1981,Data East,,,15kHz,vertical (ccw),,,2 (alternating),,,2
+cmissnx,Mission-X,USA,,no,Mission-X,Data East DECO Cassette,,no,no,1982,Data East,Shooter - Flying Horizontal,,15kHz,vertical (ccw),,,2 (alternating),,,2
+cnebula,Nebula,UK,,no,Nebula,Data East DECO Cassette,,no,no,1981,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
+cnightst,Night Star (set 1),USA,,no,Night Star,Data East DECO Cassette,,no,no,1983,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
+cocean6b,Ocean to Ocean (US),USA,,no,Ocean to Ocean,Data East DECO Cassette,,no,no,1981,Data East,Casino - Cards,,15kHz,vertical (ccw),,,2 (alternating),,,2
 colony7,Colony 7 (Set 1),World,Set 1,no,Colony 7,Taito Unique,,no,no,1981,Taito,Shooter - Command,,15kHz,vertical (ccw),no,,1,8-way,,3
 colony7a,Colony 7 (Set 2),World,Set 2,yes,Colony 7,Taito Unique,,no,no,1981,Taito,Shooter - Command,,15kHz,vertical (ccw),no,,1,8-way,,3
 combatsc,Combat School (Joystick),World,,no,,Konami 6309 based,,no,no,1988,Konami,Sports - Track &amp; Field,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
@@ -366,6 +387,7 @@ contrabj1,"Contra (JP, Set 2) [bl]",Japan,"Japan, Set 2",yes,Contra,Konami Contr
 contrae,"Contra (US-AS, Set 3)",USA - Asia,Set 3,no,Contra,Konami Contra based,Contra,no,no,1987,Konami,Platform - Shooter Scrolling,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 contraj,"Contra (JP, Set 1)",Japan,Set 1,yes,Contra,Konami Contra based,Contra,no,no,1987,Konami,Platform - Shooter Scrolling,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 contraj1,"Contra (JP, Set 2)",Japan,Set 2,yes,Contra,Konami Contra based,Contra,no,no,1987,Konami,Platform - Shooter Scrolling,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+coozumou,Oozumou - Grand Sumo,Japan,,no,Oozumou - Grand Sumo,Data East DECO Cassette,,no,no,1984,Data East,Sports - Wrestling,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cosmica,Cosmic Alien,World,,no,,Universal Cosmic hardware,,no,no,1981,Universal,Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),2-way,,1
 cosmo,Cosmo,World,,no,invaders,Midway 8080,,no,no,1979,TDS &amp; MINTS,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,2
 cotton,"Cotton (W, Set 4)",World,Set 4,no,Cotton,Sega System 16,Cotton,no,no,1991,Sega,Shooter - Flying Horizontal,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
@@ -373,6 +395,12 @@ cottonj,"Cotton (JP, Set 2, Rev B)",Japan,"Set 2, Rev B",yes,Cotton,Sega System 
 cottonja,"Cotton (JP, Set 1, Rev A)",Japan,"Set 1, Rev A",yes,Cotton,Sega System 16,Cotton,no,no,1991,Sega,Shooter - Flying Horizontal,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
 cottonu,"Cotton (US, Set 3)",USA,Set 3,yes,Cotton,Sega System 16,Cotton,no,no,1991,Sega,Shooter - Flying Horizontal,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
 countryc,Country Club,World,,no,Country Club,SNK Triple Z80,,no,no,1988,SNK,Sports - Golf,,15kHz,horizontal,,,2 (alternating),8-way,,2
+cppicf,Ice Cream Factory (set 1),USA,,no,Ice Cream Factory,Data East DECO Cassette,,no,no,1984,Data East,Platform - Run Jump,,15kHz,vertical (ccw),,,2 (alternating),4-way,,2
+cprobowl,Pro Bowling,USA,,no,Pro Bowling,Data East DECO Cassette,,no,no,1983,Data East,Sports - Misc.,,15kHz,vertical (ccw),,,2 (alternating),,,2
+cprogolf,Pro Golf,USA,,no,Pro Golf,Data East DECO Cassette,,no,no,1981,Data East,Sports - Golf,,15kHz,vertical (ccw),,,2 (alternating),,,2
+cprogolf18,18 Challenge Pro Golf,Japan,,no,18 Challenge Pro Golf,Data East DECO Cassette,,no,no,1982,Data East,Sports - Golf,,15kHz,vertical (ccw),,,2 (alternating),,,2
+cpsoccer,Pro Soccer,USA,,no,Pro Soccer,Data East DECO Cassette,,no,no,1983,Data East,Sports - Soccer,,15kHz,vertical (ccw),,,2 (alternating),,,2
+cptennis,Pro Tennis,USA,,no,Pro Tennis,Data East DECO Cassette,,no,no,1982,Data East,Sports - Tennis,,15kHz,vertical (ccw),,,2 (alternating),,,2
 crackhea,Crackhead [hb],World,,yes,Mappy,Namco Super Pac-Man hardware,,yes,no,1980,Namco,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 crater,Crater Raider,World,,no,,Midway MCR3,,no,no,1984,Bally,Shooter - Driving,,15kHz,horizontal,,,1,2-way vertical,tilt,2
 crazyblk,Crazy Blocks,Japan,,no,Crazy Blocks,Kiwako Mr. Jong hardware,Crazy Blocks,no,no,1983,Kiwako (ECI license),Puzzle - Maze,,15kHz,vertical (cw),,,2 (alternating),4-way,,1
@@ -387,6 +415,15 @@ cscluba,"Capcom Sports Club (AS, 970722)",Asia,970722,yes,Capcom Sports Club,Cap
 csclubh,"Capcom Sports Club (HS, 970722)",Hispanic,970722,yes,Capcom Sports Club,Capcom CPS-2,,no,no,1997,Capcom,Sports - Multiplay,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,3
 csclubj,"Capcom Sports Club (JP, 970722)",Japan,970722,yes,Capcom Sports Club,Capcom CPS-2,,no,no,1997,Capcom,Sports - Multiplay,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,3
 csclubjy,"Capcom Sports Club (JP, Rental Version)",Japan,Rental Version,yes,Capcom Sports Club,Capcom CPS-2,,no,no,1997,Capcom,Sports - Multiplay,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,3
+cscrtry,Scrum Try,USA,,no,Scrum Try,Data East DECO Cassette,,no,no,1984,Data East,Sports - Misc.,,15kHz,vertical (ccw),,,2 (alternating),,,2
+csdtenis,Super Doubles Tennis,Japan,,no,Super Doubles Tennis,Data East DECO Cassette,,no,no,1983,Data East,Sports - Tennis,,15kHz,vertical (ccw),,,2 (alternating),,,2
+cskater,Skater,Japan,,no,Skater,Data East DECO Cassette,,no,no,1983,Data East,Sports - Misc.,,15kHz,vertical (ccw),,,2 (alternating),,,2
+csuperas,Super Astro Fighter,USA,,no,Super Astro Fighter,Data East DECO Cassette,,no,no,1981,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
+csweetht,Sweet Heart,USA,,no,Sweet Heart,Data East DECO Cassette,,no,no,1982,Data East,,,15kHz,vertical (ccw),,,2 (alternating),,,2
+cterrani,Terranean,USA,,no,Terranean,Data East DECO Cassette,,no,no,1981,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
+ctornado,Tornado,USA,,no,Tornado,Data East DECO Cassette,,no,no,1982,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
+ctower,The Tower,Europe,,no,The Tower,Data East DECO Cassette,,no,no,1981,Data East,Climbing - Building,,15kHz,vertical (ccw),,,2 (alternating),,,2
+ctsttape,Test Tape,USA,,no,Test Tape,Data East DECO Cassette,,no,no,1981,Data East,,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cworld,Capcom World (JP),Japan,,no,Capcom World,Capcom Mitchell,,no,no,1989,Capcom,Quiz - Questions in Japanese,,15kHz,horizontal,,,2 (simultaneous),,,4
 cworld2j,"Adventure Quiz Capcom 2 (JP, 920611)",Japan,920611,no,Adventure Quiz Capcom World 2,Capcom CPS-1,,no,no,1992,Capcom,Quiz - Questions in Japanese,,15kHz,horizontal,n-a,,2 (simultaneous),n-a,n-a,4
 cworld2ja,"Adventure Quiz Capcom 2 (JP, 920611, B-Board 90629B-3, no battery)",Japan,"920611, B-Board 90629B-3, no battery",yes,Adventure Quiz Capcom World 2,Capcom CPS-1,,no,no,1992,Capcom,Quiz - Questions in Japanese,,15kHz,horizontal,n-a,,2 (simultaneous),n-a,n-a,4
@@ -448,6 +485,7 @@ ddtodur1,"Dungeons &amp; Dragons- Tower of Doom (US, 940113)",USA,940113,yes,Dun
 ddux,"Dynamite Dux (W, Set 3)",World,"Set 3, FD1094 317-0096",no,Dynamite Dux,Sega System 16,,no,no,1988,Sega,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,2
 ddux1,"Dynamite Dux (W, Set 1)",World,"Set 1, 8751 317-0095",yes,Dynamite Dux,Sega System 16,,no,no,1988,Sega,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,2
 dduxj,"Dynamite Dux (JP, Set 2)",Japan,"Set 2, FD1094 317-0094",yes,Dynamite Dux,Sega System 16,,no,no,1988,Sega,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,2
+decodark,DECO Multigame (Darksoft v17),,,no,DECO Multigame,Data East DECO Cassette,,no,yes,2022,bootleg (Darksoft),MultiGame - Compilation,,15kHz,vertical (ccw),,,2 (alternating),,,2
 defender,Defender (Red Label),World,Red Label,no,,Williams 1st Generation,,no,no,1980,Williams,Shooter - Flying Horizontal,,15kHz,horizontal,,,1,2-way vertical,,5
 defense,"Defense (W, S16B)",World,"S16B, FD1089A 317-0028",yes,SDI,Sega System 16,,no,no,1987,Sega,Shooter - Command,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,1
 demoderm,Demolition Derby (MCR-3 Mono Board Version),World,MCR-3 Mono Board Version,no,,Midway MCR3,,no,no,1984,Bally - Midway,Driving - Demolition Derby,,15kHz,horizontal,,,4 (simultaneous),2-way horizontal,,2
