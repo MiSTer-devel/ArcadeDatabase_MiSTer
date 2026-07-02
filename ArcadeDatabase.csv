@@ -2156,9 +2156,9 @@ mexico86,Mexico 86 (Set 1) [bl],bootleg,Set 1,yes,Kick and Run,Taito Kick and Ru
 mexico86a,Mexico 86 (Set 2) [bl],bootleg,Set 2,yes,Kick and Run,Taito Kick and Run hardware,Kick and Run,no,yes,1986,bootleg,Sports - Soccer,,15kHz,horizontal,,,4 (simultaneous),8-way,,2
 kikikai,KiKi KaiKai,World,,no,KiKi KaiKai,Taito Kick and Run hardware,KiKi KaiKai,no,no,1986,Taito Corporation,Shooter - Walking,,15kHz,vertical (cw),,,2 (alternating),8-way,,2
 knightb,Knight Boy [bl],bootleg,,yes,KiKi KaiKai,Taito Kick and Run hardware,KiKi KaiKai,no,yes,1986,bootleg,Shooter - Walking,,15kHz,vertical (cw),,,2 (alternating),8-way,,2
-scontra,Super Contra (Set 1),World,Set 1,no,Super Contra,Konami Aliens based,Contra,no,no,1988,Konami,Platform - Shooter Scrolling,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
-scontraa,Super Contra (Set 2),World,Set 2,yes,Super Contra,Konami Aliens based,Contra,no,no,1988,Konami,Platform - Shooter Scrolling,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
-scontraj,Super Contra - Alien no Gyakushuu (JP),Japan,,yes,Super Contra,Konami Aliens based,Contra,no,no,1988,Konami,Platform - Shooter Scrolling,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
+scontra,Super Contra (Set 1),World,Set 1,no,Super Contra,Konami Aliens based,Contra,no,no,1988,Konami,Platform - Shooter Scrolling,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+scontraa,Super Contra (Set 2),World,Set 2,yes,Super Contra,Konami Aliens based,Contra,no,no,1988,Konami,Platform - Shooter Scrolling,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+scontraj,Super Contra - Alien no Gyakushuu (JP),Japan,,yes,Super Contra,Konami Aliens based,Contra,no,no,1988,Konami,Platform - Shooter Scrolling,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 demonwld2,Demon's World - Horror Story (Set 3),World,Set 3,no,Demon's World,Toaplan 1,Demon's World,no,no,1989,Toaplan,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 demonwld,Demon's World - Horror Story (Set 1),World,Set 1,yes,Demon's World,Toaplan 1,Demon's World,no,no,1989,Toaplan,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 demonwld1,Demon's World - Horror Story (Set 2),World,Set 2,yes,Demon's World,Toaplan 1,Demon's World,no,no,1989,Toaplan,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
@@ -2310,9 +2310,9 @@ ktigera,"Kyukyoku Tiger (JP, 2P Alt)",Japan,2 player alternating,yes,Twin Cobra,
 splatter,"Splatter House (W, New Version (SH3))",World,"New Version, SH3",no,,Namco System-1,,no,no,1988,Namco,Fighter - 2.5D,,15kHz,horizontal,,,2 (alternating),8-way,,2
 splatterj,"Splatter House (JP, SH1)",Japan,SH1,yes,Splatter House,Namco System-1,,no,no,1988,Namco,Fighter - 2.5D,,15kHz,horizontal,,,2 (alternating),8-way,,2
 splatter2,"Splatter House (W, Old Version (SH2))",World,"Old Version, SH2",yes,Splatter House,Namco System-1,,no,no,1988,Namco,Fighter - 2.5D,,15kHz,horizontal,,,2 (alternating),8-way,,2
-gbusters,Gang Busters (Set 1),World,Set 1,no,,Konami Aliens based,,no,no,1988,Konami,Shooter - Walking,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
-gbustersa,Gang Busters (Set 2),World,Set 2,yes,Gang Busters,Konami Aliens based,,no,no,1988,Konami,Shooter - Walking,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
-crazycop,Crazy Cop (JP),Japan,,no,Gang Busters,Konami Thunder X hardware,,no,no,1988,Konami,Shooter - Walking,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
+gbusters,Gang Busters (Set 1),World,Set 1,no,,Konami Aliens based,,no,no,1988,Konami,Shooter - Walking,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+gbustersa,Gang Busters (Set 2),World,Set 2,yes,Gang Busters,Konami Aliens based,,no,no,1988,Konami,Shooter - Walking,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+crazycop,Crazy Cop (JP),Japan,,no,Gang Busters,Konami Thunder X hardware,,no,no,1988,Konami,Shooter - Walking,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 spy,"S.P.Y. - Special Project Y (W, Ver. N)",World,Ver. N,no,,Konami Thunder X hardware,,no,no,1989,Konami,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 spyu,"S.P.Y. - Special Project Y (US, Ver. M)",USA,Ver. M,yes,S.P.Y. - Special Project Y,Konami Thunder X hardware,,no,no,1989,Konami,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 thunderx,Thunder Cross (Set 1),World,Set 1,yes,,Konami Aliens based,Thunder Cross,no,no,1988,Konami,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
