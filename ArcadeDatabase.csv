@@ -2075,11 +2075,11 @@ bzone,Battle Zone (Rev 2),World,Rev 2,no,Battle Zone,Atari Battle Zone hardware,
 bradley,Bradley Trainer,World,,no,Bradley Trainer,Atari Battle Zone hardware,Bradley Trainer,no,no,1980,Atari,Shooter - 1st Person,,31kHz,horizontal,,,1,8-way,Stick,1
 redbarona,Red Baron,World,,yes,Red Baron,Atari Battle Zone hardware,Red Baron,no,no,1980,Atari,Shooter - Flying 1st Person,,31kHz,horizontal,,,1,4-way,Stick,1
 redbaron,Red Baron (Revised Hardware),World,Revised Hardware,no,Red Baron,Atari Battle Zone hardware,Red Baron,no,no,1980,Atari,Shooter - Flying 1st Person,,31kHz,horizontal,,,1,4-way,Stick,1
-freeze,Freeze,World,,no,Freeze,Cinematronics Jack The Giantkiller hardware,Freeze,no,no,1984,Cinematronics,Maze - Shooter,,15kHz,vertical (cw),,,2 (alternating),2-way horizontal,,2
-jack,Jack The Giantkiller (Set 1),World,Set 1,no,Jack The Giantkiller,Cinematronics Jack The Giantkiller hardware,Jack The Giantkiller,no,no,1982,Cinematronics,Climbing - Tree - Plant,,15kHz,vertical (cw),,,2 (alternating),8-way,,2
-sucasino,Super Casino,World,,no,Super Casino,Cinematronics Jack The Giantkiller hardware,Super Casino,no,no,1984,Data Amusement,Casino - Cards,,15kHz,vertical (cw),,,2 (alternating),2-way horizontal,,1
-tripool,Tri-Pool (Casino Tech),World,Casino Tech,no,Tri-Pool,Cinematronics Jack The Giantkiller hardware,Tri-Pool,no,no,1984,Noma (Casino Tech license),Sports - Pool,,15kHz,vertical (cw),,,2 (alternating),8-way,,5
-zzyzzyxx,Zzyzzyxx,World,,no,Zzyzzyxx,Cinematronics Jack The Giantkiller hardware,Zzyzzyxx,no,no,1984,Cinematronics,Maze - Escape,,15kHz,vertical (cw),,,2 (alternating),2-way vertical,,1
+freeze,Freeze,World,,no,Freeze,Cinematronics Jack The Giantkiller hardware,Freeze,no,no,1984,Cinematronics,Maze - Shooter,,15kHz,vertical (ccw),,,2 (alternating),2-way horizontal,,2
+jack,Jack The Giantkiller (Set 1),World,Set 1,no,Jack The Giantkiller,Cinematronics Jack The Giantkiller hardware,Jack The Giantkiller,no,no,1982,Cinematronics,Climbing - Tree - Plant,,15kHz,vertical (ccw),,,2 (alternating),8-way,,2
+sucasino,Super Casino,World,,no,Super Casino,Cinematronics Jack The Giantkiller hardware,Super Casino,no,no,1984,Data Amusement,Casino - Cards,,15kHz,vertical (ccw),,,2 (alternating),2-way horizontal,,1
+tripool,Tri-Pool (Casino Tech),World,Casino Tech,no,Tri-Pool,Cinematronics Jack The Giantkiller hardware,Tri-Pool,no,no,1984,Noma (Casino Tech license),Sports - Pool,,15kHz,vertical (ccw),,,2 (alternating),8-way,,5
+zzyzzyxx,Zzyzzyxx,World,,no,Zzyzzyxx,Cinematronics Jack The Giantkiller hardware,Zzyzzyxx,no,no,1984,Cinematronics,Maze - Escape,,15kHz,vertical (ccw),,,2 (alternating),2-way vertical,,1
 dsoccr94j,"Dream Soccer '94 (JP, M92)",Japan,,no,Dream Soccer '94,Irem M92,Dream Soccer,no,no,1994,Irem,Sports - Soccer,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 majtitl2,"Major Title 2 (W, Set 1)",World,,no,Major Title 2,Irem M92,Major Title,no,no,1992,Irem,Sports - Golf,,15kHz,horizontal,,,4 (simultaneous),8-way,,2
 ssoldier,Superior Soldiers (US),USA,,no,Superior Solders,Irem M92,Superior Soldiers,no,no,1994,Irem,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,6
