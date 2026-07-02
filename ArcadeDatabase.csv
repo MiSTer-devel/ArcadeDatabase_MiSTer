@@ -2171,9 +2171,11 @@ elevatorb,Elevator Action [bl],World,bootleg,no,Elevator Action,Taito System SJ,
 hwrace,High Way Race,World,,no,High Way Race,Taito System SJ,High Way Race,no,no,1983,Taito Corporation,Driving - Race,,15kHz,vertical (ccw),,,2 (alternating),8-way,,2
 junglek,Jungle King (JP),Japan,,no,Jungle King,Taito System SJ,Jungle King,no,no,1982,Taito Corporation,"Platform - Run, Jump &amp; Scrolling",,15kHz,horizontal (180),,,2 (alternating),8-way,,1
 piratpet,Pirate Pete,World,,no,Pirate Pete,Taito System SJ,Pirate Pete,no,no,1982,Taito America Corporation,"Platform - Run, Jump &amp; Scrolling",,15kHz,horizontal (180),,,2 (alternating),8-way,,1
-spacecr,Space Cruiser,World,,no,Space Cruiser,Taito System SJ,Space Cruiser,no,no,1981,Taito Corporation,Shooter - Gallery,,15kHz,vertical (cw),,,2 (alternating),2-way horizontal,,2
+sfposeid,Sea Fighter Poseidon,World,,no,Sea Fighter Poseidon,Taito System SJ,Sea Fighter Poseidon,no,no,1984,Taito Corporation,Shooter - Misc. Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
+spacecr,Space Cruiser,World,,no,Space Cruiser,Taito System SJ,Space Cruiser,no,no,1981,Taito Corporation,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,2
 spaceskr,Space Seeker,World,,no,Space Seeker,Taito System SJ,Space Seeker,no,no,1981,Taito Corporation,Shooter - Flying 1st Person,,15kHz,horizontal,,,2 (alternating),8-way,,2
 timetunl,Time Tunnel,World,,no,Time Tunnel,Taito System SJ,Time Tunnel,no,no,1982,Taito Corporation,Maze - Driving,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,1
+tinstar,The Tin Star,World,,no,The Tin Star,Taito System SJ,The Tin Star,no,no,1983,Taito Corporation,Shooter - Misc. Horizontal,,15kHz,horizontal,,,2 (alternating),8-way double,,2
 waterski,Water Ski,World,,no,Water Ski,Taito System SJ,Water Ski,no,no,1983,Taito Corporation,Sports - Skiing,,15kHz,vertical (ccw),,,2 (alternating),2-way horizontal,,2
 wwestern,Wild Western (Set 1),World,,no,Wild Western,Taito System SJ,Wild Western,no,no,1982,Taito Corporation,Shooter - Misc. Vertical,,15kHz,vertical (ccw),,,2 (alternating),8-way double,,2
 p47,P-47 - The Phantom Fighter (W),World,,no,P-47 - The Phantom Fighter,Jaleco Mega System 1,P-47,no,no,1988,Jaleco,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
