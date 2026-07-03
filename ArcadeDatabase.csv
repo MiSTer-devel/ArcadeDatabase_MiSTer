@@ -292,6 +292,7 @@ caractn,Car Action (Set 1),World,Set 1,yes,Burning Rubber,Data East Burger Time 
 caractn2,Car Action (Set 2),World,Set 2,yes,Burning Rubber,Data East Burger Time hardware,,no,no,1982,,Driving - Race,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
 catacomb,Catacomb,World,,no,Catacomb,Namco Galaga based,,no,no,1982,MTM Games,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 caterpil,Caterpillar [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Phi,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+cavelon,Cavelon,World,,no,,Konami Scramble based,,no,no,1983,Jetsoft,Maze - Horizontal,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 cavenger,Cosmic Avenger,World,,no,,Universal Lady Bug,,no,no,1981,Universal,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
 cawing,"Carrier Air Wing (W, 901012)",World,901012,no,Carrier Air Wing,Capcom CPS-1,U.N. Squadron,no,no,1990,Capcom,Shooter - Flying Horizontal,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
 cawingj,"U.S. Navy (JP, 901012)",Japan,901012,yes,Carrier Air Wing,Capcom CPS-1,U.N. Squadron,no,no,1990,Capcom,Shooter - Flying Horizontal,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
