@@ -407,8 +407,8 @@ ddonpach,DoDonPachi,World,,no,DoDonPachi,CAVE 68000,DonPachi,no,no,1997,CAVE,Sho
 ddonpacha,DoDonPachi (Arrange),World,,no,DoDonPachi,CAVE 68000,DonPachi,no,no,2012,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 ddonpachj,DoDonPachi (JP),Japan,,no,DoDonPachi,CAVE 68000,DonPachi,no,no,1997,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 ddonpachjt,DoDonPachi Trainer (JP),Japan,Trainer,no,DoDonPachi,CAVE 68000,DonPachi,no,no,1997,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
-ddp2,"DoDonPachi II - Bee Storm (World, ver. 102)",World,ver. 102,no,DoDonPachi II - Bee Storm,IGS PGM,DonPachi,no,no,2001,IGS,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,3
-ddp3,"DoDonPachi III (World, 2002.05.15 Master Ver)",World,2002.05.15 Master Ver,no,DoDonPachi III,IGS PGM,DonPachi,no,no,2002,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,3
+ddp2,"DoDonPachi II - Bee Storm (World, ver. 102)",World,ver. 102,no,DoDonPachi II - Bee Storm,IGS PGM,DonPachi,no,no,2001,IGS,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+ddp3,"DoDonPachi III (World, 2002.05.15 Master Ver)",World,2002.05.15 Master Ver,no,DoDonPachi III,IGS PGM,DonPachi,no,no,2002,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 ddragon,Double Dragon (JP),Japan,,no,Double Dragon,Technos 6309 based,,no,no,1987,Technos Japan,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 ddragon2,Double Dragon II- The Revenge (W),World,,yes,Double Dragon,Technos 6309 based,,no,no,1988,Technos Japan,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 ddragon2j,Double Dragon II- The Revenge (JP),Japan,,no,Double Dragon,Technos 6309 based,,no,no,1988,Technos Japan,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
@@ -546,7 +546,7 @@ ecofghtru1,"Eco Fighters (US, 931203)",USA,931203,yes,Eco Fighters,Capcom CPS-2,
 eeekkp,Eeek! (Pac-Man Conversion),World,Pac-Man Conversion,no,,Namco Pac-Man hardware,,no,no,1984,Epos Corporation,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 eggor,Eggor,World,,no,,Namco Pac-Man hardware,,no,no,1983,Telko,Maze - Shooter Small,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 eltonpac,Elton Pac [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Marcel Silvius,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-espgal,Espgaluda (2003.10.15 Master Ver),Japan,2003.10.15 Master Ver,no,Espgaluda,IGS PGM,,no,no,2003,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,3
+espgal,Espgaluda (2003.10.15 Master Ver),Japan,2003.10.15 Master Ver,no,Espgaluda,IGS PGM,,no,no,2003,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 esprade,ESP Ra.De.,World,,no,,CAVE 68000,,no,no,1998,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 espradej,ESP Ra.De. (JP),Japan,,no,ESP Ra.De.,CAVE 68000,,no,no,1998,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 esprade_fp,ESP Ra.De. (Free Play),World,Free Play,yes,ESP Ra.De.,CAVE 68000,,no,no,1998,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
