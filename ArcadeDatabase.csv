@@ -872,7 +872,7 @@ kchampvs4,"Karate Champ (US, VS Ver, Set 4)",USA,Set 4,yes,Karate Champ,Data Eas
 karateda,Karate Dou (Arfyc) [bl],bootleg,Arfyc,yes,Karate Champ,Data East Z80 based,Karate Champ,no,no,1984,Data East,Fighter - Versus,,15kHz,vertical (cw),,,2 (alternating),4-way,,4
 kchamptec,Karate Champ (Tecfri) [bl],bootleg,Tecfri,yes,Karate Champ,Data East Z80 based,Karate Champ,no,no,1984,Data East,Fighter - Versus,,15kHz,vertical (cw),,,2 (alternating),4-way,,4
 kchamp2p,"Karate Champ (US, 2P)",USA,2P,yes,Karate Champ,Data East Z80 based,Karate Champ,no,no,1984,Data East,Fighter - Versus,,15kHz,vertical (cw),,,2 (alternating),4-way,,4
-ket,Ketsui - Kizuna Jigoku Tachi (2003.01.01. Master Ver.),Japan,2003.01.01. Master Ver.,no,Ketsui - Kizuna Jigoku Tachi,IGS PGM,,no,no,2002,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,3
+ket,Ketsui - Kizuna Jigoku Tachi (2003.01.01. Master Ver.),Japan,2003.01.01. Master Ver.,no,Ketsui - Kizuna Jigoku Tachi,IGS PGM,,no,no,2002,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 kick,Kick,World,,no,,Midway MCR1,,no,no,1980,Midway,Ball &amp; Paddle - Jump and Touch,,15kHz,vertical (cw),no,,1,,trackball,1
 kickc,Kick (Cocktail),World,Cocktail,yes,Kick,Midway MCR,,no,no,1981,Midway,Ball &amp; Paddle - Jump and Touch,,15kHz,vertical (cw),no,,1,2-way horizontal,,0
 kicker,Kicker,World,,no,,Konami 6809 based,,no,no,1985,Konami,Platform - Fighter,,15kHz,vertical (cw),,,2 (alternating),4-way,,2
