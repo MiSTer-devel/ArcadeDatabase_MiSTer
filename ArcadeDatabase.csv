@@ -498,7 +498,7 @@ dfjail,The Destroyer From Jail (KR),Korea,,no,The Destroyer From Jail,Sega Syste
 digdug,Dig Dug (Rev 2),World,Rev 2,no,,Namco Galaga based,Dig Dug,no,no,1982,Namco,Maze - Digging,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 digdug1,Dig Dug (Rev 1),World,Rev 1,yes,Dig Dug,Namco Galaga based,Dig Dug,no,no,1982,Namco,Maze - Digging,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 digdug2,Dig Dug II (New Ver),World,New Ver,no,Dig Dug II,Namco Super Pac-Man hardware,Dig Dug,no,no,1985,Namco,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
-digdug2o,Dig Dug II (Old Ver),World,Old Ver,yes,Dig Dug II,Namco Super Pac-Man hardware,Dig Dug,no,no,1985,Namco,Maze - Collect,,15kHz,vertical (cw),no,,2 (alternating),4-way,,2
+digdug2o,Dig Dug II (Old Ver),World,Old Ver,yes,Dig Dug II,Namco Super Pac-Man hardware,Dig Dug,no,no,1985,Namco,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
 digdugat,"Dig Dug (Atari, Rev 2)",World,"Atari, Rev 2",yes,Dig Dug,Namco Galaga based,Dig Dug,no,no,1982,Namco,Maze - Digging,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 digdugat1,"Dig Dug (Atari, Rev 1)",World,"Atari, Rev 1",yes,Dig Dug,Namco Galaga based,Dig Dug,no,no,1982,Namco,Maze - Digging,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 digsid,Dig Dug (Sidam),World,Sidam,yes,Dig Dug,Namco Galaga based,Dig Dug,no,no,1982,Namco,Maze - Digging,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
@@ -778,9 +778,9 @@ gorfpgm1,Gorf (Program 1),World,Program 1,no,,Midway Astrocade,,no,no,1981,Dave 
 gorkans,Gorkans,World,,no,,Namco Pac-Man hardware,,no,no,1983,Techstar,Maze - Outline,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 gorodki,Gorodki,World,,no,,TIAMC1,,no,no,1988,Terminal,Misc. - Mini-Games,,15kHz,horizontal,,,1,2-way horizontal,,2
 gravitar,Gravitar (Ver 3),World,Ver 3,no,,Atari Vector,,no,no,1982,Atari,Shooter - Field,,31kHz,horizontal,,,1,2-way horizontal,,3
-grobda,"Grobda (W, New Ver.)",World,New Ver.,yes,,Namco Super Pac-Man hardware,,no,no,1984,Namco,Maze - Shooter Small,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
-grobda2,"Grobda (Old Ver, Set 1)",World,Old Ver,yes,Grobda,Namco Super Pac-Man hardware,,no,no,1984,Namco,Maze - Shooter Small,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
-grobda3,"Grobda (Old Ver, Set 2)",World,Old Ver,yes,Grobda,Namco Super Pac-Man hardware,,no,no,1984,Namco,Maze - Shooter Small,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
+grobda,"Grobda (W, New Ver.)",World,New Ver.,no,,Namco Super Pac-Man hardware,,no,no,1984,Namco,Maze - Shooter Small,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
+grobda2,"Grobda (Old Ver, Set 1)",World,Old Ver,yes,Grobda,Namco Super Pac-Man hardware,,no,no,1984,Namco,Maze - Shooter Small,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
+grobda3,"Grobda (Old Ver, Set 2)",World,Old Ver,yes,Grobda,Namco Super Pac-Man hardware,,no,no,1984,Namco,Maze - Shooter Small,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 gryzor,Gryzor (Set 1),Europe,Set 1,yes,Contra,Konami Contra based,Contra,no,no,1987,Konami,Platform - Shooter Scrolling,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 gryzor1,Gryzor (Set 2),Europe,Set 2,yes,Contra,Konami Contra based,Contra,no,no,1987,Konami,Platform - Shooter Scrolling,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 gteikoku,Gingateikoku no Gyakushu,Japan,,yes,UniWar S,Irem Unique,,no,no,1980,Irem,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
@@ -984,7 +984,7 @@ makaimurb,"Makai-Mura (JP, Rev B)",Japan,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985
 mandinga,"Mandinga (Amidar, Artemi) [bl]",World,"Amidar, Artemi",yes,Amidar,Konami Scramble based,,no,yes,1982,Konami - Artemi,Maze - Outline,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 manhatan,Manhattan 24 Bunsyo (JP),Japan,,no,jailbrek,Konami Green Beret based,,no,no,1986,Konami,Platform - Shooter Scrolling,,15kHz,horizontal,no,,2 (alternating),8-way,,
 mappy,Mappy (US),USA,,no,,Namco Super Pac-Man hardware,,no,no,1983,Namco,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
-mappyj,Mappy (JP),Japan,,yes,Mappy,Namco Super Pac-Man hardware,,no,no,1983,Namco,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,1
+mappyj,Mappy (JP),Japan,,yes,Mappy,Namco Super Pac-Man hardware,,no,no,1983,Namco,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 mario,"Mario Bros. (US, Rev G)",USA,Rev G,no,,Mario Bros. hardware,Mario,no,no,1983,Nintendo,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),2-way horizontal,,1
 marpy,Marpy [hb],World,,yes,Mappy,Namco Super Pac-Man hardware,,yes,no,1983,Namco,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 mars,Mars,World,,no,,Konami Scramble based,,no,no,1981,Artic,Shooter - Flying Horizontal,,15kHz,vertical (cw),yes,,2 (alternating),8-way,twin stick,4
@@ -1819,9 +1819,9 @@ timesold1,"Time Soldiers (US, Rev 1)",USA,Rev 1,yes,Time Soldiers,SNK - Alpha De
 tiptop,Tip Top,World,,no,Congo Bongo,Sega Zaxxon based,Congo Bongo,no,no,1983,Sega/Gremlin,Platform - Run Jump,,15kHz,vertical (cw),,,2 (alternating),8-way,,1
 tnk3,T.N.K III (US),USA,,no,T.N.K III,SNK Triple Z80,,no,no,1985,SNK,Shooter - Driving Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),"8-way,Positional",,2
 tnk3j,T.A.N.K (JP),Japan,,yes,T.N.K III,SNK Triple Z80,,no,no,1985,SNK,Shooter - Driving Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),"8-way,Positional",,2
-todruaga,The Tower of Druaga,World,,no,The Tower of Druaga,Namco Super Pac-Man hardware,,no,no,1984,Namco,Maze - Collect,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-todruagao,The Tower of Druaga (Old Ver),World,Old Ver,yes,The Tower of Druaga,Namco Super Pac-Man hardware,,no,no,1984,Namco,Maze - Collect,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-todruagas,The Tower of Druaga (Sidam) [bl],World,Sidam,yes,The Tower of Druaga,Namco Super Pac-Man hardware,,no,yes,1984,Namco,Maze - Collect,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
+todruaga,The Tower of Druaga,World,,no,The Tower of Druaga,Namco Super Pac-Man hardware,,no,no,1984,Namco,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
+todruagao,The Tower of Druaga (Old Ver),World,Old Ver,yes,The Tower of Druaga,Namco Super Pac-Man hardware,,no,no,1984,Namco,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
+todruagas,The Tower of Druaga (Sidam) [bl],World,Sidam,yes,The Tower of Druaga,Namco Super Pac-Man hardware,,no,yes,1984,Namco,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 tokio,Tokio (Scramble Formation) (Newer),World,Newer,no,,Taito Bubble Booble based,,no,no,1986,Taito,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 tokiob,Tokio (Scramble Formation) [bl],World,,yes,Scramble Formation,Taito Bubble Booble based,,no,yes,1986,Taito,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 tokioo,Tokio (Scramble Formation) (Older),World,Older,yes,Scramble Formation,Taito Bubble Booble based,,no,no,1986,Taito,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
