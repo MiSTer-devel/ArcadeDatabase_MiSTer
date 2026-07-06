@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>frontlin</setname>
+	<name>Front Line</name>
+	<region>World</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>Front Line</parent_title>
+	<platform>Taito System SJ</platform>
+	<series>Front Line</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1982</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<category>Shooter - Walking</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>
