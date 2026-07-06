@@ -234,6 +234,8 @@ blockgal,Block Gal,World,,no,Block Gal,Sega System 1,,no,no,1987,Sega,Ball &amp;
 blockj,"Block Block (JP, 910910)",Japan,,yes,Block Block,Capcom Mitchell,Block Block,no,no,1991,Capcom,Ball &amp; Paddle - Breakout,,15kHz,vertical (ccw),,,2 (simultaneous),2-way horizontal,,2
 blockr1,"Block Block (W, 911106, Joystick)",World,,yes,Block Block,Capcom Mitchell,Block Block,no,no,1991,Capcom,Ball &amp; Paddle - Breakout,,15kHz,vertical (ccw),,,2 (simultaneous),2-way horizontal,,2
 blockr2,"Block Block (W, 910910)",World,,yes,Block Block,Capcom Mitchell,Block Block,no,no,1991,Capcom,Ball &amp; Paddle - Breakout,,15kHz,vertical (ccw),,,2 (simultaneous),2-way horizontal,,2
+blueprnt,Blue Print (Midway),World,,no,Blue Print,Blue Print hardware,,no,no,1982,Zilec Electronics / Bally Midway,Maze - Collect,,15kHz,vertical (ccw),,,2 (alternating),4-way,,1
+blueprntj,Blue Print (Japan),Japan,,yes,Blue Print,Blue Print hardware,,no,no,1982,Zilec Electronics / Bally Midway,Maze - Collect,,15kHz,vertical (ccw),,,2 (alternating),4-way,,1
 blueshrk,Blue Shark,World,,no,Blue Shark,Midway 8080,,no,no,1978,Midway,Shooter - Gallery,,15kHz,horizontal,,,1,,positional,1
 bmaster,Blade Master (W),World,,no,Blade Master,Irem M92,Blade Master,no,no,1991,Irem,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 bmbjckgr,Bomb Jack (GR) [hb],Greece,Greek,yes,Bomb Jack,Tehkan hardware,,yes,no,1984,Tehkan,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
@@ -788,6 +790,7 @@ gorf,Gorf,World,,no,,Midway Astrocade,,no,no,1981,Dave Nutting Associates - Midw
 gorfpgm1,Gorf (Program 1),World,Program 1,no,,Midway Astrocade,,no,no,1981,Dave Nutting Associates - Midway,Shooter - Gallery,,15kHz,vertical (ccw),no,,2 (alternating),8-way,,1
 gorkans,Gorkans,World,,no,,Namco Pac-Man hardware,,no,no,1983,Techstar,Maze - Outline,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 gorodki,Gorodki,World,,no,,TIAMC1,,no,no,1988,Terminal,Misc. - Mini-Games,,15kHz,horizontal,,,1,2-way horizontal,,2
+grasspin,Grasspin (Jaleco),World,,no,Grasspin,Blue Print hardware,,no,no,1983,Zilec Electronics / Jaleco,,,15kHz,vertical (ccw),,,2 (alternating),8-way,,2
 gravitar,Gravitar (Ver 3),World,Ver 3,no,,Atari Vector,,no,no,1982,Atari,Shooter - Field,,31kHz,horizontal,,,1,2-way horizontal,,3
 grobda,"Grobda (W, New Ver.)",World,New Ver.,no,,Namco Super Pac-Man hardware,,no,no,1984,Namco,Maze - Shooter Small,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 grobda2,"Grobda (Old Ver, Set 1)",World,Old Ver,yes,Grobda,Namco Super Pac-Man hardware,,no,no,1984,Namco,Maze - Shooter Small,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
@@ -1462,6 +1465,7 @@ samesamecn,"Jiao! Jiao! Jiao! (China, 2P set)",China,,yes,Fire Shark,Toaplan 1,,
 sarge,Sarge,World,,no,,Midway MCR3,,no,no,1985,Bally - Midway,Shooter - Field,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,twin stick,2
 sargex,Sarge Exposed [hb],World,,yes,Sarge,Midway MCR3,,yes,no,1985,Gatinho,Shooter - Field,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,twin stick,2
 sathena,Super Athena [bl],World,,no,Athena,SNK Triple Z80,,no,yes,1986,SNK,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+saturnzi,Saturn (Zilec),World,,no,Saturn,Blue Print hardware,,no,no,1983,Zilec Electronics / Jaleco,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),4-way,,2
 savgbees,Savage Bees,World,,yes,Exed Exes,Capcom CPS-0,,no,no,1985,Capcom,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 sbagman,Super Bagman,World,,no,Super Bagman,Stern based,,no,no,1984,Valadon Automation,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 sbagman2,Super Bagman (Ver 3),World,Ver 3,yes,Super Bagman,Stern based,,no,no,1984,Valadon Automation,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
