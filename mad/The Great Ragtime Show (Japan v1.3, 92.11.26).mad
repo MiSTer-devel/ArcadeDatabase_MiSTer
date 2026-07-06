@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>ragtimea</setname>
+	<name>The Great Ragtime Show (Japan v1.3, 92.11.26)</name>
+	<region>Japan</region>
+	<version>v1.3, 92.11.26</version>
+	<alternative>yes</alternative>
+	<parent_title>Boogie Wings</parent_title>
+	<platform>Data East DE-0379 hardware</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1992</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<category>Shooter - Misc. Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

@@ -16,7 +16,7 @@
 	<category>Shooter - Gun</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>horizontal</rotation>
+	<rotation>vertical (cw)</rotation>
 	<flip></flip>
 
 	<players>1</players>
