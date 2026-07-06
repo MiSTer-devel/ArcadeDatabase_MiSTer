@@ -16,8 +16,8 @@
 	<category>Shooter - Flying Vertical</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (cw)</rotation>
-	<flip></flip>
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
