@@ -15,19 +15,19 @@ If you want to add or update entries in the database, follow these simple steps:
 
   
 
-1. Download the current CSV file from the repository.
+1. Edit `ArcadeDatabase.csv` in the repository **root** (the delimiter is a comma; you can import it into Excel if you prefer).
 
   
 
-2. Edit it locally with your changes (you can import it to excel if you want to, just note the delimiter we use is comma).
+2. Open a pull request with your edited `ArcadeDatabase.csv`.
 
   
 
-3. Upload your modified CSV file to the ArcadeDatabase_CSV folder and make a pull request.
+3. **Do not edit anything in the `mad/` folder, or `mad_db.json`.** Those are generated automatically from the CSV by the automation script when your pull request is merged — touching them by hand will conflict with the regeneration.
 
   
 
-4. Once your CSV file is uploaded and the pull request is merged, the automation script will process it and update the database accordingly.
+4. Once the pull request is merged, the automation script processes the CSV and updates the database accordingly.
 
   
 
@@ -70,3 +70,45 @@ As you might've noticed, there are different versions/clones of the same game. S
 - Prefer releases without region-specific notices or warnings
 
 ```
+
+  
+
+# rotation and flip
+
+These two fields are the source of most confusion, so the rules are spelled out here. They are independent of each other.
+
+  
+
+**`rotation`** — the original arcade cabinet orientation, taken from MAME / [adb.arcadeitalia.net](https://adb.arcadeitalia.net) (the "ruotato di N°" value on a game's detail page):
+
+  
+
+```
+
+  0°   = horizontal
+
+  90°  = vertical (cw)
+
+  270° = vertical (ccw)
+
+```
+
+  
+
+This is the *original hardware* orientation. It is **not** how the MiSTer core happens to boot or display the game — do not set rotation from what you see on your screen, use MAME. Clones inherit their parent's rotation.
+
+  
+
+**`flip`** — `yes` only if the core provides a **persistent 180° screen flip that the player can reach and that stays applied** (a core OSD "rotate/flip" option, an OSD dipswitch-page toggle, or an in-game service-menu setting stored in NVRAM). It is `no` otherwise. Note:
+
+  
+
+- `flip` is **not** MAME's flip metadata.
+
+- A flip option that merely *exists* is not enough — a toggle that does nothing, or a cocktail-cabinet mirror that doesn't correct the orientation, is `no`.
+
+- Verify flip on real hardware.
+
+  
+
+**The MRA's own `<rotation>` and `<flip>` tags are hints and are sometimes wrong.** When they disagree with the above, MAME wins for `rotation` and hardware wins for `flip`.
