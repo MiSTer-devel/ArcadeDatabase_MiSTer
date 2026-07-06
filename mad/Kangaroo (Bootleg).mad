@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>kangaroob</setname>
+	<name>Kangaroo (Bootleg)</name>
+	<region>World</region>
+	<version>bootleg</version>
+	<alternative>no</alternative>
+	<parent_title>Kangaroo</parent_title>
+	<platform>Kangaroo hardware</platform>
+	<series>Kangaroo</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1982</year>
+	<manufacturer>bootleg</manufacturer>
+	<category>Platform - Fighter</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>4-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>
