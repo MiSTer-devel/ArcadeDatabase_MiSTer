@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>decodark</setname>
+	<name>DECO Multigame (Darksoft v17)</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>DECO Multigame</parent_title>
+	<platform>Data East DECO Cassette</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<year>2022</year>
+	<manufacturer>bootleg (Darksoft)</manufacturer>
+	<category>MultiGame - Compilation</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs></move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>
