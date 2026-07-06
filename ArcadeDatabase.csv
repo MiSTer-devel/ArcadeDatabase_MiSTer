@@ -383,7 +383,7 @@ commandou,"Commando (US, Set 1)",USA,Set 1,yes,Commando,Capcom CPS-0,Commando,no
 commandou2,"Commando (US, Set 2)",USA,Set 2,yes,Commando,Capcom CPS-0,Commando,no,no,1985,Capcom,Shooter - Walking,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 comotion,CoMotion,World,,no,,Sega Blockade hardware,,no,no,1976,Gremlin,Maze - Surround,,15kHz,horizontal,,,4 (simultaneous),,,
 complexx,Complex X,World,,no,,Taito Qix Hardware,,no,no,1984,Taito America Corporation,Maze,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,1
-congo,Congo Bongo,World,,no,Congo Bongo,Sega Zaxxon based,Congo Bongo,no,no,1983,Sega/Gremlin,Platform - Run Jump,,15kHz,vertical (cw),,,2 (alternating),8-way,,1
+congo,Congo Bongo,World,,no,Congo Bongo,Sega Zaxxon based,Congo Bongo,no,no,1983,Sega/Gremlin,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,1
 contra,"Contra (US-AS, Set 1)",USA,Set 1,yes,Contra,Konami Contra based,Contra,no,no,1987,Konami,Platform - Shooter Scrolling,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 contra1,"Contra (US-AS, Set 2)",USA - Asia,Set 2,yes,Contra,Konami Contra based,Contra,no,no,1987,Konami,Platform - Shooter Scrolling,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 contrab,Contra [bl],World,,yes,Contra,Konami Contra based,Contra,no,yes,1987,Konami,Platform - Shooter Scrolling,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
@@ -1844,7 +1844,7 @@ timescan1,"Time Scanner (W, S16A, Set 1)",World,Set 1,no,Time Scanner,Sega Syste
 timescan3,"Time Scanner (JP, S16B, Set 3)",Japan,Set 3,no,Time Scanner,Sega System 16,,no,no,1987,Sega,Arcade - Pinball,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,2
 timesold,"Time Soldiers (US, Rev 3)",USA,Rev 3,no,Time Soldiers,SNK - Alpha Denshi,Time Soldiers,no,no,1987,Alpha Denshi Co.,Shooter - Walking,,15kHz,vertical (cw),,,2 (simultaneous),8-way,Rotary,2
 timesold1,"Time Soldiers (US, Rev 1)",USA,Rev 1,yes,Time Soldiers,SNK - Alpha Denshi,Time Soldiers,no,no,1987,Alpha Denshi Co.,Shooter - Walking,,15kHz,vertical (cw),,,2 (simultaneous),8-way,Rotary,2
-tiptop,Tip Top,World,,no,Congo Bongo,Sega Zaxxon based,Congo Bongo,no,no,1983,Sega/Gremlin,Platform - Run Jump,,15kHz,vertical (cw),,,2 (alternating),8-way,,1
+tiptop,Tip Top,World,,no,Congo Bongo,Sega Zaxxon based,Congo Bongo,no,no,1983,Sega/Gremlin,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,1
 tnk3,T.N.K III (US),USA,,no,T.N.K III,SNK Triple Z80,,no,no,1985,SNK,Shooter - Driving Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),"8-way,Positional",,2
 tnk3j,T.A.N.K (JP),Japan,,yes,T.N.K III,SNK Triple Z80,,no,no,1985,SNK,Shooter - Driving Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),"8-way,Positional",,2
 todruaga,The Tower of Druaga,World,,no,The Tower of Druaga,Namco Super Pac-Man hardware,,no,no,1984,Namco,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
