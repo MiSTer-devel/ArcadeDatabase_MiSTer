@@ -671,6 +671,7 @@ fpoint1,"Flash Point (JP, Set 1)",Japan,"Set 1, FD1094 317-0127A",yes,Flash Poin
 frenzy,Frenzy (Rev RA1),World,Rev RA1,no,,Stern based,,no,no,1981,Stern,Maze - Shooter Small,,15kHz,horizontal,,,2 (alternating),8-way,,1
 frogger,Frogger (Konami Bugfixed),World,Konami Bugfixed,no,Frogger,Konami Z80,,no,no,1981,Konami,Maze - Cross,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 froggers2,"Frogger (Sega, Set 2)",World,"Sega, Set 2",yes,Frogger,Konami Z80,,no,no,1981,Konami,Maze - Cross,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+fshark,Flying Shark (W),World,,yes,Flying Shark,Toaplan Twin Cobra hardware,,no,no,1987,Toaplan - Taito Corporation,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 fstpman2,New Puck 2 (Fast) [hb],World,Fast,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco - Midway,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 futspy,Future Spy,World,,no,,Sega Zaxxon based,,no,no,1982,Sega-Gremlin,Shooter - Flying Diagonal,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 gaia,Gaia Crusaders,World,,no,Gaia Crusaders,CAVE 68000,,no,no,1999,CAVE,Fighter - 2.5D,,15kHz,horizontal,no,,2 (simultaneous),8-way,,4
@@ -828,6 +829,7 @@ hellfire2a,"Hellfire (2P set, older)",World,2P Set,yes,Hellfire,Toaplan 1,,no,no
 hharryu,"Hammerin' Harry (US, M84 hardware)",USA,,no,Hammerin' Harry,Irem M72,,no,no,1990,Irem,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
 higemaru,Pirate Ship Higemaru,World,,no,,Capcom CPS-0,,no,no,1984,Capcom,Maze - Collect,,15kHz,horizontal,n-a,,2 (alternating),4-way,,1
 hippodrm,Hippodrome (US),USA,,no,Hippodrome,Data East MEC-M1,,no,no,1989,Data East,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+hishouza,Hishou Zame (JP),Japan,,no,Flying Shark,Toaplan Twin Cobra hardware,,no,no,1987,Toaplan - Taito Corporation,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 hm1000,Hangly Man 1000 [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Nittoh,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 hm2000,Hangly Man 2000 [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Nittoh,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 hmba5000,Hangly Man Babies 5000 [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Nittoh,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
@@ -1672,6 +1674,8 @@ skyadvntj,Sky Adventure (JP),Japan,,yes,Sky Adventure,SNK - Alpha Denshi,Sky Adv
 skyadvntu,Sky Adventure (US),USA,,yes,Sky Adventure,SNK - Alpha Denshi,Sky Adventure,no,no,1989,Alpha Denshi Co.,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,3
 skyraidr,Sky Raider (UniWar S) [bl],World,UniWar S,yes,UniWar S,Irem Unique,,no,yes,1980,,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 skyrobo,Sky Robo,World,,yes,Tatakae! Big Fighter,Nichibutsu M68000 (Armed F),,no,no,1989,Nichibutsu,Shooter - Walking,,15kHz,horizontal,,,2 (alternating),8-way,,2
+skyshark,"Sky Shark (US, Set 1)",USA,Set 1,yes,Flying Shark,Toaplan Twin Cobra hardware,,no,no,1987,Toaplan - Taito America Corporation (Romstar license),Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
+skysharka,"Sky Shark (US, Set 2)",USA,Set 2,yes,Flying Shark,Toaplan Twin Cobra hardware,,no,no,1987,Toaplan - Taito America Corporation (Romstar license),Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 skyskipr,Sky Skipper,World,,no,,Nintendo Arcade,,no,no,1981,Nintendo,Shooter - Flying,,15kHz,horizontal,,,2 (alternating),8-way,,2
 skysoldr,Sky Soldiers (US),USA,,no,Sky Soldiers,SNK - Alpha Denshi,Sky Soldiers,no,no,1988,Alpha Denshi Co.,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
 slammast,"Saturday Night Slam Masters (W, 930713)",World,930713,no,,Capcom CPS-1.5,Slam Masters,no,no,1993,Capcom,Sports - Wrestling,,15kHz,horizontal,n-a,,4 (simultaneous),8-way,,3
