@@ -925,7 +925,7 @@ kchamp2p,"Karate Champ (US, 2P)",USA,2P,yes,Karate Champ,Data East Z80 based,Kar
 ket,Ketsui - Kizuna Jigoku Tachi (2003.01.01. Master Ver.),Japan,2003.01.01. Master Ver.,no,Ketsui - Kizuna Jigoku Tachi,IGS PGM,,no,no,2002,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 kick,Kick,World,,no,,Midway MCR1,,no,no,1980,Midway,Ball &amp; Paddle - Jump and Touch,,15kHz,vertical (cw),no,,1,,trackball,1
 kickc,Kick (Cocktail),World,Cocktail,yes,Kick,Midway MCR,,no,no,1981,Midway,Ball &amp; Paddle - Jump and Touch,,15kHz,vertical (cw),no,,1,2-way horizontal,,0
-kicker,Kicker,World,,no,,Konami 6809 based,,no,no,1985,Konami,Platform - Fighter,,15kHz,vertical (cw),,,2 (alternating),4-way,,2
+kicker,Kicker,World,,no,,Konami 6809 based,,no,no,1985,Konami,Platform - Fighter,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
 kickman,Kick-Man,World,,yes,Kick,Midway MCR1,,no,no,1980,Midway,Ball &amp; Paddle - Jump and Touch,,15kHz,vertical (cw),no,,1,,trackball,1
 kidniki,Kid Niki- Radical Ninja (W),World,,no,Kid Niki - Radical Ninja,Irem M62,,no,no,1986,Irem,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
 kidnikiu,Kid Niki - Radical Ninja (US),USA,,yes,Kid Niki - Radical Ninja,Irem M62,,no,no,1986,Irem,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
@@ -1642,7 +1642,7 @@ shangon3,Super Hang-On (sitdown - upright),World,,yes,Super Hang-On,Sega Out Run
 shangonle,Limited Edition Hang-On,World,,no,Super Hang-On,Sega Out Run hardware,Hang-On,no,no,1987,Sega,Driving - Motorbike,,15kHz,horizontal,,,1,Wheel,,3
 shangon3,Super Hang-On (sitdown - upright) [bl],World,,yes,Super Hang-On,Sega Out Run hardware,Hang-On,no,yes,1987,Sega,Driving - Motorbike,,15kHz,horizontal,,,1,Wheel,,3
 shaolinb,Shao-lin's Road (set 2),World,,yes,,Konami 6809 based,,no,no,1985,Konami,Platform - Fighter,,15kHz,vertical (cw),,,2 (alternating),4-way,,2
-shaolins,Shao-lin's Road (set 1),World,,yes,,Konami 6809 based,,no,no,1985,Konami,Platform - Fighter,,15kHz,vertical (cw),,,2 (alternating),4-way,,2
+shaolins,Shao-lin's Road (set 1),World,,yes,,Konami 6809 based,,no,no,1985,Konami,Platform - Fighter,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
 shinobi,"Shinobi (W, S16A, Set 6)",World,"S16A, Set 6, No Protection",no,Shinobi,Sega System 16,Shinobi,no,no,1987,Sega,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,3
 shinobi1,"Shinobi (W, S16A, Set 1)",World,"S16B, Set 1",yes,Shinobi,Sega System 16,Shinobi,no,no,1987,Sega,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,3
 shinobi2,"Shinobi (W, S16B, Set 2)",World,"S16B, Set 2",yes,Shinobi,Sega System 16,Shinobi,no,no,1987,Sega,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,3
