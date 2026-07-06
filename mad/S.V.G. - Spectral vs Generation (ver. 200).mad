@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>svg</setname>
+	<name>S.V.G. - Spectral vs Generation (ver. 200)</name>
+	<region>World</region>
+	<version>ver. 200</version>
+	<alternative>no</alternative>
+	<parent_title>S.V.G. - Spectral vs Generation</parent_title>
+	<platform>IGS PGM</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>2005</year>
+	<manufacturer>IGS</manufacturer>
+	<manufacturer>Idea Factory</manufacturer>
+	<category>Fighter - Versus</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>4</num_buttons>
+</misterarcadedescription>

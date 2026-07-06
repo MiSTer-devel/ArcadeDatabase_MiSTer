@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>theglad</setname>
+	<name>The Gladiator (ver. 107)</name>
+	<region>World</region>
+	<version>ver. 107</version>
+	<alternative>no</alternative>
+	<parent_title>The Gladiator</parent_title>
+	<platform>IGS PGM</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>2003</year>
+	<manufacturer>IGS</manufacturer>
+	<category>Fighter - 2.5D</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2-4 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>4</num_buttons>
+</misterarcadedescription>

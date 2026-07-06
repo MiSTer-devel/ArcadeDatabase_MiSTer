@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>ket</setname>
+	<name>Ketsui - Kizuna Jigoku Tachi (2003.01.01. Master Ver.)</name>
+	<region>Japan</region>
+	<version>2003.01.01. Master Ver.</version>
+	<alternative>no</alternative>
+	<parent_title>Ketsui - Kizuna Jigoku Tachi</parent_title>
+	<platform>IGS PGM</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>2002</year>
+	<manufacturer>CAVE</manufacturer>
+	<category>Shooter - Flying Vertical</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>

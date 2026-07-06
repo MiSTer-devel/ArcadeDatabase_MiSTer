@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>kovsh</setname>
+	<name>Knights of Valour Super Heroes (ver. 104, CN)</name>
+	<region>China</region>
+	<version>ver. 104</version>
+	<alternative>no</alternative>
+	<parent_title>Knights of Valour Super Heroes</parent_title>
+	<platform>IGS PGM</platform>
+	<series>Knights of Valour</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1999</year>
+	<manufacturer>IGS</manufacturer>
+	<category>Fighter - 2.5D</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2-4 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>4</num_buttons>
+</misterarcadedescription>

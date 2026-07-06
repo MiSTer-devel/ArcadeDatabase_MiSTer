@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>killbldp</setname>
+	<name>The Killing Blade Plus (China, ver. 300)</name>
+	<region>China</region>
+	<version>ver. 300</version>
+	<alternative>no</alternative>
+	<parent_title>The Killing Blade Plus</parent_title>
+	<platform>IGS PGM</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>2005</year>
+	<manufacturer>IGS</manufacturer>
+	<category>Fighter - Versus</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>4</num_buttons>
+</misterarcadedescription>

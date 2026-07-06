@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>dwex</setname>
+	<name>Dragon World 3 EX (ver. 100)</name>
+	<region>World</region>
+	<version>ver. 100</version>
+	<alternative>no</alternative>
+	<parent_title>Dragon World 3 EX</parent_title>
+	<platform>IGS PGM</platform>
+	<series>Dragon World</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>2000</year>
+	<manufacturer>IGS</manufacturer>
+	<category>Tabletop - Shanghai</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>4</num_buttons>
+</misterarcadedescription>
