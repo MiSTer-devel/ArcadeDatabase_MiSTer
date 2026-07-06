@@ -599,6 +599,7 @@ eswatj,"E-Swat - Cyber Police (JP, Set 2)",Japan,"Set 2, FD1094 317-0128",yes,E-
 eswatj1,"E-Swat - Cyber Police (JP, Set 1)",Japan,"Set 1, FD1094 317-0131",yes,E-Swat,Sega System 16,,no,no,1989,Sega,Platform - Shooter Scrolling,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,3
 eswatu,"E-Swat - Cyber Police (US, Set 3)",USA,"Set 3, FD1094 317-0129",yes,E-Swat,Sega System 16,,no,no,1989,Sega,Platform - Shooter Scrolling,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,3
 europac,Euro Pac [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Stefano Priore,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+excthour,Exciting Hour,Japan,,yes,Mat Mania,Mat Mania hardware,,no,no,1985,Technos Japan (Taito License),Sports - Wrestling,,15kHz,vertical (ccw),no,,2 (alternating),8-way,,2
 exctleag,Excite League (W),World,FD1094 317-0079,no,Excite League,Sega System 16,,no,no,1988,Sega,Sports - Baseball,,15kHz,horizontal,n-a,,2 (simultaneous),,,3
 exedexes,Exed Exes,World,,no,Exed Exes,Capcom CPS-0,,no,no,1985,Capcom,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 exeriont,Exerion (Taito),World,,no,Exerion,Jaleco Exerion based,Exerion,no,no,1983,Jaleco (Taito America License),Shooter - Gallery,,15kHz,vertical (cw),,,2 (alternating),8-way,,2
@@ -1001,12 +1002,15 @@ makaimurg,"Makai-Mura (JP, Rev G)",Japan,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985
 makaimurb,"Makai-Mura (JP, Rev B)",Japan,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
 mandinga,"Mandinga (Amidar, Artemi) [bl]",World,"Amidar, Artemi",yes,Amidar,Konami Scramble based,,no,yes,1982,Konami - Artemi,Maze - Outline,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 manhatan,Manhattan 24 Bunsyo (JP),Japan,,no,jailbrek,Konami Green Beret based,,no,no,1986,Konami,Platform - Shooter Scrolling,,15kHz,horizontal,no,,2 (alternating),8-way,,
+maniach,Mania Challenge (Set 1),US,Set 1,no,Mania Challenge,Mat Mania hardware,,no,no,1986,Technos Japan (Taito America License),Sports - Wrestling,,15kHz,vertical (ccw),no,,2 (simultaneous),8-way,,2
+maniach2,Mania Challenge (Set 2),US,Set 2,yes,Mania Challenge,Mat Mania hardware,,no,no,1986,Technos Japan (Taito America License),Sports - Wrestling,,15kHz,vertical (ccw),no,,2 (simultaneous),8-way,,2
 mappy,Mappy (US),USA,,no,,Namco Super Pac-Man hardware,,no,no,1983,Namco,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 mappyj,Mappy (JP),Japan,,yes,Mappy,Namco Super Pac-Man hardware,,no,no,1983,Namco,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 mario,"Mario Bros. (US, Rev G)",USA,Rev G,no,,Mario Bros. hardware,Mario,no,no,1983,Nintendo,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),2-way horizontal,,1
 marpy,Marpy [hb],World,,yes,Mappy,Namco Super Pac-Man hardware,,yes,no,1983,Namco,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 mars,Mars,World,,no,,Konami Scramble based,,no,no,1981,Artic,Shooter - Flying Horizontal,,15kHz,vertical (cw),yes,,2 (alternating),8-way,twin stick,4
 martmast,"Martial Masters (ver. 104, 102, 102US)",World,ver. 104,no,Martial Masters,IGS PGM,,no,no,2001,IGS,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+matmania,Mat Mania,US,,no,Mat Mania,Mat Mania hardware,,no,no,1985,Technos Japan (Taito America License),Sports - Wrestling,,15kHz,vertical (ccw),no,,2 (alternating),8-way,,2
 maxrpm,Max RPM (v2),World,v2,no,,Midway MCR3,,no,no,1986,Bally - Midway,Driving - Race (chase view),,15kHz,horizontal,,,2 (simultaneous),2-way vertical,paddle - pedal,2
 mayday,Mayday (Set 1),World,Set 1,no,,Williams 1st Generation,,no,no,1980,Hoei,Shooter - Flying Horizontal,,15kHz,horizontal,,,1,8-way,,3
 maydaya,Mayday (Set 2),World,Set 2,yes,Mayday,Williams 1st Generation,,no,no,1980,Hoei,Shooter - Flying Horizontal,,15kHz,horizontal,,,1,8-way,,3
