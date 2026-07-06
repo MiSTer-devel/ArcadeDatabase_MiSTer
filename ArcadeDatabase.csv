@@ -900,6 +900,7 @@ joust2,Joust 2 - Survival of the Fittest (Rev 2),World,Rev. 2,no,Joust 2,William
 joust2r1,Joust 2 - Survival of the Fittest (Rev 1),World,Rev. 1,yes,Joust 2,Williams 2nd Generation,Joust,no,no,1986,Williams,Platform - Run Jump,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,
 joustr,Joust (Solid Red Label),World,Solid Red Label,yes,Joust,Williams 1st Generation,Joust,no,no,1982,Williams,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),2-way horizontal,,1
 joustwr,Joust (White-Red Label),World,White-Red Label,yes,Joust,Williams 1st Generation,Joust,no,no,1982,Williams,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),2-way horizontal,,1
+jrpacman,Jr. Pac-Man,World,,no,Jr. Pac-Man,Namco Pac-Man hardware,Pac-Man,no,no,1983,Bally - Midway,Maze - Collect,,15kHz,vertical (cw),no,,2 (alternating),4-way,,0
 jumpshot,Jump Shot,World,,no,Jump Shot,Namco Pac-Man hardware,,no,no,1985,Bally - Midway,Sports - Basketball,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,1
 jumpshotp,Jump Shot (Engineering Sample),World,Engineering Sample,yes,Jump Shot,Namco Pac-Man hardware,,no,no,1985,Bally - Midway,Sports - Basketball,,15kHz,vertical (cw),no,,2 (simultaneous),8-way,,1
 jyangoku,"Jyangokushi- Haoh no Saihai (JP, 990527)",Japan,990527,no,,Capcom CPS-2,,no,no,1999,Capcom,Tabletop - Mahjong,,15kHz,horizontal,n-a,,1,8-way,n-a,2
