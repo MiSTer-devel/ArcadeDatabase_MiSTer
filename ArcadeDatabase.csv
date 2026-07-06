@@ -446,6 +446,8 @@ ddonpach,DoDonPachi,World,,no,DoDonPachi,CAVE 68000,DonPachi,no,no,1997,CAVE,Sho
 ddonpacha,DoDonPachi (Arrange),World,,no,DoDonPachi,CAVE 68000,DonPachi,no,no,2012,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 ddonpachj,DoDonPachi (JP),Japan,,no,DoDonPachi,CAVE 68000,DonPachi,no,no,1997,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 ddonpachjt,DoDonPachi Trainer (JP),Japan,Trainer,no,DoDonPachi,CAVE 68000,DonPachi,no,no,1997,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+ddp2,"DoDonPachi II - Bee Storm (World, ver. 102)",World,ver. 102,no,DoDonPachi II - Bee Storm,IGS PGM,DonPachi,no,no,2001,IGS,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,4
+ddp3,"DoDonPachi III (World, 2002.05.15 Master Ver)",World,2002.05.15 Master Ver,no,DoDonPachi III,IGS PGM,DonPachi,no,no,2002,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 ddragon,Double Dragon (JP),Japan,,no,Double Dragon,Technos 6309 based,,no,no,1987,Technos Japan,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 ddragon2,Double Dragon II- The Revenge (W),World,,yes,Double Dragon,Technos 6309 based,,no,no,1988,Technos Japan,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 ddragon2j,Double Dragon II- The Revenge (JP),Japan,,no,Double Dragon,Technos 6309 based,,no,no,1988,Technos Japan,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
@@ -537,6 +539,7 @@ dkrainbow,Rainbow Donkey Kong [hb],World,,yes,Donkey Kong,Donkey Kong hardware,D
 dkrdemo,"Donkey Kong (Remix, Rev 1.8) [hb]",World,"Remix, Rev 1.8",yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 dktrainer,Donkey Kong Trainer (v1.01) [hb],World,v1.01,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 dland,Dream Land- Super Dream Land (Bubble Bobble) [bl],World,Bubble Bobble,yes,Bubble Bobble,Taito Bubble Booble based,Bubble Bobble,no,yes,1986,Taito,Platform - Run Jump,,15kHz,horizontal,n-a,,2 (simultaneous),2-way horizontal,,2
+dmnfrnt,Demon Front (ver. 105),World,ver. 105,no,Demon Front,IGS PGM,,no,no,2002,IGS,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
 dogosoke,Dogou Souken,Japan,,yes,Victory Road,SNK Triple Z80,,no,no,1986,SNK,Shooter - Walking,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 dokaben,Dokaben (JP),Japan,,no,,Capcom Mitchell,Dokaben,no,no,1989,Capcom,Sports - Cards,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 dokaben2,Dokaben 2 (JP),Japan,,no,,Capcom Mitchell,Dokaben,no,no,1989,Capcom,Sports - Cards,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
@@ -556,6 +559,7 @@ dotron,Discs of Tron,World,,no,,Midway MCR3,Tron,no,no,1983,Bally - Midway,Sport
 dotrona,Discs of Tron (Alt.),World,Alt.,yes,Discs of Tron,Midway MCR3,,no,no,1983,Bally - Midway,Sports - Misc.,,15kHz,horizontal,,,1,8-way,,4
 dremshpr,Dream Shopper,World,,no,,Namco Pac-Man hardware,,no,no,1982,Sanritsu,Puzzle - Maze,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
 drgninja,"Dragonninja (JP, Rev. 1)",Japan,Rev. 1,no,Bad Dudes vs. Dragonninja,Data East MEC-M1,,no,no,1988,Data East,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,2
+drgw3,Dragon World 3 (ver. 106),World,ver. 106,no,Dragon World 3,IGS PGM,Dragon World,no,no,1998,IGS,Tabletop - Shanghai,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
 dstlk,"Darkstalkers- The Night Warriors (EU, 940705)",Europe,940705,no,,Capcom CPS-2,Darkstalkers,no,no,1994,Capcom,Fighter - Versus,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,6
 dstlka,"Darkstalkers- The Night Warriors (AS, 940705)",Asia,940705,yes,Darkstalkers- The Night Warriors,Capcom CPS-2,Darkstalkers,no,no,1994,Capcom,Fighter - Versus,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,6
 dstlkh,"Darkstalkers- The Night Warriors (HS, 940818)",Hispanic,940818,yes,Darkstalkers- The Night Warriors,Capcom CPS-2,Darkstalkers,no,no,1994,Capcom,Fighter - Versus,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,6
@@ -566,6 +570,8 @@ dumpmtmt,"Dump Matsumoto (JP, 317-0011a)",Japan,317-0011a,yes,Body Slam,Sega Sys
 dunkshot,"Dunk Shot (W, Rev C)",World,"Rev C, FD1089A 317-0022",no,Dunk Shot,Sega System 16,,,,1987,Sega,Sports - Basketball,,15kHz,horizontal,,,4 (simultaneous),,,
 dunkshota,"Dunk Shot (W, Rev A)",World,"Rev A, FD1089A 317-0022",yes,Dunk Shot,Sega System 16,,,,1987,Sega,Sports - Basketball,,15kHz,horizontal,,,4 (simultaneous),,,
 dunkshoto,"Dunk Shot (W, 317-0022)",World,FD1089A 317-0022,yes,Dunk Shot,Sega System 16,,,,1987,Sega,Sports - Basketball,,15kHz,horizontal,,,4 (simultaneous),,,
+dw2001,"Dragon World 2001 (ver. 100, Japan)",Japan,ver. 100,no,Dragon World 2001,IGS PGM,Dragon World,no,no,2001,IGS,Tabletop - Shanghai,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+dwex,Dragon World 3 EX (ver. 100),World,ver. 100,no,Dragon World 3 EX,IGS PGM,Dragon World,no,no,2000,IGS,Tabletop - Shanghai,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
 dynwar,"Dynasty Wars (US, 89624B)",USA,89624B,no,,Capcom CPS-1,Dynasty Wars,no,no,1989,Capcom,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
 dynwara,"Dynasty Wars (US, 88622B-3)",USA,88622B-3,yes,Dynasty Wars,Capcom CPS-1,Dynasty Wars,no,no,1989,Capcom,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
 dynwarj,Tenchi wo Kurau (JP),Japan,,yes,Dynasty Wars,Capcom CPS-1,Dynasty Wars,no,no,1989,Capcom,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
@@ -580,6 +586,7 @@ ecofghtru1,"Eco Fighters (US, 931203)",USA,931203,yes,Eco Fighters,Capcom CPS-2,
 eeekkp,Eeek! (Pac-Man Conversion),World,Pac-Man Conversion,no,,Namco Pac-Man hardware,,no,no,1984,Epos Corporation,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 eggor,Eggor,World,,no,,Namco Pac-Man hardware,,no,no,1983,Telko,Maze - Shooter Small,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 eltonpac,Elton Pac [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Marcel Silvius,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+espgal,Espgaluda (2003.10.15 Master Ver),Japan,2003.10.15 Master Ver,no,Espgaluda,IGS PGM,,no,no,2003,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,4
 esprade,ESP Ra.De.,World,,no,,CAVE 68000,,no,no,1998,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 espradej,ESP Ra.De. (JP),Japan,,no,ESP Ra.De.,CAVE 68000,,no,no,1998,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 esprade_fp,ESP Ra.De. (Free Play),World,Free Play,yes,ESP Ra.De.,CAVE 68000,,no,no,1998,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
@@ -909,12 +916,15 @@ kchampvs4,"Karate Champ (US, VS Ver, Set 4)",USA,Set 4,yes,Karate Champ,Data Eas
 karateda,Karate Dou (Arfyc) [bl],bootleg,Arfyc,yes,Karate Champ,Data East Z80 based,Karate Champ,no,no,1984,Data East,Fighter - Versus,,15kHz,vertical (cw),,,2 (alternating),4-way,,4
 kchamptec,Karate Champ (Tecfri) [bl],bootleg,Tecfri,yes,Karate Champ,Data East Z80 based,Karate Champ,no,no,1984,Data East,Fighter - Versus,,15kHz,vertical (cw),,,2 (alternating),4-way,,4
 kchamp2p,"Karate Champ (US, 2P)",USA,2P,yes,Karate Champ,Data East Z80 based,Karate Champ,no,no,1984,Data East,Fighter - Versus,,15kHz,vertical (cw),,,2 (alternating),4-way,,4
+ket,Ketsui - Kizuna Jigoku Tachi (2003.01.01. Master Ver.),Japan,2003.01.01. Master Ver.,no,Ketsui - Kizuna Jigoku Tachi,IGS PGM,,no,no,2002,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 kick,Kick,World,,no,,Midway MCR1,,no,no,1980,Midway,Ball &amp; Paddle - Jump and Touch,,15kHz,vertical (cw),no,,1,,trackball,1
 kickc,Kick (Cocktail),World,Cocktail,yes,Kick,Midway MCR,,no,no,1981,Midway,Ball &amp; Paddle - Jump and Touch,,15kHz,vertical (cw),no,,1,2-way horizontal,,0
 kicker,Kicker,World,,no,,Konami 6809 based,,no,no,1985,Konami,Platform - Fighter,,15kHz,vertical (cw),,,2 (alternating),4-way,,2
 kickman,Kick-Man,World,,yes,Kick,Midway MCR1,,no,no,1980,Midway,Ball &amp; Paddle - Jump and Touch,,15kHz,vertical (cw),no,,1,,trackball,1
 kidniki,Kid Niki- Radical Ninja (W),World,,no,Kid Niki - Radical Ninja,Irem M62,,no,no,1986,Irem,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
 kidnikiu,Kid Niki - Radical Ninja (US),USA,,yes,Kid Niki - Radical Ninja,Irem M62,,no,no,1986,Irem,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
+killbld,"The Killing Blade (ver. 109, Chinese Board)",China,ver. 109,no,The Killing Blade,IGS PGM,,no,no,1998,IGS,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+killbldp,"The Killing Blade Plus (China, ver. 300)",China,ver. 300,no,The Killing Blade Plus,IGS PGM,,no,no,2005,IGS,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
 killiped,Killipede [hb],World,,yes,Centipede,Atari Centipede based,,yes,no,1980,Atari,Shooter - Gallery,,15kHz,vertical (ccw),no,,1,,trackball,1
 kingball,King and Balloon (US),USA,,no,,Namco Galaxian based,,no,no,1980,Namco,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 kingballj,King and Balloon,World,,no,,Namco Galaxian based,,no,no,1980,Namco,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
@@ -933,6 +943,8 @@ konek,Konek Gorbunok,World,,no,,TIAMC1,,no,no,1988,Terminal,"Platform - Run, Jum
 kong2600,Donkey Kong (2600 GFX) [hb],World,2600 GFX,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 koroleva,Snezhnaja Koroleva,World,,no,,TIAMC1,,no,no,1988,Terminal,Maze - Escape,,15kHz,horizontal,,,1,4-way,,1
 kot,Kot-Rybolov,World,,no,,TIAMC1,,no,no,1988,Terminal,Fighter - Versus,,15kHz,horizontal,,,1,8-way,,2
+kov2,Knights of Valour 2 (ver. 107),World,ver. 107,no,Knights of Valour 2,IGS PGM,Knights of Valour,no,no,2000,IGS,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,4
+kovsh,"Knights of Valour Super Heroes (ver. 104, CN)",China,ver. 104,no,Knights of Valour Super Heroes,IGS PGM,Knights of Valour,no,no,1999,IGS,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,4
 kozure,Kozure Ookami (JP),Japan,,no,Kozure Ookami,Nichibutsu M68000 (Armed F),,no,no,1987,Nichibutsu,Fighter - 2.5D,,15kHz,horizontal,,,2 (alternating),8-way,,2
 kroozr,Kozmik Krooz'r,World,,no,,Midway MCR2,,no,no,1983,Bally - Midway,Shooter - Field,,15kHz,horizontal,,,1,8-way,rotary,1
 kungfub,Kung-Fu Master (Set 1) [bl],World,Set 1,yes,Kung-Fu Master,Irem M62,,no,yes,1984,Irem,Fighter - 2D,,15kHz,horizontal,,,2 (alternating),8-way,,2
@@ -988,6 +1000,7 @@ mappyj,Mappy (JP),Japan,,yes,Mappy,Namco Super Pac-Man hardware,,no,no,1983,Namc
 mario,"Mario Bros. (US, Rev G)",USA,Rev G,no,,Mario Bros. hardware,Mario,no,no,1983,Nintendo,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),2-way horizontal,,1
 marpy,Marpy [hb],World,,yes,Mappy,Namco Super Pac-Man hardware,,yes,no,1983,Namco,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 mars,Mars,World,,no,,Konami Scramble based,,no,no,1981,Artic,Shooter - Flying Horizontal,,15kHz,vertical (cw),yes,,2 (alternating),8-way,twin stick,4
+martmast,"Martial Masters (ver. 104, 102, 102US)",World,ver. 104,no,Martial Masters,IGS PGM,,no,no,2001,IGS,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
 maxrpm,Max RPM (v2),World,v2,no,,Midway MCR3,,no,no,1986,Bally - Midway,Driving - Race (chase view),,15kHz,horizontal,,,2 (simultaneous),2-way vertical,paddle - pedal,2
 mayday,Mayday (Set 1),World,Set 1,no,,Williams 1st Generation,,no,no,1980,Hoei,Shooter - Flying Horizontal,,15kHz,horizontal,,,1,8-way,,3
 maydaya,Mayday (Set 2),World,Set 2,yes,Mayday,Williams 1st Generation,,no,no,1980,Hoei,Shooter - Flying Horizontal,,15kHz,horizontal,,,1,8-way,,3
@@ -1148,11 +1161,13 @@ nwarrud,"Night Warriors- Darkstalkers' Revenge (US, Phoenix Edition)",USA,Phoeni
 nwpuc2b,New Puck 2 (Set 2) [hb],World,Set 2,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Linear Elect,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 offender,Offender [hb],World,,yes,Scramble,Konami Scramble based,,yes,no,1981,Konami,Shooter - Flying Horizontal,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
 offensiv,"Offensive (ES, Scramble) [bl]",Spain,"Scramble, Spanish",yes,Scramble,Konami Scramble based,,no,yes,1981,Konami,Shooter - Flying Horizontal,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
+olds103t,"Xiyou Shi E Zhuan Super (ver. 103, China, Tencent) (unprotected)",China,ver. 103,no,Oriental Legend Special,IGS PGM,Oriental Legend,no,yes,1998,IGS,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,4
 omegab,Omega,World,,no,,Namco Galaxian based,,no,yes,1981,Nihon,Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),2-way horizontal,,1
 omni,Omni,World,,yes,Pisces,Namco Galaxian based,,no,no,1982,,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 opaopa,"Opa Opa (MC-8123, 317-0042)",World,"MC-8123, 317-0042",yes,Opa Opa,Sega System E,,no,no,1987,Sega,Maze - Collect,,15kHz,horizontal,,,1,8-way,,2
 opaopan,"Opa Opa (Rev A, unprotected)",World,"Rev. A, unprotected",yes,Opa Opa,Sega System E,,no,no,1987,Sega,Maze - Collect,,15kHz,horizontal,,,1,8-way,,2
 orbitron,Orbitron,World,,no,,Namco Galaxian based,,no,no,1982,Comsoft,Shooter - Command,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,1
+orlegend,Oriental Legend (ver. 126),World,ver. 126,no,Oriental Legend,IGS PGM,Oriental Legend,no,no,1997,IGS,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,4
 ottopza,Crazy Otto - The Original Ms Pacman [hb],World,,yes,Ms. Pac-man,Namco Pac-Man hardware,Ms. Pac-man,yes,no,2018,,Maze - Collect,,15kHz,vertical (cw),,,2 (alternating),4-way,,0
 outrun,"Out Run (sitdown - upright, Rev B)",World,,no,Out Run,Sega Out Run hardware,Out Run,no,no,1986,Sega,Driving - Race (chase view),,15kHz,horizontal,,,1,Wheel,,3
 outrundx,Out Run (deluxe sitdown),World,,yes,Out Run,Sega Out Run hardware,Out Run,no,no,1986,Sega,Driving - Race (chase view),,15kHz,horizontal,,,1,Wheel,,3
@@ -1249,6 +1264,7 @@ phoenixj,"Phoenix (JP, Taito)",Japan,Taito,yes,Phoenix,Taito Unique,,no,no,1980,
 phoenixr,PhoenixR (GDR) [hb],World,GDR,yes,Phoenix,Taito Unique,,yes,no,1980,CYBERYOGI =CO= Windler,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 phoenixs,"Phoenix (ES, Sonic) [bl]",World,"Sonic, Spanish",yes,Phoenix,Taito Unique,,no,yes,1981,Amstar,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,2
 phoenixt,Phoenix,World,,yes,Phoenix,Taito Unique,,no,no,1980,Amstar,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,2
+photoy2k,Photo Y2K (ver. 105),World,ver. 105,no,Photo Y2K,IGS PGM,,no,no,1999,IGS,Puzzle - Misc.,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
 pickin,Pickin',World,,no,,Taito Licensed,,no,no,1983,Valadon Automation,Puzzle - Maze,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 pickinpi,Pickin' (Color Hack) [hb],World,Color Hack,yes,Pickin',Taito Licensed,,yes,no,1983,Pi,Puzzle - Maze,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 pingpong,Konami's Ping-Pong,World,,no,,Konami Z80,,no,no,1985,Konami,Sports - Ping Pong,,15kHz,horizontal,,,2 (simultaneous),2,,
@@ -1777,6 +1793,7 @@ superpacm,Super Pac-Man (Midway),USA,Midway,yes,Super Pac-Man,Namco Super Pac-Ma
 suprheli,Super Heli (Super Cobra bootleg) [bl],World,Super Cobra,yes,Super Cobra,Konami Scramble based,,no,yes,1981,Konami,Shooter - Flying Horizontal,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
 suprleag,Super League (W),World,FD1094 317-0045,no,Super League,Sega System 16,,no,no,1987,Sega,Sports - Baseball,,15kHz,horizontal,n-a,,2 (alternating),,,3
 sutapper,Tapper (Suntory),World,Suntory,yes,Tapper,Midway MCR3,,no,no,1983,Bally - Midway,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),4-way,,1
+svg,S.V.G. - Spectral vs Generation (ver. 200),World,ver. 200,no,S.V.G. - Spectral vs Generation,IGS PGM,,no,no,2005,IGS / Idea Factory,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
 swarm,Swarm [bl],World,,yes,Galaxian,Namco Galaxian based,,no,yes,1979,Subelectro,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 swat,SWAT (315-5048),World,315-5048,no,,Sega System 1,,no,no,1984,Sega,Shooter - Field,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,2
 sxevious,Super Xevious,World,,no,xevious,Namco Galaga based,,no,no,1982,Namco,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
@@ -1801,6 +1818,7 @@ tetris3,"Tetris (JP, S16A, Set 3)",Japan,Set 3,yes,Tetris,Sega System 16,Tetris,
 tetrisse,"Tetris (JP, System E)",Japan,System E,no,,Sega System E,,no,no,1988,Sega,Puzzle - Drop,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 theend,The End,World,,no,,Konami Scramble based,,no,no,1980,Konami,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 theends,The End (Stern),World,Stern,yes,The End,Konami Scramble based,,no,no,1980,Konami - Stern,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,1
+theglad,The Gladiator (ver. 107),World,ver. 107,no,The Gladiator,IGS PGM,,no,no,2003,IGS,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,4
 theglobp,The Glob (Pac-Man Hardware),World,Pac-Man Hardware,no,,Namco Pac-Man hardware,,no,no,1983,Epos Corporation,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
 theroes,Thunder Heroes,World,,no,Thunder Heroes,CAVE 68000,,no,no,2001,CAVE,Fighter - 2.5D,,15kHz,horizontal,no,,2 (simultaneous),8-way,,4
 thndblst,Thunder Blaster (JP),Japan,,yes,Lethal Thunder,Irem M92,Lethal Thunder,no,no,1992,Irem,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
