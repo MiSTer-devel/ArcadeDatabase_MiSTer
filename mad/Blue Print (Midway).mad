@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>blueprnt</setname>
+	<name>Blue Print (Midway)</name>
+	<region>World</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>Blue Print</parent_title>
+	<platform>Blue Print hardware</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1982</year>
+	<manufacturer>Zilec Electronics</manufacturer>
+	<manufacturer>Bally Midway</manufacturer>
+	<category>Maze - Collect</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>4-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>
