@@ -845,7 +845,7 @@ horekid,Kid no Hore Hore Daisakusen,Japan,,no,Kid no Hore Hore Daisakusen,Nichib
 horekidb,Kid no Hore Hore Daisakusen (Set 1) [bl],Japan,,yes,Kid no Hore Hore Daisakusen,Nichibutsu M68000 (Terra Cresta),,no,yes,1987,Nichibutsu,Maze - Defeat Enemies,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 horekidb2,Kid no Hore Hore Daisakusen (Set 2) [bl],Japan,,yes,Kid no Hore Hore Daisakusen,Nichibutsu M68000 (Terra Cresta),,no,yes,1987,Nichibutsu,Maze - Defeat Enemies,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 horizon,Horizon (Irem),World,,no,,Irem M62,,no,no,1985,Irem,Shooter - Driving Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
-hotdogst,Hotdog Storm,World,,no,Hotdog Storm,CAVE 68000,,no,no,1996,Marble,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,3
+hotdogst,Hotdog Storm,World,,no,Hotdog Storm,CAVE 68000,,no,no,1996,Marble,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
 housepty,House Party [hb],World,,yes,Mappy,Namco Super Pac-Man hardware,,yes,no,1983,Jerky,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 hpolym84,Hyper Olympic '84,World,,yes,,Konami 6809 based,,no,no,1984,Konami,Sports - Track &amp; Field,,15kHz,horizontal,,,4 (alternating),,,3
 hsf2,"Hyper Street Fighter II- The Anniversary Edition (US, 040202)",USA,40202,no,,Capcom CPS-2,Street Fighter,no,no,2004,Capcom,Fighter - Versus,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,6
@@ -1009,8 +1009,8 @@ maydaya,Mayday (Set 2),World,Set 2,yes,Mayday,Williams 1st Generation,,no,no,198
 maydayb,Mayday (Set 3),World,Set 3,yes,Mayday,Williams 1st Generation,,no,no,1980,Hoei,Shooter - Flying Horizontal,,15kHz,horizontal,,,1,8-way,,3
 maze,Amazing Maze,World,,no,Amazing Maze,Midway 8080,,no,no,1976,Midway,Maze - Collect,,15kHz,horizontal,,,2 (alternating),8-way,,0
 mazeman,Maze Man [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Atari,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-mazinger,Mazinger Z,World,,no,Mazinger Z,CAVE 68000,Mazinger Z,no,no,1994,Banpresto,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,3
-mazingerj,Mazinger Z (JP),Japan,,no,Mazinger Z,CAVE 68000,Mazinger Z,no,no,1994,Banpresto,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,3
+mazinger,Mazinger Z,World,,no,Mazinger Z,CAVE 68000,Mazinger Z,no,no,1994,Banpresto,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
+mazingerj,Mazinger Z (JP),Japan,,no,Mazinger Z,CAVE 68000,Mazinger Z,no,no,1994,Banpresto,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
 mbomberj,"Muscle Bomber- The Body Explosion (JP, 930713)",Japan,930713,yes,Slam Masters,Capcom CPS-1.5,Slam Masters,no,no,1993,Capcom,Sports - Wrestling,,15kHz,horizontal,n-a,,4 (simultaneous),8-way,,3
 mbombrd,"Muscle Bomber Duo- Ultimate Team Battle (W, 931206)",World,931206,no,,Capcom CPS-1.5,Slam Masters,no,no,1993,Capcom,Sports - Wrestling,,15kHz,horizontal,n-a,,4 (simultaneous),8-way,,3
 mbombrdj,"Muscle Bomber Duo- Heat Up Warriors (JP, 931206)",Japan,931206,yes,Slam Masters,Capcom CPS-1.5,Slam Masters,no,no,1993,Capcom,Sports - Wrestling,,15kHz,horizontal,n-a,,4 (simultaneous),8-way,,3
