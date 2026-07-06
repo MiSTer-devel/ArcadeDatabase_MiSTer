@@ -2117,8 +2117,8 @@ roadblst,"Road Blasters (Upright, Rev 4)",World,"Upright, Rev 4",no,Road Blaster
 roadrunn1,Road Runner (Rev 1),World,Rev 1,yes,Road Runner,Atari System-1,Road Runner,no,no,1985,Atari Games,"Platform - Run, Jump &amp; Scrolling",,15kHz,horizontal,,,2 (alternating),Stick - Pedal,,2
 roadrunn2,Road Runner (Rev 1+),World,Rev 1+,yes,Road Runner,Atari System-1,Road Runner,no,no,1985,Atari Games,"Platform - Run, Jump &amp; Scrolling",,15kHz,horizontal,,,2 (alternating),Stick - Pedal,,2
 roadrunn,Road Runner (Rev 2),World,Rev 2,no,Road Runner,Atari System-1,Road Runner,no,no,1985,Atari Games,"Platform - Run, Jump &amp; Scrolling",,15kHz,horizontal,,,2 (alternating),Stick - Pedal,,2
-junofrst,Juno First,World,,no,Juno First,Konami Juno First hardware,Juno First,no,no,1983,Konami,Shooter - Gallery,,15kHz,vertical (cw),,,2 (alternating),8-way,,3
-junofrstg,Juno First (Gottlieb),World,,yes,Juno First,Konami Juno First hardware,Juno First,no,no,1983,Konami (Gottlieb license),Shooter - Gallery,,15kHz,vertical (cw),,,2 (alternating),8-way,,3
+junofrst,Juno First,World,,no,Juno First,Konami Juno First hardware,Juno First,no,no,1983,Konami,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,3
+junofrstg,Juno First (Gottlieb),World,,yes,Juno First,Konami Juno First hardware,Juno First,no,no,1983,Konami (Gottlieb license),Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,3
 tmnt,"Teenage Mutant Ninja Turtles (W, 4P, Ver. X)",World,"4 Player, Version X",no,,Konami TMNT based,Teenage Mutant Ninja Turtles,no,no,1989,Konami,Fighter - 2.5D,,15kHz,horizontal,,,4 (simultaneous),8-way,,2
 tmht2p,"Teenage Mutant Hero Turtles (UK, 2P, Ver. U)",Europe,"2 Player, Version U",yes,Teenage Mutant Ninja Turtles,Konami TMNT based,Teenage Mutant Ninja Turtles,no,no,1989,Konami,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 tmht2pa,"Teenage Mutant Hero Turtles (UK, 2P, Ver. X)",Europe,"2 Player, Version -",yes,Teenage Mutant Ninja Turtles,Konami TMNT based,Teenage Mutant Ninja Turtles,no,no,1989,Konami,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
