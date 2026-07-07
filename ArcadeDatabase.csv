@@ -2296,7 +2296,7 @@ iganinju,Iga Ninjyutsuden (JP),Japan,,no,Ninja Kazan,Jaleco Mega System 1,,no,no
 iganinjub,Iga Ninjyutsuden (JP) [bl],bootleg,,yes,Ninja Kazan,Jaleco Mega System 1,,no,yes,1988,bootleg,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
 hachoo,Hachoo!,World,,no,,Jaleco Mega System 1,,no,no,1989,Jaleco,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 jitsupro,Jitsuryoku!! Pro Yakyuu (JP),Japan,,no,,Jaleco Mega System 1,Moero!!,no,no,1989,Jaleco,Sports - Baseball,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
-plusalph,Plus Alpha,World,,no,,Jaleco Mega System 1,,no,no,1989,Jaleco,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (alternating),8-way,,2
+plusalph,Plus Alpha,World,,no,,Jaleco Mega System 1,,no,no,1989,Jaleco,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,2
 inyourfa,"In Your Face (US, Prototype)",USA,,no,,Jaleco Mega System 1,,no,no,1991,Jaleco,Sports - Basketball,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 edf,E.D.F. - Earth Defence Force (Set 1),World,Set 1,no,,Jaleco Mega System 1,,no,no,1991,Jaleco,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 edfa,E.D.F. - Earth Defence Force (Set 2),World,Set 2,yes,E.D.F. - Earth Defence Force,Jaleco Mega System 1,,no,no,1991,Jaleco,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
@@ -2569,7 +2569,7 @@ rumba,Rumba Lumber (Rev 1),World,Rev 1,no,,Taito The FairyLand Story hardware,,n
 victnine,Victorious Nine,World,,no,,Taito The FairyLand Story hardware,,no,no,1984,Taito,Sports - Baseball,,15kHz,horizontal,,,2 (simultaneous),8-way,,6
 bronx,Bronx [bl],bootleg,,yes,Cycle Shooting,Taito N.Y. Captor hardware,,no,no,1986,bootleg,Shooter - Gun,,15kHz,vertical (cw),,,1,,Lightgun,1
 juju,JuJu Densetsu (JP),Japan,,no,Toki,Seibu Toki hardware,,no,no,1989,TAD Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
-polaris,Polaris (LV),World,Latest Version,no,,Midway 8080,,no,no,1980,Taito,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),8-way,,1
+polaris,Polaris (LV),World,Latest Version,no,,Midway 8080,,no,no,1980,Taito,Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,1
 raiga,Raiga - Strato Fighter (JP),Japan,,no,Raiga - Strato Fighter,Tecmo Ninja Gaiden hardware,,no,no,1991,Tecmo,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 stratof,Raiga - Strato Fighter (US),USA,,yes,,Tecmo Ninja Gaiden hardware,,no,no,1991,Tecmo,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 rthunder,Rolling Thunder (Rev 3),World,Rev 3,no,,Namco System 86,Rolling Thunder,no,no,1986,Namco,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),4-way,,2
