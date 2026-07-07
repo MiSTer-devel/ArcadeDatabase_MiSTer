@@ -2214,7 +2214,7 @@ tmntu,"Teenage Mutant Ninja Turtles (US, 4P, Ver. R)",USA,"4 Player, Version R",
 mia,M.I.A. - Missing in Action (Ver. T),World,Version T,no,M.I.A. - Missing in Action,Konami TMNT based,Green Beret,no,no,1989,Konami,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 mia2,M.I.A. - Missing in Action (Ver. S),World,Version S,yes,M.I.A. - Missing in Action,Konami TMNT based,Green Beret,no,no,1989,Konami,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 moonqsr,Moon Quasar,World,,no,Moon Quasar,Namco Galaxian based,Moon Quasar,no,no,1980,Nichibutsu,Shooter - Gallery,,15kHz,vertical (cw),,,2 (alternating),2-way horizontal,,1
-porter,Port Man (Moon Cresta hardware) [bl],World,Moon Cresta hardware,no,Port Man,Namco Galaxian based,Port Man,no,no,1980,bootleg,Platform - Run Jump,,15kHz,vertical (cw),,,2 (alternating),8-way,,1
+porter,Port Man (bootleg on Moon Cresta hardware),World,Moon Cresta hardware,no,Port Man,Namco Galaxian based,Port Man,no,no,1982,bootleg,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 aliens,"Aliens (W, Set 1)",World,Set 1,no,Aliens,Konami Aliens based,Alien,no,no,1990,Konami,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 aliens2,"Aliens (W, Set 2)",World,Set 2,yes,Aliens,Konami Aliens based,Alien,no,no,1990,Konami,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 aliens3,"Aliens (W, Set 3)",World,Set 3,yes,Aliens,Konami Aliens based,Alien,no,no,1990,Konami,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
