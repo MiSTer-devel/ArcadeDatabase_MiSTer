@@ -2110,7 +2110,7 @@ xmultiplm72inv,"X Multiply (JP, M72 hardware, Inv)",Japan,,yes,X Multiply,Irem M
 ,Computer Space,,,no,Computer Space,Computer Space,,no,no,1971,Syzygy Engineering,,,15kHz,horizontal,,,1,2-way horizontal,,2
 ,Dark Planet (no BKG),,no BKG,no,,Konami Scramble based,,no,no,1982,Stern,,,15kHz,horizontal,,,1,2-way horizontal,,2
 ,Gorf (Speech),,Speech,no,,Midway Astrocade,,no,no,1981,Dave Nutting Associates - Midway,,,15kHz,vertical (ccw),no,,2 (alternating),8-way,,1
-,Pacmanic Miner,,,no,,Namco Pac-Man hardware,Pac-Man,no,no,1980,Jim Bagley,,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+,Pac-Manic Miner,,,no,,Namco Pac-Man hardware,Pac-Man,yes,no,2013,Jim Bagley,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 ,Space Invaders - Space Invaders M,,,no,,Midway 8080,,,,,,,,15kHz,vertical (ccw),yes,,2 (alternating),,,
 ,The End (BKG),,BKG,no,,Konami Scramble based,,no,no,1980,Konami,,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 ,Wizard of Wor (Speech),,Speech,no,,Midway Astrocade,,no,no,1980,Dave Nutting Associates - Midway,,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
