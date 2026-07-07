@@ -1245,6 +1245,7 @@ passsht,"Passing Shot (W, 2 Players)",World,"2 Players, FD1094 317-0080",no,Pass
 passsht16a,"Passing Shot (JP, 4 Players) 317-0071",Japan,"4 Players, FD1094 317-0071",yes,Passing Shot,Sega System 16,,no,no,1988,Sega,Sports - Tennis,,15kHz,vertical (ccw),no,,4 (simultaneous),8-way,,4
 passshta,"Passing Shot (W, 4 Players) 317-0074",World,"4 Players, FD1094 317-0074",yes,Passing Shot,Sega System 16,,no,no,1988,Sega,Sports - Tennis,,15kHz,vertical (ccw),no,,4 (simultaneous),8-way,,4
 passshtj,"Passing Shot (JP, 4 Players) 317-0070",Japan,"4 Players, FD1094 317-0070",yes,Passing Shot,Sega System 16,,no,no,1988,Sega,Sports - Tennis,,15kHz,vertical (ccw),no,,4 (simultaneous),8-way,,4
+pballoon,Pioneer Balloon,World,,no,Pioneer Balloon,SNK6502 hardware,,no,no,1982,SNK,Shooter - Flying Horizontal,,15kHz,vertical (cw),,,2 (alternating),8-way,,1
 pcrunchy,Pac-Man (Crunchy) [hb],World,Crunchy,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco - Midway,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 pengman,Pengo Man [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Scott Lawrence,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 pengo,"Pengo (Set 1, Rev C)",World,"Set 1, Rev C",no,,Sega Z80,,no,no,1982,Sega,Maze - Move and Sort,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
