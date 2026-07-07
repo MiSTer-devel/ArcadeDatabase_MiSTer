@@ -656,8 +656,8 @@ fireshrkd,"Fire Shark (KR, set 1, easier)",Korea,easier,yes,Fire Shark,Toaplan 1
 fireshrkdh,"Fire Shark (KR, set 2, harder)",Korea,harder,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
 fitegolf,Fighting Golf,World,,no,Fighting Golf,SNK Triple Z80,,no,no,1988,SNK,Sports - Golf,,15kHz,horizontal,,,2 (alternating),8-way,,2
 flicky,Flicky (128k Ver),World,"128k Version, 315-5051",no,,Sega System 1,,no,no,1984,Sega,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,1
-flkatck,Flak Attack (JP),Japan,,yes,,Konami 6309 based,,no,no,1987,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (alternating),8-way,,
-flkatcka,"Flak Attack (JP, PWB 450593 sub-board)",Japan,,yes,,Konami 6309 based,,no,no,1987,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (alternating),8-way,,
+flkatck,Flak Attack (JP),Japan,,yes,,Konami 6309 based,,no,no,1987,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,
+flkatcka,"Flak Attack (JP, PWB 450593 sub-board)",Japan,,yes,,Konami 6309 based,,no,no,1987,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,
 fnkyfish,Funky Fish,World,,no,Funky Fish,Kangaroo hardware,Funky Fish,no,no,1981,Sun Electronics,Shooter - Misc. Vertical,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 foodf,Food Fight (Rev 3),World,Rev 3,no,,Atari 68000,,no,no,1982,General Computer Corporation - Atari,Fighter - Field,,15kHz,horizontal,,,2 (alternating),8-way,,1
 foodf1,Food Fight (Rev 1),World,Rev 1,yes,Food Fight,Atari 68000,,no,no,1982,General Computer Corporation - Atari,Fighter - Field,,15kHz,horizontal,,,2 (alternating),8-way,,1
@@ -1132,7 +1132,7 @@ mvscr1,"Marvel Vs. Capcom- Clash of Super Heroes (EU, 980112)",Europe,980112,yes
 mvscu,"Marvel Vs. Capcom- Clash of Super Heroes (US, 980123)",USA,980123,yes,Marvel Vs. Capcom- Clash of Super Heroes,Capcom CPS-2,Marvel - Capcom,no,no,1998,Capcom,Fighter - Versus,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,6
 mvscud,"Marvel Vs. Capcom- Clash of Super Heroes (US, Phoenix Edition)",USA,Phoenix Edition,yes,Marvel Vs. Capcom- Clash of Super Heroes,Capcom CPS-2,Marvel - Capcom,yes,no,1998,Capcom,Fighter - Versus,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,6
 mvscur1,"Marvel Vs. Capcom- Clash of Super Heroes (US, 971222)",USA,971222,yes,Marvel Vs. Capcom- Clash of Super Heroes,Capcom CPS-2,Marvel - Capcom,no,no,1998,Capcom,Fighter - Versus,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,6
-mx5000,MX5000,World,,no,,Konami 6309 based,,no,no,1987,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (alternating),8-way,,
+mx5000,MX5000,World,,no,,Konami 6309 based,,no,no,1987,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,
 myhero,"My Hero (US, not Encrypted)",USA,not Encrypted,no,,Sega System 1,,no,no,1985,Sega,Fighter - 2D,,15kHz,horizontal,,,2 (alternating),8-way,,2
 mysticm,Mystic Marathon,World,,no,Mystic Marathon,Williams 2nd Generation,,no,no,1983,Williams,Sports - Track &amp; Field,,15kHz,horizontal,,,2 (alternating),,,
 mysticmp,Mystic Marathon (Prototype),World,,yes,Mystic Marathon,Williams 2nd Generation,,no,no,1983,Williams,Sports - Track &amp; Field,,15kHz,horizontal,,,2 (alternating),,,
