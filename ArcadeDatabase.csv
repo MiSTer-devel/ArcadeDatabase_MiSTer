@@ -1678,10 +1678,10 @@ sinvasn,Space Invasion (EU),Europe,Set 1,yes,Commando,Capcom CPS-0,Commando,no,n
 sinvasnb,Space Invasion [bl],Europe,Set 1,yes,Commando,Capcom CPS-0,Commando,no,yes,1985,Capcom,Shooter - Walking,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 sjryuko,"Sukeban Jansi Ryuko (W, S16B, Set 2)",World,FD1089B 317-5021,no,Sukeban Jansi Ryuko,Sega System 16,,no,no,1988,White Board,Tabletop - Mahjong [Mature],,15kHz,horizontal,n-a,,1,,,
 sjryuko1,"Sukeban Jansi Ryuko (W, S16A, Set 1)",World,FD1089B 317-5021,yes,Sukeban Jansi Ryuko,Sega System 16,,no,no,1988,White Board,Tabletop - Mahjong [Mature],,15kHz,horizontal,n-a,,1,,,
-skyadvnt,Sky Adventure (W),World,,no,Sky Adventure,SNK - Alpha Denshi,Sky Adventure,no,no,1989,Alpha Denshi Co.,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,3
-skyadvntb,Sky Adventure [bl],World,,yes,Sky Adventure,SNK - Alpha Denshi,Sky Adventure,no,yes,1989,Alpha Denshi Co.,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,3
-skyadvntj,Sky Adventure (JP),Japan,,yes,Sky Adventure,SNK - Alpha Denshi,Sky Adventure,no,no,1989,Alpha Denshi Co.,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,3
-skyadvntu,Sky Adventure (US),USA,,yes,Sky Adventure,SNK - Alpha Denshi,Sky Adventure,no,no,1989,Alpha Denshi Co.,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,3
+skyadvnt,Sky Adventure (W),World,,no,Sky Adventure,SNK - Alpha Denshi,Sky Adventure,no,no,1989,Alpha Denshi Co.,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
+skyadvntb,Sky Adventure [bl],World,,yes,Sky Adventure,SNK - Alpha Denshi,Sky Adventure,no,yes,1989,Alpha Denshi Co.,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
+skyadvntj,Sky Adventure (JP),Japan,,yes,Sky Adventure,SNK - Alpha Denshi,Sky Adventure,no,no,1989,Alpha Denshi Co.,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
+skyadvntu,Sky Adventure (US),USA,,yes,Sky Adventure,SNK - Alpha Denshi,Sky Adventure,no,no,1989,Alpha Denshi Co.,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
 skyraidr,Sky Raider (UniWar S) [bl],World,UniWar S,yes,UniWar S,Irem Unique,,no,yes,1980,,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 skyrobo,Sky Robo,World,,yes,Tatakae! Big Fighter,Nichibutsu M68000 (Armed F),,no,no,1989,Nichibutsu,Shooter - Walking,,15kHz,horizontal,,,2 (alternating),8-way,,2
 skyshark,"Sky Shark (US, Set 1)",USA,Set 1,yes,Flying Shark,Toaplan Twin Cobra hardware,,no,no,1987,Toaplan - Taito America Corporation (Romstar license),Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
