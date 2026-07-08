@@ -2258,7 +2258,7 @@ spaceskr,Space Seeker,World,,no,Space Seeker,Taito System SJ,Space Seeker,no,no,
 timetunl,Time Tunnel,World,,no,Time Tunnel,Taito System SJ,Time Tunnel,no,no,1982,Taito Corporation,Maze - Driving,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,1
 tinstar,The Tin Star,World,,no,The Tin Star,Taito System SJ,The Tin Star,no,no,1983,Taito Corporation,Shooter - Misc. Horizontal,,15kHz,horizontal,,,2 (alternating),8-way double,,2
 waterski,Water Ski,World,,no,Water Ski,Taito System SJ,Water Ski,no,no,1983,Taito Corporation,Sports - Skiing,,15kHz,vertical (ccw),,,2 (alternating),2-way horizontal,,2
-wwestern,Wild Western (Set 1),World,,no,Wild Western,Taito System SJ,Wild Western,no,no,1982,Taito Corporation,Shooter - Misc. Vertical,,15kHz,vertical (ccw),,,2 (alternating),8-way double,,2
+wwestern,Wild Western (Set 1),World,,no,Wild Western,Taito System SJ,Wild Western,no,no,1982,Taito Corporation,Shooter - Misc. Vertical,,15kHz,vertical (ccw),yes,,2 (alternating),8-way double,,2
 p47,P-47 - The Phantom Fighter (W),World,,no,P-47 - The Phantom Fighter,Jaleco Mega System 1,P-47,no,no,1988,Jaleco,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 p47j,P-47 - The Freedom Fighter (JP),Japan,,yes,P-47 - The Phantom Fighter,Jaleco Mega System 1,P-47,no,no,1988,Jaleco,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 p47je,"P-47 - The Freedom Fighter (JP, EXP)",Japan,,yes,P-47 - The Phantom Fighter,Jaleco Mega System 1,P-47,no,no,1988,Jaleco,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
