@@ -1501,9 +1501,9 @@ sdi,"SDI- Strategic Defense Initiative (JP, S16A, New Ver.)",Japan,"S16A, FD1089
 sdib,"SDI- Strategic Defense Initiative (W, S16B)",World,"S16B, FD1089A 317-0028",no,SDI,Sega System 16,,no,no,1987,Sega,Shooter - Command,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,1
 sdia,"SDI- Strategic Defense Initiative (JP, S16A, Old Ver.)",Japan,"S16A,Old Ver",yes,SDI,Sega System 16,,no,no,1987,Sega,Shooter - Command,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,1
 sdungeon,Space Dungeon,World,,no,,Taito Qix Hardware,,no,no,1981,Taito America Corporation,Shooter,,15kHz,vertical (ccw),no,,2 (alternating),8-way,twin stick,0
-searchar,SAR - Search And Rescue (W),World,,no,SAR - Search And Rescue,SNK 68000,SAR - Search And Rescue,no,no,1989,SNK,Shooter - Walking,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
-searcharj,"SAR - Search And Rescue (JP, version 3)",Japan,,yes,SAR - Search And Rescue,SNK 68000,SAR - Search And Rescue,no,no,1989,SNK,Shooter - Walking,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
-searcharu,SAR - Search And Rescue (US),USA,,yes,SAR - Search And Rescue,SNK 68000,SAR - Search And Rescue,no,no,1989,SNK,Shooter - Walking,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
+searchar,SAR - Search And Rescue (W),World,,no,SAR - Search And Rescue,SNK 68000,SAR - Search And Rescue,no,no,1989,SNK,Shooter - Walking,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+searcharj,"SAR - Search And Rescue (JP, version 3)",Japan,,yes,SAR - Search And Rescue,SNK 68000,SAR - Search And Rescue,no,no,1989,SNK,Shooter - Walking,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+searcharu,SAR - Search And Rescue (US),USA,,yes,SAR - Search And Rescue,SNK 68000,SAR - Search And Rescue,no,no,1989,SNK,Shooter - Walking,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 seawolf,Sea Wolf (Set 1),World,Set 1,no,,Midway 8080,Sea Wolf,no,no,1976,Dave Nutting Associates - Midway,Shooter - Gallery,,15kHz,horizontal,,,1,,positional,1
 seawolf2,Sea Wolf II,World,,no,,Midway Astrocade,Sea Wolf,no,no,1978,Dave Nutting Associates - Midway,Shooter - Gallery,,15kHz,horizontal,,,2 (simultaneous),,positional,1
 secretag,"Secret Agent (W, Rev 3)",World,Rev. 3,no,Secret Agent,Data East MEC-M1,,no,no,1989,Data East,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
