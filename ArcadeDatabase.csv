@@ -1437,8 +1437,8 @@ robotrontie,Robotron 2084 (Tie-Die) [hb],World,Tie-Die,yes,Robotron 2084,William
 robotronyo,Robotron 2084 (Yellow-Orange Label),World,Yellow-Orange Label,yes,Robotron 2084,Williams 1st Generation,,no,no,1982,Williams - Vid Kidz,Shooter - Field,,15kHz,horizontal,,,1,8-way,twin stick,4
 rockman2j,"Rockman 2- The Power Fighters (JP, 960708)",Japan,960708,yes,Mega Man 2- The Power Fighters,Capcom CPS-2,Mega Man,no,no,1996,Capcom,Fighter - Versus Co-op,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,3
 rockmanj,"Rockman- The Power Battle (JP, 950922)",Japan,950922,yes,Mega Man- The Power Battle,Capcom CPS-1,Mega Man,no,no,1995,Capcom,Fighter - Versus Co-op,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
-rocnrope,Roc'n Rope,World,,no,Roc'n Rope,Konami 6809 based,,no,no,1983,Konami,Platform - Run Jump,,15kHz,vertical (cw),,,2 (alternating),4-way,,2
-rocnropek,Roc'n Rope (Kosuka),World,,yes,Roc'n Rope,Konami 6809 based,,no,no,1983,Konami,Platform - Run Jump,,15kHz,vertical (cw),,,2 (alternating),4-way,,2
+rocnrope,Roc'n Rope,World,,no,Roc'n Rope,Konami 6809 based,,no,no,1983,Konami,Platform - Run Jump,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,2
+rocnropek,Roc'n Rope (Kosuka),World,,yes,Roc'n Rope,Konami 6809 based,,no,no,1983,Konami,Platform - Run Jump,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,2
 rpatroln,"River Patrol (JP, Unprotected)",Japan,Unprotected,no,,Taito Licensed,,no,no,1981,Orca,Driving - Boat,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,1
 rtype,R-Type (W),World,,no,R-Type,Irem M72,R-Type,no,no,1987,IREM,Shooter - Flying Horizontal,,15kHz,horizontal,,,1,8-way,,2
 rtype2,R-Type II (W),World,,no,R-Type II,Irem M72,R-Type,no,no,1989,Irem,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
