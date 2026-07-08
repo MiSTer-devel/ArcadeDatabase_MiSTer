@@ -208,7 +208,7 @@ bgareggatw,Battle Garegga (TW- DE),Taiwan,(TW- DE) (Thu Feb 1 1996),yes,Battle G
 bgareggz,Battle Garegga (Zakk roms) (EU- US - JP - AS) [hb],World,(Zakk roms) (EU- US - JP - AS) (Sat Feb 3 1996),yes,Battle Garegga,Toaplan 2,,no,no,1996,Raizing - Eighting,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 bgareggak,Battle Garegga (KO - GR),World,(KO-GR),yes,Battle Garegga,Toaplan 2,,no,no,1996,Raizing - Eighting,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 bigfghtr,Tatakae! Big Fighter,World,,no,Tatakae! Big Fighter,Nichibutsu M68000 (Armed F),,no,no,1989,Nichibutsu,Shooter - Walking,,15kHz,horizontal,,,2 (alternating),8-way,,2
-bigkong,Big Kong,World,,no,Big Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Falcon,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
+bigkong,Big Kong,World,,no,Big Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Falcon,Platform - Run Jump,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,1
 bilyard,Billiard,World,,no,Billiard,TIAMC1,,no,no,1988,Terminal,Sports - Pool,,15kHz,horizontal,,,1,2-way horizontal,,1
 bionicc,Bionic Commando,World,,no,Bionic Commando,Capcom CPS-0,,no,no,1987,Capcom,Platform - Shooter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
 bionicc1,"Bionic Commando (US, Set 1)",USA,Set 1,yes,Bionic Commando,Capcom CPS-0,,no,no,1987,Capcom,Platform - Shooter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
@@ -344,19 +344,19 @@ chtpman2,New Puck 2 (Cheat) [hb],World,Cheat,yes,Pac-Man,Namco Pac-Man hardware,
 chtpop,"Pac-Man (Popeye, Cheat) [hb]",World,"Popeye, Cheat",yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco - Midway,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 chtpuck,New Puck X (Cheat) [hb],World,Cheat,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Deluxe,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 chwy,Highway Chase,USA,,no,Highway Chase,Data East DECO Cassette,,no,no,1980,Data East,Shooter - Driving Vertical,,15kHz,vertical (ccw),,,2 (alternating),,,2
-ckong,Crazy Kong (Kyoei),World,Kyoei,no,,Donkey Kong hardware,Donkey Kong,no,no,1981,Falcon - Kyoei,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
+ckong,Crazy Kong (Kyoei),World,Kyoei,no,,Donkey Kong hardware,Donkey Kong,no,no,1981,Falcon - Kyoei,Platform - Run Jump,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,1
 ckong3a,Crazy Kong Part II (Set 2) [hb],World,Set 2,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Falcon,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 ckonga2,Crazy Kong Part II (Set 1) [hb],World,Set 1,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Falcon,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 ckonga3,Crazy Kong Part II - 2 [hb],World,,no,,Donkey Kong hardware,Donkey Kong,yes,no,1981,,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-ckongdks,"Donkey Kong (ES, Crazy Kong) [bl]",Spain,"Spanish, Crazy Kong",yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,no,yes,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
+ckongdks,"Donkey Kong (ES, Crazy Kong) [bl]",Spain,"Spanish, Crazy Kong",yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,no,yes,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,1
 ckongfix,Crazy Kong Part II (GFX Fix) [hb],World,GFX Fix,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Falcon,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-ckongo,Crazy Kong (Orca Bootleg) [bl],World,Orca Bootleg,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,no,yes,1981,Falcon,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-ckongpt2,Crazy Kong Part II (Set 1),World,Set 1,no,,Donkey Kong hardware,Donkey Kong,no,no,1981,Falcon,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-ckongpt2a,Crazy Kong Part II (Set 2),World,Set 2,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Falcon,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-ckongpt2b2,Crazy Kong Part II [bl],World,,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,no,yes,1981,Falcon,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-ckongpt2b,Crazy Kong Part II (Alternative Levels) [bl],World,Alternative Levels,no,Crazy Kong,Donkey Kong hardware,Donkey Kong,no,yes,1981,Falcon,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-ckongpt2j,Crazy Kong Part II (JP),Japan,,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Falcon,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-ckongpt2jeu,Crazy Kong Part II (Jeutal) [bl],World,Jeutal,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,no,yes,1981,Falcon - Jeutel,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
+ckongo,Crazy Kong (Orca Bootleg) [bl],World,Orca Bootleg,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,no,yes,1981,Falcon,Platform - Run Jump,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,1
+ckongpt2,Crazy Kong Part II (Set 1),World,Set 1,no,,Donkey Kong hardware,Donkey Kong,no,no,1981,Falcon,Platform - Run Jump,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,1
+ckongpt2a,Crazy Kong Part II (Set 2),World,Set 2,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Falcon,Platform - Run Jump,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,1
+ckongpt2b2,Crazy Kong Part II [bl],World,,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,no,yes,1981,Falcon,Platform - Run Jump,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,1
+ckongpt2b,Crazy Kong Part II (Alternative Levels) [bl],World,Alternative Levels,no,Crazy Kong,Donkey Kong hardware,Donkey Kong,no,yes,1981,Falcon,Platform - Run Jump,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,1
+ckongpt2j,Crazy Kong Part II (JP),Japan,,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Falcon,Platform - Run Jump,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,1
+ckongpt2jeu,Crazy Kong Part II (Jeutal) [bl],World,Jeutal,yes,Crazy Kong,Donkey Kong hardware,Donkey Kong,no,yes,1981,Falcon - Jeutel,Platform - Run Jump,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,1
 clapapa2,Rootin Tootin,USA,,no,Rootin Tootin,Data East DECO Cassette,,no,no,1983,Data East,Maze - Collect,,15kHz,vertical (ccw),,,2 (alternating),4-way,,2
 cleansweept,Clean Sweep,World,TTL,no,Galaxian,Namco Galaxian based,,yes,no,1982,Marco and Ivan,Maze - Collect,,15kHz,vertical (cw),yes,,1,,rotary,0
 clocknch,Lock'n'Chase,USA,,no,Lock'n'Chase,Data East DECO Cassette,,no,no,1981,Data East,Maze - Collect,,15kHz,vertical (ccw),,,2 (alternating),4-way,,2
@@ -521,20 +521,20 @@ dizzy,Dizzy Ghost- A Reversal of Roles [hb],World,,yes,Pac-Man,Namco Pac-Man har
 dkfreerun,Donkey Kong Freerun Edition (Freerun) [hb],World,Freerun,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 dkgensan,"Daiku no Gensan (JP, M84 hardware)",Japan,,yes,Daiku no Gensan,Irem M72,,no,no,1990,Irem,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
 dkgensanm72,"Daiku no Gensan (JP, M72 hardware)",Japan,,no,Daiku no Gensan,Irem M72,,no,no,1990,Irem,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
-dkong,"Donkey Kong (US, Set 1)",USA,Set 1,no,,Donkey Kong hardware,Donkey Kong,no,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
+dkong,"Donkey Kong (US, Set 1)",USA,Set 1,no,,Donkey Kong hardware,Donkey Kong,no,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
 dkong2m,Donkey Kong (2 Marios) [hb],World,2 Marios,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-dkong3,Donkey Kong 3 (US),USA,,no,,Donkey Kong hardware,Donkey Kong,no,no,1983,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
-dkong3b,Donkey Kong 3 [bl],World,,yes,Donkey Kong 3,Donkey Kong hardware,Donkey Kong,no,yes,1984,,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
+dkong3,Donkey Kong 3 (US),USA,,no,,Donkey Kong hardware,Donkey Kong,no,no,1983,Nintendo,Platform - Run Jump,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
+dkong3b,Donkey Kong 3 [bl],World,,yes,Donkey Kong 3,Donkey Kong hardware,Donkey Kong,no,yes,1984,,Platform - Run Jump,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
 dkongbcc,Donkey Kong (Barrel Control Coloring) [hb],World,Barrel Control Coloring,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 dkongex,Donkey Kong Foundry (Foundry) [hb],World,Foundry,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 dkongf,"Donkey Kong Foundry (Foundry, Hack) [hb]",World,"Foundry, Hack",yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-dkonghrd,Donkey Kong (Hard),World,Hard,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-dkongj,"Donkey Kong (JP, Set 1)",Japan,Set 1,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-dkongjo,"Donkey Kong (JP, Set 2)",Japan,Set 2,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-dkongjo1,"Donkey Kong (JP, Set 3)",Japan,Set 3,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-dkongjr,"Donkey Kong Junior (US, Set F-2)",USA,Set F-2,no,Donkey Kong Junior,Donkey Kong hardware,Donkey Kong,no,no,1982,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
-dkongjrj,Donkey Kong Jr. (JP),Japan,,yes,Donkey Kong Junior,Donkey Kong hardware,Donkey Kong,no,no,1982,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
-dkongo,"Donkey Kong (US, Set 2)",USA,Set 2,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
+dkonghrd,Donkey Kong (Hard),World,Hard,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
+dkongj,"Donkey Kong (JP, Set 1)",Japan,Set 1,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
+dkongjo,"Donkey Kong (JP, Set 2)",Japan,Set 2,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
+dkongjo1,"Donkey Kong (JP, Set 3)",Japan,Set 3,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
+dkongjr,"Donkey Kong Junior (US, Set F-2)",USA,Set F-2,no,Donkey Kong Junior,Donkey Kong hardware,Donkey Kong,no,no,1982,Nintendo,Platform - Run Jump,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
+dkongjrj,Donkey Kong Jr. (JP),Japan,,yes,Donkey Kong Junior,Donkey Kong hardware,Donkey Kong,no,no,1982,Nintendo,Platform - Run Jump,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
+dkongo,"Donkey Kong (US, Set 2)",USA,Set 2,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
 dkongp,Donkey Kong (Patched) [hb],World,Patched,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 dkongpac,Donkey Kong (Pac-Man GFX) [hb],World,Pac-Man GFX,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 dkongpe,"Donkey Kong (Pauline, Rev 5) [hb]",World,"Pauline, Rev 5",yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
