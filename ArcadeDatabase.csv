@@ -1836,7 +1836,7 @@ theglad,The Gladiator (ver. 107),World,ver. 107,no,The Gladiator,IGS PGM,,no,no,
 theglobp,The Glob (Pac-Man Hardware),World,Pac-Man Hardware,no,,Namco Pac-Man hardware,,no,no,1983,Epos Corporation,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
 theroes,Thunder Heroes,World,,no,Thunder Heroes,CAVE 68000,,no,no,2001,CAVE,Fighter - 2.5D,,15kHz,horizontal,no,,2 (simultaneous),8-way,,4
 thndblst,Thunder Blaster (JP),Japan,,yes,Lethal Thunder,Irem M92,Lethal Thunder,no,no,1992,Irem,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
-tigerhb1,Tiger Heli [bl],World,,no,Tiger Heli,Toaplan Slap Fight hardware,Tiger Heli,no,no,1985,Toaplan - Taito,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (alternating),8-way,,2
+tigerhb1,Tiger Heli [bl],World,,no,Tiger Heli,Toaplan Slap Fight hardware,Tiger Heli,no,no,1985,Toaplan - Taito,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,2
 tigeroad,Tiger Road,World,,no,Tiger Road,Capcom CPS-0,,no,no,1987,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
 tigeroadu,"Tiger Road (US, Romstar)",USA,Romstar,yes,Tiger Road,Capcom CPS-0,,no,no,1987,Capcom - Romstar,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
 timber,Timber,World,,no,,Midway MCR3,,no,no,1983,Bally - Midway,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),4-way,,2
