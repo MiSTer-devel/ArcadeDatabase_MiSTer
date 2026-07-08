@@ -1742,9 +1742,9 @@ sprint2a,Sprint 2 (Set 2),World,Set 2,yes,Sprint 2,Atari 6502,Sprint,no,no,1976,
 spyhunt,Spy Hunter,World,,no,,Midway MCR3,,no,no,1983,Bally,Shooter - Driving Vertical,,15kHz,vertical (cw),no,,1,,paddle - pedal,1
 spyhuntp,Spy Hunter (Playtronic),World,Playtronic,yes,Spy Hunter,Midway MCR3,,no,no,1983,Bally - Midway - Playtronic,Shooter - Driving Vertical,,15kHz,vertical (cw),no,,1,8-way,,5
 squaitsa,Squash (Itisa),World,Itisa,no,,Taito Licensed,,no,no,1984,Itisa,Sports - Tennis,,15kHz,horizontal,,,2 (simultaneous),4-way,,1
-srumbler,The Speed Rumbler (Set 1),World,Set 1,no,The Speed Rumber,Capcom CPS-0,,no,no,1986,Capcom,Shooter - Driving Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
-srumbler2,The Speed Rumbler (Set 2),World,Set 2,yes,The Speed Rumber,Capcom CPS-0,,no,no,1986,Capcom,Shooter - Driving Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
-srumbler3,The Speed Rumbler (Set 3),World,Set 3,yes,The Speed Rumber,Capcom CPS-0,,no,no,1986,Capcom,Shooter - Driving Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
+srumbler,The Speed Rumbler (Set 1),World,Set 1,no,The Speed Rumber,Capcom CPS-0,,no,no,1986,Capcom,Shooter - Driving Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
+srumbler2,The Speed Rumbler (Set 2),World,Set 2,yes,The Speed Rumber,Capcom CPS-0,,no,no,1986,Capcom,Shooter - Driving Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
+srumbler3,The Speed Rumbler (Set 3),World,Set 3,yes,The Speed Rumber,Capcom CPS-0,,no,no,1986,Capcom,Shooter - Driving Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 ssf2,"Super Street Fighter II- The New Challengers (W, 931005)",World,931005,no,,Capcom CPS-2,Street Fighter,no,no,1993,Capcom,Fighter - Versus,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,6
 ssf2a,"Super Street Fighter II- The New Challengers (AS, 931005)",Asia,931005,yes,Super Street Fighter II- The New Challengers,Capcom CPS-2,Street Fighter,no,no,1993,Capcom,Fighter - Versus,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,6
 ssf2ar1,"Super Street Fighter II- The New Challengers (AS, 930914)",Asia,930914,yes,Super Street Fighter II- The New Challengers,Capcom CPS-2,Street Fighter,no,no,1993,Capcom,Fighter - Versus,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,6
