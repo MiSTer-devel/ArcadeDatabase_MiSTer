@@ -2145,9 +2145,9 @@ plumppop,Plump Pop (JP),Japan,,no,Plump Pop,Taito The NewZealand Story hardware,
 mpumpkin,Magical Pumpkin - Puroland de Daibouken (JP),Japan,960712,no,Magical Pumpkin - Puroland de Daibouken,Capcom CPS-1,Hello Kitty,no,no,1996,Capcom,Driving - Race,,15kHz,horizontal,,,1,positional,wheel,3
 ginganin,Ginga Ninkyouden (Set 1),Japan,Set 1,no,Ginga Ninkyouden,Jaleco Ginga Ninkyouden hardware,Ginga Ninkyouden,no,no,1987,Jaleco,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
 ginganina,Ginga Ninkyouden (Set 2),Japan,Set 2,yes,Ginga Ninkyouden,Jaleco Ginga Ninkyouden hardware,Ginga Ninkyouden,no,no,1987,Jaleco,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
-tnextspc,The Next Space (Set 1),World,Set 1,yes,The Next Space,SNK 68000,The Next Space,no,no,1989,SNK,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
-tnextspc2,The Next Space (Set 2),World,Set 2,yes,The Next Space,SNK 68000,The Next Space,no,no,1989,SNK,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
-tnextspcj,The Next Space (JP),Japan,,no,The Next Space,SNK 68000,The Next Space,no,no,1989,SNK - Pasadena International Corp. license,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
+tnextspc,The Next Space (Set 1),World,Set 1,yes,The Next Space,SNK 68000,The Next Space,no,no,1989,SNK,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+tnextspc2,The Next Space (Set 2),World,Set 2,yes,The Next Space,SNK 68000,The Next Space,no,no,1989,SNK,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+tnextspcj,The Next Space (JP),Japan,,no,The Next Space,SNK 68000,The Next Space,no,no,1989,SNK - Pasadena International Corp. license,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 paddlema,Paddle Mania,World,,no,Paddle Mania,SNK 68000,Paddle Mania,no,no,1988,SNK,Sports - Misc.,,15kHz,vertical (cw),,,4 (simultaneous),8-way,,2
 bzonea,Battle Zone (Rev 1),World,Rev 1,yes,Battle Zone,Atari Battle Zone hardware,Battle Zone,no,no,1980,Atari,Shooter - Driving 1st Person,,31kHz,horizontal,,,1,2-way,Double Joystick,1
 bzone,Battle Zone (Rev 2),World,Rev 2,no,Battle Zone,Atari Battle Zone hardware,Battle Zone,no,no,1980,Atari,Shooter - Driving 1st Person,,31kHz,horizontal,,,1,2-way,Double Joystick,1
