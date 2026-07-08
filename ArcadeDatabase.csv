@@ -650,10 +650,10 @@ ffightuc,"Final Fight (US, 900613)",USA,900613,yes,Final Fight,Capcom CPS-1,Fina
 finalizr,Finalizer- Super Transformation (Set 1),World,Set 1,yes,finalizr,Konami Double Dribble based,,no,no,1985,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,
 finalizra,Finalizer- Super Transformation (Set 2),World,Set 2,no,finalizr,Konami Double Dribble based,,no,no,1985,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,
 finalizrb,Finalizer- Super Transformation [bl],World,Set 2,yes,finalizr,Konami Double Dribble based,,no,yes,1986,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,
-fireshrk,Fire Shark,World,,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
-fireshrka,Fire Shark (earlier),World,,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
-fireshrkd,"Fire Shark (KR, set 1, easier)",Korea,easier,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
-fireshrkdh,"Fire Shark (KR, set 2, harder)",Korea,harder,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
+fireshrk,Fire Shark,World,,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
+fireshrka,Fire Shark (earlier),World,,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
+fireshrkd,"Fire Shark (KR, set 1, easier)",Korea,easier,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
+fireshrkdh,"Fire Shark (KR, set 2, harder)",Korea,harder,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 fitegolf,Fighting Golf,World,,no,Fighting Golf,SNK Triple Z80,,no,no,1988,SNK,Sports - Golf,,15kHz,horizontal,,,2 (alternating),8-way,,2
 flicky,Flicky (128k Ver),World,"128k Version, 315-5051",no,,Sega System 1,,no,no,1984,Sega,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,1
 flkatck,Flak Attack (JP),Japan,,yes,,Konami 6309 based,,no,no,1987,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (alternating),8-way,,
@@ -1458,10 +1458,10 @@ rygar3,"Rygar (US, Set 3 Old Ver)",USA,Set 3,yes,Rygar,Tecmo hardware,Rygar,no,n
 rygarj,Arashi no Senshi,Japan,,no,Rygar,Tecmo hardware,Rygar,no,no,1986,Tecmo,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
 ryukyu,"RyuKyu (JP, Rev A) 317-5023A",Japan,"Rev A, FD1094 317-5023A",no,RyuKyu,Sega System 16,,no,no,1990,Sega,Puzzle - Cards,,15kHz,horizontal,n-a,,1,8-way,,2
 ryukyua,RyuKyu (JP) [FD1094 317-5023],Japan,FD1094 317-5023,yes,RyuKyu,Sega System 16,,no,no,1990,Sega,Puzzle - Cards,,15kHz,horizontal,n-a,,1,8-way,,2
-samesamenh,"Same! Same! Same! (1P set, New Ver)",Japan,New Ver,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
-samesame,Same! Same! Same! (1P set),Japan,,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
-samesame2,Same! Same! Same! (2P set),Japan,,no,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
-samesamecn,"Jiao! Jiao! Jiao! (China, 2P set)",China,,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
+samesamenh,"Same! Same! Same! (1P set, New Ver)",Japan,New Ver,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
+samesame,Same! Same! Same! (1P set),Japan,,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
+samesame2,Same! Same! Same! (2P set),Japan,,no,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
+samesamecn,"Jiao! Jiao! Jiao! (China, 2P set)",China,,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 sarge,Sarge,World,,no,,Midway MCR3,,no,no,1985,Bally - Midway,Shooter - Field,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,twin stick,2
 sargex,Sarge Exposed [hb],World,,yes,Sarge,Midway MCR3,,yes,no,1985,Gatinho,Shooter - Field,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,twin stick,2
 sathena,Super Athena [bl],World,,no,Athena,SNK Triple Z80,,no,yes,1986,SNK,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
