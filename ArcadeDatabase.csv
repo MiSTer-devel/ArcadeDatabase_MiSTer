@@ -445,6 +445,14 @@ daimakair,"Daimakaimura (JP, Resale)",Japan,Resale,yes,Ghouls 'n Ghosts,Capcom C
 dairesya,Dai Ressya Goutou (Ver. K),Japan,,yes,,Konami Double Dribble based,,no,no,1986,Konami,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,3
 dakkochn,Dakkochan House (MC-8123),World,MC-8123,no,,Sega System 1,,no,no,1987,Sega,Tabletop - Mahjong [Mature],,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 dangar,Ufo Robo Dangar (4-07-1987),World,,no,Ufo Robo Dangar,Nichibutsu Z80 (Galivan),Ufo Robo Dangar,no,no,1987,Nichibutsu,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,3
+darius,Darius (World),World,,no,Darius,Taito Darius hardware,Darius,no,no,1986,Taito Corporation Japan,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+darius2,"Darius II (Japan, rev 1)",Japan,rev 1,no,Darius II,Taito Ninja Warriors hardware,Darius,no,no,1989,Taito Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+darius2d,"Darius II (Japan, dual screen, rev 2)",Japan,"dual screen, rev 2",no,Darius II,Taito Warrior Blade hardware,Darius,no,no,1989,Taito Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+darius2do,"Darius II (Japan, dual screen, rev 1)",Japan,"dual screen, rev 1",yes,Darius II,Taito Warrior Blade hardware,Darius,no,no,1989,Taito Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+dariuse,Darius Extra Version (Japan),Japan,Extra Version,yes,Darius,Taito Darius hardware,Darius,no,no,1986,Taito Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+dariusj,"Darius (Japan, rev 1)",Japan,rev 1,yes,Darius,Taito Darius hardware,Darius,no,no,1986,Taito Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+dariuso,Darius (Japan),Japan,,yes,Darius,Taito Darius hardware,Darius,no,no,1986,Taito Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+dariusu,Darius (US),USA,,yes,Darius,Taito Darius hardware,Darius,no,no,1986,Taito America Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 darkplnt,Dark Planet,World,,no,,Konami Scramble based,,no,no,1982,Stern,Shooter - Field,,15kHz,horizontal,,,1,2-way horizontal,,2
 dbreedjm72,Dragon Breed (JP),Japan,,no,Dragon Breed,Irem M72,,no,no,1989,Irem,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
 ddonpach,DoDonPachi,World,,no,DoDonPachi,CAVE 68000,DonPachi,no,no,1997,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
@@ -1153,6 +1161,10 @@ newpuckx,New Puck X,World,,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,no,no,1980
 newtangl,New Tropical Angel,World,,no,Tropical Angel,Irem M57,Tropical Angel,no,no,1983,Irem,Sports - Skiing,,15kHz,horizontal,,,1,2-way,,2
 nextfase,Next Fase (Phoenix) [bl],World,Phoenix,yes,Phoenix,Taito Unique,,no,yes,1981,Petaco S.A.,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 ninjakun,Ninjakun Majou no Bouken,Japan,,no,,Taito Unique,,no,no,1984,UPL - Taito,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,2
+ninjaw,The Ninja Warriors (World),World,,no,The Ninja Warriors,Taito Ninja Warriors hardware,,no,no,1987,Taito Corporation Japan,Fighter - 2D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+ninjaw1,"The Ninja Warriors (World, earlier version)",World,earlier version,yes,The Ninja Warriors,Taito Ninja Warriors hardware,,no,no,1987,Taito Corporation Japan,Fighter - 2D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+ninjawj,The Ninja Warriors (Japan),Japan,,yes,The Ninja Warriors,Taito Ninja Warriors hardware,,no,no,1987,Taito Corporation,Fighter - 2D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+ninjawu,"The Ninja Warriors (US, Romstar license)",USA,,yes,The Ninja Warriors,Taito Ninja Warriors hardware,,no,no,1987,Taito America Corporation (Romstar license),Fighter - 2D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 nobb,Noboranka [bl],World,,no,,Sega System 1,,no,no,1986,Sega,Climbing - Tree - Plant,,15kHz,vertical (ccw),no,,2 (alternating),8-way,,2
 nomnlnd,No Mans Land,World,,no,,Universal Cosmic hardware,,no,no,1980,Universal,Shooter - Field,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,1
 nova2001,Nova 2001,World,,no,Nova 2001,Taito Unique,Nova 2001,no,no,1984,UPL - Taito,Shooter - Field,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,2
@@ -1458,6 +1470,7 @@ rygar3,"Rygar (US, Set 3 Old Ver)",USA,Set 3,yes,Rygar,Tecmo hardware,Rygar,no,n
 rygarj,Arashi no Senshi,Japan,,no,Rygar,Tecmo hardware,Rygar,no,no,1986,Tecmo,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
 ryukyu,"RyuKyu (JP, Rev A) 317-5023A",Japan,"Rev A, FD1094 317-5023A",no,RyuKyu,Sega System 16,,no,no,1990,Sega,Puzzle - Cards,,15kHz,horizontal,n-a,,1,8-way,,2
 ryukyua,RyuKyu (JP) [FD1094 317-5023],Japan,FD1094 317-5023,yes,RyuKyu,Sega System 16,,no,no,1990,Sega,Puzzle - Cards,,15kHz,horizontal,n-a,,1,8-way,,2
+sagaia,"Sagaia (World, dual screen)",World,dual screen,no,Darius II,Taito Warrior Blade hardware,Darius,no,no,1989,Taito Corporation Japan,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 samesamenh,"Same! Same! Same! (1P set, New Ver)",Japan,New Ver,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
 samesame,Same! Same! Same! (1P set),Japan,,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
 samesame2,Same! Same! Same! (2P set),Japan,,no,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
@@ -2009,6 +2022,7 @@ vulgusj,Vulgus (JP),Japan,,yes,Vulgus,Capcom CPS-0,,no,no,1984,Capcom,Shooter - 
 wacko,Wacko,World,,no,,Midway MCR2,,no,no,1983,Bally - Midway,Shooter - Field,,15kHz,horizontal,,,2 (alternating),,"trackball, twin stick",4
 warofbug,War of the Bugs,World,,no,,Namco Galaxian based,,no,no,1981,Armenia - Food and Fun Corp,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,1
 warofbugu,War of the Bugs or Monsterous Manouvers in a Mushroom Maze (US),USA,,yes,War of the Bugs,Namco Galaxian based,,no,no,1981,Armenia - Super Video Games,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,1
+warriorb,Warrior Blade (Japan),Japan,,no,Warrior Blade,Taito Warrior Blade hardware,,no,no,1991,Taito Corporation,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 wb3,"Wonder Boy III - Monster Lair (W, S16B Set 6)",World,Set 6,no,Wonder Boy III,Sega System 16,Wonder Boy,no,no,1988,Sega,Platform - Shooter Scrolling,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
 wb31,"Wonder Boy III - Monster Lair (JP, S16A, Set 1)",Japan,Set 1,yes,Wonder Boy III,Sega System 16,Wonder Boy,no,no,1988,Sega,Platform - Shooter Scrolling,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
 wb32,"Wonder Boy III - Monster Lair (JP, S16B, Set 2)",Japan,Set 2,yes,Wonder Boy III,Sega System 16,Wonder Boy,no,no,1988,Sega,Platform - Shooter Scrolling,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
