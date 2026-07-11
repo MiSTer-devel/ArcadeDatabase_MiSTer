@@ -46,6 +46,10 @@ setname,name,region,version,alternative,parent_title,platform,series,homebrew,bo
 abortman,Abortman,World,,yes,Pac-Man,Namco Pac-Man hardware,,no,no,1980,Atari,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 aceattac,"Ace Attacker (W, 317-0059)",World,FD1094 317-0059,yes,Ace Attacker,Sega System 16,,no,no,1988,Sega,Sports - Volleyball,,15kHz,vertical (ccw),yes,,1,,,
 aceattaca,"Ace Attacker (JP, 317-0060)",Japan,FD1094 317-0060,no,Ace Attacker,Sega System 16,,no,no,1988,Sega,Sports - Volleyball,,15kHz,vertical (ccw),yes,,1,,,
+actfancr,Act-Fancer Cybernetick Hyper Weapon (World revision 3),World,revision 3,no,Act-Fancer Cybernetick Hyper Weapon,Data East Act-Fancer hardware,,no,no,1989,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
+actfancr1,Act-Fancer (World rev 1),World,rev 1,yes,Act-Fancer Cybernetick Hyper Weapon,Data East Act-Fancer hardware,,no,no,1989,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
+actfancr2,Act-Fancer (World rev 2),World,rev 2,yes,Act-Fancer Cybernetick Hyper Weapon,Data East Act-Fancer hardware,,no,no,1989,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
+actfancrj,Act-Fancer (Japan rev 1),Japan,rev 1,yes,Act-Fancer Cybernetick Hyper Weapon,Data East Act-Fancer hardware,,no,no,1989,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
 aerolitos,Aerolitos (ES),Spain,Spanish,yes,Asteroids,Atari Vector,,no,no,1980,Atari,Shooter - Field,,31kHz,horizontal,,,1,2-way horizontal,,3
 afighter,"Action Fighter (W, S16A)",World,317-0018,no,Action Fighter,Sega System 16,,no,no,1986,Sega,Shooter - Misc. Vertical,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,2
 afightera,"Action Fighter (W, S16A, No Protection)",World,No Protection,yes,Action Fighter,Sega System 16,,no,no,1986,Sega,Shooter - Misc. Vertical,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,2
@@ -310,6 +314,7 @@ cbdash,Boulder Dash,USA,,no,Boulder Dash,Data East DECO Cassette,,no,no,1985,Dat
 cbnj,Bump n Jump,USA,,no,Bump n Jump,Data East DECO Cassette,,no,no,1982,Data East,Driving - Race,,15kHz,vertical (ccw),,,2 (alternating),8-way,,1
 cbtime,Burger Time,USA,,no,Burger Time,Data East DECO Cassette,,no,no,1983,Data East,Platform - Run Jump,,15kHz,vertical (ccw),,,2 (alternating),4-way,,1
 cburnrub,Burnin Rubber (set 1),USA,,no,Burnin Rubber,Data East DECO Cassette,,no,no,1982,Data East,Driving - Race,,15kHz,vertical (ccw),,,2 (alternating),8-way,,1
+cbuster,Crude Buster (World FX version),World,FX version,no,Crude Buster,Data East Crude Buster hardware,,no,no,1990,Data East Corporation,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 ccastles,Crystal Castles,World,,no,Crystal Castles,Atari 6502,Crystal Castles,no,no,1983,Atari,Maze - Collect,,15kHz,horizontal,,,2 (alternating),8-way,,3
 cclimber,Crazy Climber,World,,no,Crazy Climber,Taito Licensed,Crazy Climber,no,no,1980,Nichibutsu,Climbing - Building,,15kHz,horizontal,,,2 (alternating),8-way,twin stick,4
 cclimbera,"Crazy Climber (US, Set 2)",USA,Set 2,yes,Crazy Climber,Taito Licensed,Crazy Climber,no,no,1980,Nichibutsu,Climbing - Building,,15kHz,horizontal,,,2 (alternating),8-way,twin stick,4
@@ -367,6 +372,7 @@ cmanhat,Manhattan (Japan),Japan,,no,Manhattan,Data East DECO Cassette,,no,no,198
 cmissnx,Mission-X,USA,,no,Mission-X,Data East DECO Cassette,,no,no,1982,Data East,Shooter - Flying Horizontal,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cnebula,Nebula,UK,,no,Nebula,Data East DECO Cassette,,no,no,1981,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cnightst,Night Star (set 1),USA,,no,Night Star,Data East DECO Cassette,,no,no,1983,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
+cninja,Caveman Ninja (World ver 4),World,ver 4,no,Caveman Ninja,Data East Caveman Ninja hardware,,no,no,1991,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 cocean6b,Ocean to Ocean (US),USA,,no,Ocean to Ocean,Data East DECO Cassette,,no,no,1981,Data East,Casino - Cards,,15kHz,vertical (ccw),,,2 (alternating),,,2
 colony7,Colony 7 (Set 1),World,Set 1,no,Colony 7,Taito Unique,,no,no,1981,Taito,Shooter - Command,,15kHz,vertical (ccw),no,,1,8-way,,3
 colony7a,Colony 7 (Set 2),World,Set 2,yes,Colony 7,Taito Unique,,no,no,1981,Taito,Shooter - Command,,15kHz,vertical (ccw),no,,1,8-way,,3
@@ -1159,6 +1165,7 @@ nova2001,Nova 2001,World,,no,Nova 2001,Taito Unique,Nova 2001,no,no,1984,UPL - T
 nova2001h,Nova 2001 (Hack),World,,no,Nova 2001,Taito Unique,Nova 2001,no,no,1984,UPL - Taito,Shooter - Field,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,2
 nrallyx,New Rally-X,World,,no,Rally-X,Namco Pac-Man hardware,Rally-X,no,no,1981,Namco,Maze - Driving,,15kHz,horizontal,,,2 (alternating),4-way,,1
 nrallyxb,New Rally-X [bl],World,,yes,Rally-X,Namco Pac-Man hardware,Rally-X,no,yes,1981,Namco,Maze - Driving,,15kHz,horizontal,,,2 (alternating),8-way,,1
+nslasher,"Night Slashers (Korea Rev 1.3, DE-0397-0 PCB)",Korea,"Rev 1.3, DE-0397-0 PCB",no,Night Slashers,Data East DE-0397 hardware,,no,no,1994,Data East Corporation,Fighter - 2.5D,,15kHz,horizontal,,,3 (simultaneous),8-way,,3
 nspiritj,Ninja Spirit (JP),Japan,,no,Ninja Spirit,Irem M72,,no,no,1989,Irem,Fighter - 2D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 numcrash,Number Crash,World,Set 1,no,,Namco Pac-Man hardware,Pac-Man,no,no,1980,Hanshin Goraku - Peni,Platform - Run Jump,,15kHz,vertical (cw),no,,1,4-way,,
 nwarr,"Night Warriors- Darkstalkers' Revenge (EU, 950316)",Europe,950316,no,,Capcom CPS-2,Darkstalkers,no,no,1995,Capcom,Fighter - Versus,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,6
@@ -1881,6 +1888,7 @@ transfrm,Transformer,World,,yes,Astro Flash,Sega System E,,no,no,1986,Sega,Shoot
 travrusa,Traverse USA- Zippy Race (US),USA,,no,,Irem M52,,no,no,1983,Irem,Driving - Motorbike,,15kHz,vertical (ccw),yes,,2 (alternating),2-way horizontal,,2
 travrusab,Traverse (US) [bl],USA,bootleg,yes,Traverse USA,Irem M52,,no,no,1983,Irem - Broderbund,Driving - Motorbike,,15kHz,vertical (ccw),yes,,2 (alternating),2-way horizontal,,2
 tricktrp,Trick Trap (W),World,,no,,Konami Contra based,,no,no,1987,Konami,Shooter - Walking,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
+triothep,Trio The Punch (World),World,,no,Trio The Punch,Data East Act-Fancer hardware,,no,no,1989,Data East Corporation,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,3
 troangel,Tropical Angel,World,,no,Tropical Angel,Irem M57,Tropical Angel,no,no,1983,Irem,Sports - Skiing,,15kHz,horizontal,,,1,2-way,,2
 trojan,"Trojan (US, Set 1)",USA,Set 1,no,Trojan,Capcom CPS-0,,no,no,1986,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
 trojana,"Trojan (US, Set 2)",USA,Set 2,yes,Trojan,Capcom CPS-0,,no,no,1986,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
