@@ -676,7 +676,7 @@ fpoint1,"Flash Point (JP, Set 1)",Japan,"Set 1, FD1094 317-0127A",yes,Flash Poin
 frenzy,Frenzy (Rev RA1),World,Rev RA1,no,,Stern based,,no,no,1981,Stern,Maze - Shooter Small,,15kHz,horizontal,,,2 (alternating),8-way,,1
 frogger,Frogger (Konami Bugfixed),World,Konami Bugfixed,no,Frogger,Konami Z80,,no,no,1981,Konami,Maze - Cross,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 froggers2,"Frogger (Sega, Set 2)",World,"Sega, Set 2",yes,Frogger,Konami Z80,,no,no,1981,Konami,Maze - Cross,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-fshark,Flying Shark (W),World,,yes,Flying Shark,Toaplan Twin Cobra hardware,,no,no,1987,Toaplan - Taito Corporation,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
+fshark,Flying Shark (World),World,,yes,Flying Shark,Toaplan Twin Cobra hardware,,no,no,1987,Toaplan - Taito Corporation,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 fstpman2,New Puck 2 (Fast) [hb],World,Fast,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco - Midway,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 futspy,Future Spy,World,,no,,Sega Zaxxon based,,no,no,1982,Sega-Gremlin,Shooter - Flying Diagonal,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 gaia,Gaia Crusaders,World,,no,Gaia Crusaders,CAVE 68000,,no,no,1999,CAVE,Fighter - 2.5D,,15kHz,horizontal,no,,2 (simultaneous),8-way,,4
@@ -835,7 +835,7 @@ hellfire2a,"Hellfire (2P set, older)",World,2P Set,yes,Hellfire,Toaplan 1,,no,no
 hharryu,"Hammerin' Harry (US, M84 hardware)",USA,,no,Hammerin' Harry,Irem M72,,no,no,1990,Irem,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
 higemaru,Pirate Ship Higemaru,World,,no,,Capcom CPS-0,,no,no,1984,Capcom,Maze - Collect,,15kHz,horizontal,n-a,,2 (alternating),4-way,,1
 hippodrm,Hippodrome (US),USA,,no,Hippodrome,Data East MEC-M1,,no,no,1989,Data East,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
-hishouza,Hishou Zame (JP),Japan,,no,Flying Shark,Toaplan Twin Cobra hardware,,no,no,1987,Toaplan - Taito Corporation,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
+hishouza,Hishou Zame (Japan),Japan,,no,Flying Shark,Toaplan Twin Cobra hardware,,no,no,1987,Toaplan - Taito Corporation,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 hm1000,Hangly Man 1000 [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Nittoh,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 hm2000,Hangly Man 2000 [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Nittoh,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 hmba5000,Hangly Man Babies 5000 [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Nittoh,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
@@ -2348,6 +2348,7 @@ glfgreatu,"Golfing Greats (US, Ver K)",USA,Version K,yes,Golfing Greats,Konami T
 glfgreatj,"Golfing Greats (JP, Ver J)",Japan,Version J,yes,Golfing Greats,Konami TMNT 2 based,Golfing Greats,no,no,1991,Konami,Sports - Golf,,15kHz,horizontal,,,2-4 (alternating),8-way - Pedal,Pedal,3
 tmnt2,"Teenage Mutant Ninja Turtles - Turtles in Time (4P, Ver UAA)",World,Version UAA,yes,,Konami TMNT 2 based,Teenage Mutant Ninja Turtles,no,no,1991,Konami,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,2
 tmnt2a,"Teenage Mutant Ninja Turtles - Turtles in Time (4P, Ver ADA)",Asia,Version ADA,no,Teenage Mutant Ninja Turtles - Turtles in Time,Konami TMNT 2 based,Teenage Mutant Ninja Turtles,no,no,1991,Konami,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,2
+tmnt2o,Teenage Mutant Ninja Turtles Turtles in Time (4 Players ver OAA),World,Version OAA,yes,Teenage Mutant Ninja Turtles - Turtles in Time,Konami TMNT 2 based,Teenage Mutant Ninja Turtles,no,no,1991,Konami,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,2
 tmht22pe,"Teenage Mutant Hero Turtles - Turtles in Time (2P, Ver EBA)",Europe,Version EBA,yes,Teenage Mutant Ninja Turtles - Turtles in Time,Konami TMNT 2 based,Teenage Mutant Ninja Turtles,no,no,1991,Konami,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,2
 tmht24pe,"Teenage Mutant Hero Turtles - Turtles in Time (4P, Ver EAA)",Europe,Version EAA,yes,Teenage Mutant Ninja Turtles - Turtles in Time,Konami TMNT 2 based,Teenage Mutant Ninja Turtles,no,no,1991,Konami,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,2
 tmnt22pu,"Teenage Mutant Ninja Turtles - Turtles in Time (2P, Ver UDA)",USA,Version UDA,no,Teenage Mutant Ninja Turtles - Turtles in Time,Konami TMNT 2 based,Teenage Mutant Ninja Turtles,no,no,1991,Konami,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,2
@@ -2707,10 +2708,14 @@ ddcrewu,"D. D. Crew (US, 4P)",USA,FD1094 317-0186,yes,D. D. Crew,Sega System 18,
 ddcrew2,"D. D. Crew (W, 2P)",World,FD1094 317-0184,yes,D. D. Crew,Sega System 18,,no,no,1991,Sega,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,3
 ddcrew1,"D. D. Crew (W, 4P)",World,FD1094 317-0187,yes,D. D. Crew,Sega System 18,,no,no,1991,Sega,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,3
 hamaway,"Hammer Away (JP, Prototype)",Japan,Prototype,no,,Sega System 18,,no,no,1991,Sega - Santos,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,3
-rungun,Run and Gun (Ver EAA),Europe,Ver EAA 1993 10.8,no,,Konami Run and Gun hardware,Run and Gun,no,no,1993,Konami,Sports - Basketball,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,3
-runguna,Run and Gun (Ver EAA),Europe,Ver EAA 1993 10.4,yes,Run and Gun,Konami Run and Gun hardware,Run and Gun,no,no,1993,Konami,Sports - Basketball,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,3
-rungunb,"Run and Gun (Ver EAA, Prototype)",Europe,Ver EAA 1993 9.10 prototype,yes,Run and Gun,Konami Run and Gun hardware,Run and Gun,no,no,1993,Konami,Sports - Basketball,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,3
+rungun,Run and Gun (ver EAA 1993 10.8),World,Ver EAA 1993 10.8,no,,Konami Run and Gun hardware,Run and Gun,no,no,1993,Konami,Sports - Basketball,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,3
+runguna,Run and Gun (ver EAA 1993 10.4),World,Ver EAA 1993 10.4,yes,Run and Gun,Konami Run and Gun hardware,Run and Gun,no,no,1993,Konami,Sports - Basketball,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,3
+rungunb,"Run and Gun (ver EAA 1993 9.10, prototypex)",World,Ver EAA 1993 9.10 prototype,yes,Run and Gun,Konami Run and Gun hardware,Run and Gun,no,no,1993,Konami,Sports - Basketball,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,3
 rungunua,Run and Gun (Ver UBA),USA,Ver UBA 1993 10.8,yes,Run and Gun,Konami Run and Gun hardware,Run and Gun,no,no,1993,Konami,Sports - Basketball,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,3
+rungunuba,"Run and Gun (ver UBA 1993 10.8)",World,Ver UBA 1993 10.8,yes,Run and Gun,Konami Run and Gun hardware,Run and Gun,no,no,1993,Konami,Sports - Basketball,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,3
+rungunuabd,"Run and Gun (ver UAB 1993 10.12, dedicated twin cabinet)",World,"Ver UAB 1993 10.12, dedicated twin cabinet",yes,Run and Gun,Konami Run and Gun hardware,Run and Gun,no,no,1993,Konami,Sports - Basketball,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,3
+rungunuaad,"Run and Gun (ver UAB 1993 9.10, dedicated twin cabinet)",World,"Ver UAB 1993 9.10, dedicated twin cabinet",yes,Run and Gun,Konami Run and Gun hardware,Run and Gun,no,no,1993,Konami,Sports - Basketball,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,3
+rungunubad,"Run and Gun (ver UBA 1993 10.8) (dual screen with demux adapter)",World,"Ver UBA 1993 10.8, demux adapter",yes,Run and Gun,Konami Run and Gun hardware,Run and Gun,no,no,1993,Konami,Sports - Basketball,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,3
 koshien,Ah Eikou no Koshien (JP),Japan,,no,,Taito F2 System,,no,no,1990,Taito Corporation,Sports - Baseball,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 qcrayon2,Crayon Shinchan Orato Asobo (JP),Japan,,no,,Taito F2 System,Quiz Crayon Shinchan,no,no,1993,Taito Corporation,Multiplay - Mini-Games,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
 euroch92,Euro Champ '92 (W),World,,no,,Taito F2 System,Taito Football Champ,no,no,1992,Taito Corporation Japan,Sports - Soccer,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,2
