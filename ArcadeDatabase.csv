@@ -208,8 +208,13 @@ bgareggatw,Battle Garegga (TW- DE),Taiwan,(TW- DE) (Thu Feb 1 1996),yes,Battle G
 bgareggz,Battle Garegga (Zakk roms) (EU- US - JP - AS) [hb],World,(Zakk roms) (EU- US - JP - AS) (Sat Feb 3 1996),yes,Battle Garegga,Toaplan 2,,no,no,1996,Raizing - Eighting,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 bgareggak,Battle Garegga (KO - GR),World,(KO-GR),yes,Battle Garegga,Toaplan 2,,no,no,1996,Raizing - Eighting,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 bigfghtr,Tatakae! Big Fighter,World,,no,Tatakae! Big Fighter,Nichibutsu M68000 (Armed F),,no,no,1989,Nichibutsu,Shooter - Walking,,15kHz,horizontal,,,2 (alternating),8-way,,2
+bigkarnk,"Big Karnak (ver. 1.0, checksum 1e38c94)",World,ver. 1.0,no,Big Karnak,Gaelco hardware,,no,no,1991,Gaelco,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 bigkong,Big Kong,World,,no,Big Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Falcon,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 bilyard,Billiard,World,,no,Billiard,TIAMC1,,no,no,1988,Terminal,Sports - Pool,,15kHz,horizontal,,,1,2-way horizontal,,1
+biomtoy,"Biomechanical Toy (ver. 1.0.1885, checksum 69f5e032)",World,ver. 1.0.1885,no,Biomechanical Toy,Gaelco hardware,,no,no,1995,Gaelco / Zeus,Platform - Shooter Scrolling,,15kHz,horizontal,,,1,8-way,,2
+biomtoya,"Biomechanical Toy (ver. 1.0.1884, checksum 3f316c70)",World,ver. 1.0.1884,yes,Biomechanical Toy,Gaelco hardware,,no,no,1995,Gaelco / Zeus,Platform - Shooter Scrolling,,15kHz,horizontal,,,1,8-way,,2
+biomtoyb,"Biomechanical Toy (ver. 1.0.1878, checksum d84b28ff)",World,ver. 1.0.1878,yes,Biomechanical Toy,Gaelco hardware,,no,no,1995,Gaelco / Zeus,Platform - Shooter Scrolling,,15kHz,horizontal,,,1,8-way,,2
+biomtoyc,"Biomechanical Toy (ver. 1.0.1870, checksum ba682195)",World,ver. 1.0.1870,yes,Biomechanical Toy,Gaelco hardware,,no,no,1994,Gaelco / Zeus,Platform - Shooter Scrolling,,15kHz,horizontal,,,1,8-way,,2
 bionicc,Bionic Commando,World,,no,Bionic Commando,Capcom CPS-0,,no,no,1987,Capcom,Platform - Shooter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
 bionicc1,"Bionic Commando (US, Set 1)",USA,Set 1,yes,Bionic Commando,Capcom CPS-0,,no,no,1987,Capcom,Platform - Shooter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
 bionicc2,"Bionic Commando (US, Set 2)",USA,Set 2,yes,Bionic Commando,Capcom CPS-0,,no,no,1987,Capcom,Platform - Shooter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
@@ -284,6 +289,9 @@ buglaxn,Galaxian (Bug Sprites) [hb],World,Bug Sprites,yes,Galaxian,Namco Galaxia
 bullet,"Bullet (W, 317-0041)",World,FD1094 317-0041,no,Bullet,Sega System 16,,no,no,1987,Sega,Shooter - Walking,,15kHz,horizontal,n-a,,3 (simultaneous),8-way,,4
 bullfgt,Bull Fight (315-5056),World,315-5056,no,Bull Fight,Sega System 1,,no,no,1984,Sega,Sports - Bull Fighting,,15kHz,horizontal,,,2 (alternating),8-way,,2
 bwidow,Black Widow,World,,no,Black Widow,Atari Vector,,no,no,1982,Atari,Shooter - Field,,31kHz,horizontal,,,1,8-way,twin stick,4
+cabal,"Cabal (World, Joystick)",World,Joystick,no,Cabal,Seibu Cabal hardware,,no,no,1988,TAD Corporation,Shooter - 3rd Person,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+cabala,"Cabal (Koreax, Joystick)",Korea,Joystick,yes,Cabal,Seibu Cabal hardware,,no,no,1989,TAD Corporation (Alpha Trading license),Shooter - 3rd Person,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+cabalukj,"Cabal (UK, Joystick)",UK,Joystick,yes,Cabal,Seibu Cabal hardware,,no,no,1989,TAD Corporation (Electrocoin license),Shooter - 3rd Person,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 cadanglr,Angler Dangler,USA,,no,Angler Dangler,Data East DECO Cassette,,no,no,1982,Data East,Sports - Fishing,,15kHz,vertical (ccw),,,2 (alternating),,,2
 calipso,Calipso,World,,no,Calipso,Konami Scramble based,,no,no,1982,Tago Electronics,Maze - Shooter Small,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,1
 candory,Candory (Ponpoko with Mario) [bl],World,Ponpoko with Mario,yes,Ponpoko,Namco Pac-Man hardware,Mario,no,yes,1982,,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,1
@@ -1742,6 +1750,7 @@ sprint2a,Sprint 2 (Set 2),World,Set 2,yes,Sprint 2,Atari 6502,Sprint,no,no,1976,
 spyhunt,Spy Hunter,World,,no,,Midway MCR3,,no,no,1983,Bally,Shooter - Driving Vertical,,15kHz,vertical (cw),no,,1,,paddle - pedal,1
 spyhuntp,Spy Hunter (Playtronic),World,Playtronic,yes,Spy Hunter,Midway MCR3,,no,no,1983,Bally - Midway - Playtronic,Shooter - Driving Vertical,,15kHz,vertical (cw),no,,1,8-way,,5
 squaitsa,Squash (Itisa),World,Itisa,no,,Taito Licensed,,no,no,1984,Itisa,Sports - Tennis,,15kHz,horizontal,,,2 (simultaneous),4-way,,1
+squash,"Squash (World, ver. 1.0, checksum 015aef61)",World,ver. 1.0,no,Squash,Gaelco hardware,,no,no,1992,Gaelco,Sports - Tennis,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 srumbler,The Speed Rumbler (Set 1),World,Set 1,no,The Speed Rumber,Capcom CPS-0,,no,no,1986,Capcom,Shooter - Driving Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
 srumbler2,The Speed Rumbler (Set 2),World,Set 2,yes,The Speed Rumber,Capcom CPS-0,,no,no,1986,Capcom,Shooter - Driving Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
 srumbler3,The Speed Rumbler (Set 3),World,Set 3,yes,The Speed Rumber,Capcom CPS-0,,no,no,1986,Capcom,Shooter - Driving Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
@@ -1836,6 +1845,7 @@ theglad,The Gladiator (ver. 107),World,ver. 107,no,The Gladiator,IGS PGM,,no,no,
 theglobp,The Glob (Pac-Man Hardware),World,Pac-Man Hardware,no,,Namco Pac-Man hardware,,no,no,1983,Epos Corporation,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
 theroes,Thunder Heroes,World,,no,Thunder Heroes,CAVE 68000,,no,no,2001,CAVE,Fighter - 2.5D,,15kHz,horizontal,no,,2 (simultaneous),8-way,,4
 thndblst,Thunder Blaster (JP),Japan,,yes,Lethal Thunder,Irem M92,Lethal Thunder,no,no,1992,Irem,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
+thoop,"Thunder Hoop (ver. 1, checksum 02a09f7d)",World,ver. 1,no,Thunder Hoop,Gaelco hardware,,no,no,1992,Gaelco,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
 tigerhb1,Tiger Heli [bl],World,,no,Tiger Heli,Toaplan Slap Fight hardware,Tiger Heli,no,no,1985,Toaplan - Taito,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (alternating),8-way,,2
 tigeroad,Tiger Road,World,,no,Tiger Road,Capcom CPS-0,,no,no,1987,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
 tigeroadu,"Tiger Road (US, Romstar)",USA,Romstar,yes,Tiger Road,Capcom CPS-0,,no,no,1987,Capcom - Romstar,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
