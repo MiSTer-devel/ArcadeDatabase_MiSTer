@@ -289,6 +289,13 @@ calipso,Calipso,World,,no,Calipso,Konami Scramble based,,no,no,1982,Tago Electro
 candory,Candory (Ponpoko with Mario) [bl],World,Ponpoko with Mario,yes,Ponpoko,Namco Pac-Man hardware,Mario,no,yes,1982,,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,1
 canyon,Canyon Bomber,World,,no,Canyon Bomber,Atari 6502,,no,no,1977,Atari,Shooter - Gallery,,15kHz,horizontal,,,2 (simultaneous),,,1
 capitol,Capitol,World,,yes,Pleiades,Taito Unique,,no,no,1981,Universal Video Spiel,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
+captaven,"Captain America and The Avengers (Asia, Rev 1.4)",Asia,Rev 1.4,yes,Captain America and The Avengers,Data East DE-0359 hardware,,no,no,1991,Data East Corporation,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,2
+captavena,"Captain America and The Avengers (Asia, Rev 1.0)",Asia,Rev 1.0,yes,Captain America and The Avengers,Data East DE-0359 hardware,,no,no,1991,Data East Corporation,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,2
+captavene,"Captain America and The Avengers (UK, Rev 1.4)",UK,Rev 1.4,yes,Captain America and The Avengers,Data East DE-0359 hardware,,no,no,1991,Data East Corporation,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,2
+captavenj,"Captain America and The Avengers (Japan, Rev 0.2)",Japan,Rev 0.2,yes,Captain America and The Avengers,Data East DE-0359 hardware,,no,no,1991,Data East Corporation,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,2
+captavenu,"Captain America and The Avengers (US, Rev 1.9)",USA,Rev 1.9,no,Captain America and The Avengers,Data East DE-0359 hardware,,no,no,1991,Data East Corporation,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,2
+captavenua,"Captain America and The Avengers (US, Rev 1.4)",USA,Rev 1.4,yes,Captain America and The Avengers,Data East DE-0359 hardware,,no,no,1991,Data East Corporation,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,2
+captavenuu,"Captain America and The Avengers (US, Rev 1.6)",USA,Rev 1.6,yes,Captain America and The Avengers,Data East DE-0359 hardware,,no,no,1991,Data East Corporation,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,2
 captcomm,"Captain Commando (W, 911202)",World,911202,yes,Captain Commando,Capcom CPS-1,,no,no,1991,Capcom,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
 captcommj,"Captain Commando (JP, 911202)",Japan,911202,yes,Captain Commando,Capcom CPS-1,,no,no,1991,Capcom,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
 captcommjr1,"Captain Commando (JP, 920928)",Japan,920928,no,Captain Commando,Capcom CPS-1,,no,no,1991,Capcom,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
@@ -367,6 +374,10 @@ cmanhat,Manhattan (Japan),Japan,,no,Manhattan,Data East DECO Cassette,,no,no,198
 cmissnx,Mission-X,USA,,no,Mission-X,Data East DECO Cassette,,no,no,1982,Data East,Shooter - Flying Horizontal,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cnebula,Nebula,UK,,no,Nebula,Data East DECO Cassette,,no,no,1981,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cnightst,Night Star (set 1),USA,,no,Night Star,Data East DECO Cassette,,no,no,1983,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
+cobracom,"Cobra-Command (World, Rev. 5)",World,Rev. 5,no,Cobra-Command,Data East DEC8 hardware,,no,no,1988,Data East Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
+cobracoma,"Cobra-Command (World, Rev. 4)",World,Rev. 4,yes,Cobra-Command,Data East DEC8 hardware,,no,no,1988,Data East Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
+cobracomb,Cobra-Command (World),World,,yes,Cobra-Command,Data East DEC8 hardware,,no,no,1988,Data East Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
+cobracomj,Cobra-Command (Japan),Japan,,yes,Cobra-Command,Data East DEC8 hardware,,no,no,1988,Data East Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
 cocean6b,Ocean to Ocean (US),USA,,no,Ocean to Ocean,Data East DECO Cassette,,no,no,1981,Data East,Casino - Cards,,15kHz,vertical (ccw),,,2 (alternating),,,2
 colony7,Colony 7 (Set 1),World,Set 1,no,Colony 7,Taito Unique,,no,no,1981,Taito,Shooter - Command,,15kHz,vertical (ccw),no,,1,8-way,,3
 colony7a,Colony 7 (Set 2),World,Set 2,yes,Colony 7,Taito Unique,,no,no,1981,Taito,Shooter - Command,,15kHz,vertical (ccw),no,,1,8-way,,3
@@ -1177,6 +1188,10 @@ opaopa,"Opa Opa (MC-8123, 317-0042)",World,"MC-8123, 317-0042",yes,Opa Opa,Sega 
 opaopan,"Opa Opa (Rev A, unprotected)",World,"Rev. A, unprotected",yes,Opa Opa,Sega System E,,no,no,1987,Sega,Maze - Collect,,15kHz,horizontal,,,1,8-way,,2
 orbitron,Orbitron,World,,no,,Namco Galaxian based,,no,no,1982,Comsoft,Shooter - Command,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,1
 orlegend,Oriental Legend (ver. 126),World,ver. 126,no,Oriental Legend,IGS PGM,Oriental Legend,no,no,1997,IGS,Fighter - 2.5D,,15kHz,horizontal,,,2-4 (simultaneous),8-way,,4
+oscar,Psycho-Nics Oscar (World),World,,no,Psycho-Nics Oscar,Data East DEC8 hardware,,no,no,1987,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,3
+oscarj1,Psycho-Nics Oscar (Japan Revision 1),Japan,Revision 1,yes,Psycho-Nics Oscar,Data East DEC8 hardware,,no,no,1987,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,3
+oscarj2,Psycho-Nics Oscar (Japan Revision 2),Japan,Revision 2,yes,Psycho-Nics Oscar,Data East DEC8 hardware,,no,no,1987,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,3
+oscaru,Psycho-Nics Oscar (US),USA,,yes,Psycho-Nics Oscar,Data East DEC8 hardware,,no,no,1988,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,3
 ottopza,Crazy Otto - The Original Ms Pacman [hb],World,,yes,Ms. Pac-man,Namco Pac-Man hardware,Ms. Pac-man,yes,no,2018,,Maze - Collect,,15kHz,vertical (cw),,,2 (alternating),4-way,,0
 outrun,"Out Run (sitdown - upright, Rev B)",World,,no,Out Run,Sega Out Run hardware,Out Run,no,no,1986,Sega,Driving - Race (chase view),,15kHz,horizontal,,,1,Wheel,,3
 outrundx,Out Run (deluxe sitdown),World,,yes,Out Run,Sega Out Run hardware,Out Run,no,no,1986,Sega,Driving - Race (chase view),,15kHz,horizontal,,,1,Wheel,,3
@@ -1700,6 +1715,12 @@ smbombr1,"Super Muscle Bomber- The International Blowout (JP, 940808)",Japan,940
 snapjack,Snap Jack,World,,no,,Universal Lady Bug,,no,no,1982,Universal,"Platform - Run, Jump &amp; Scrolling",,15kHz,horizontal,,,2 (alternating),8-way,,0
 snapper,Snapper (KR),Korea,,no,Snapper,Sega System 16,,no,no,1990,Philko,Maze - Collect,,15kHz,horizontal,n-a,,1,8-way,,3
 snowbro2,Snow Bros. 2 - With New Elves - Otenki Paradise (Hanafram),World,,no,Snow Bros. 2,Toaplan 2,Snow Bros,no,no,1994,Hanafarm,Platform - Run Jump,,15kHz,horizontal,,,4 (simultaneous),8-way,,2
+snowbros,Snow Bros. - Nick & Tom (Set 1),World,Set 1,yes,Snow Bros. - Nick & Tom,Toaplan Snow Bros hardware,,no,no,1990,Toaplan,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+snowbrosa,Snow Bros. - Nick & Tom (Set 2),World,Set 2,yes,Snow Bros. - Nick & Tom,Toaplan Snow Bros hardware,,no,no,1990,Toaplan,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+snowbrosb,Snow Bros. - Nick & Tom (Set 3),World,Set 3,yes,Snow Bros. - Nick & Tom,Toaplan Snow Bros hardware,,no,no,1990,Toaplan,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+snowbrosc,Snow Bros. - Nick & Tom (Set 4),World,Set 4,yes,Snow Bros. - Nick & Tom,Toaplan Snow Bros hardware,,no,no,1990,Toaplan,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+snowbrosd,Snow Bros. - Nick & Tom (Dooyong License),World,Dooyong License,yes,Snow Bros. - Nick & Tom,Toaplan Snow Bros hardware,,no,no,1990,Toaplan (Dooyong license),Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+snowbrosj,Snow Bros. - Nick & Tom (Japan),Japan,,no,Snow Bros. - Nick & Tom,Toaplan Snow Bros hardware,,no,no,1990,Toaplan,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 snowpac,Snowy Day Pac-Man [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,T-Bone,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 solarfox,Solar Fox,World,,no,,Midway MCR1,,no,no,1980,Bally - Midway,Maze - Shooter Small,,15kHz,vertical (cw),no,,2 (alternating),4-way,,2
 solomon,Solomon's Key,World,,no,,Solomon's Key hardware,,no,no,1986,Tecmo,Puzzle - Maze,,15kHz,horizontal,,,2 (alternating),8-way,,2
@@ -1901,6 +1922,8 @@ truxton2n,Truxton II - Tatsujin Oh [New Version],Japan,,yes,Truxton - Tatsujin,T
 tshoot,Turkey Shoot - The Day They Took Over,World,Prototype,no,Turkey Shoot,Williams 2nd Generation,,no,no,1984,Williams,Shooter - Gun,,15kHz,horizontal,,,1,8-way,,
 tturf,"Tough Turf (JP, Set 2)",Japan,"Set 2, 8751 317-0104",no,Tough Turf,Sega System 16,,no,no,1989,Sega - Sunsoft,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
 tturfu,"Tough Turf (US, Set 1)",USA,"Set 1, 8751 317-0099",yes,Tough Turf,Sega System 16,,no,no,1989,Sega - Sunsoft,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
+tumblep,Tumble Pop (World),World,,no,Tumble Pop,Data East Tumble Pop hardware,,no,no,1991,Data East Corporation,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+tumblepj,Tumble Pop (Japan),Japan,,yes,Tumble Pop,Data East Tumble Pop hardware,,no,no,1991,Data East Corporation,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 turbotag,Turbo Tag (Prototype),World,Prototype,no,,Midway MCR3,,no,no,1985,Bally,Driving - Demolition Derby,,15kHz,vertical (cw),no,,1,,trackball,4
 turtles,Turtles,World,,no,,Konami Scramble based,,no,no,1981,Konami,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 twotigerc,Two Tigers (Tron Conversion),World,Tron Conversion,no,,Midway MCR2,,no,no,1984,Bally - Midway,Shooter - Field,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,2
