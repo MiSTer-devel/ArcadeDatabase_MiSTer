@@ -1036,6 +1036,7 @@ mercsur1,"Mercs (US, 900302)",USA,900302,yes,Mercs,Capcom CPS-1,Commando,no,no,1
 meteorho,Meteor (Asteroids) [bl],World,Asteroids,yes,Asteroids,Atari 6502,,no,yes,1979,Atari,Shooter - Field,,31kHz,horizontal,,,1,2-way horizontal,,3
 meteorite,"Meteor (Asteroids, Proel) [bl]",World,"Asteroids, Proel",yes,Asteroids,Atari 6502,,no,yes,1979,Atari,Shooter - Field,,31kHz,horizontal,,,1,2-way horizontal,,3
 meteorts,"Meteor (Asteroids, VGG) [bl]",World,"Asteroids, VGG",yes,Asteroids,Atari 6502,,no,yes,1979,Atari,Shooter - Field,,31kHz,horizontal,,,1,2-way horizontal,,3
+metmqstr,Metamoqester (World),World,,no,Metamoqester,CAVE 68000,,no,no,1995,Banpresto / Pandorabox,Fighter - Versus Co-op,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
 midres,Midnight Resistance (W),World,,yes,,Data East MEC-M1,,no,no,1989,Data East,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
 midresj,Midnight Resistance (JP),Japan,,yes,Midnight Resistance,Data East MEC-M1,,no,no,1989,Data East,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
 midresu,Midnight Resistance (US),USA,,yes,Midnight Resistance,Data East MEC-M1,,no,no,1989,Data East,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
@@ -1153,6 +1154,7 @@ newpuckx,New Puck X,World,,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,no,no,1980
 newtangl,New Tropical Angel,World,,no,Tropical Angel,Irem M57,Tropical Angel,no,no,1983,Irem,Sports - Skiing,,15kHz,horizontal,,,1,2-way,,2
 nextfase,Next Fase (Phoenix) [bl],World,Phoenix,yes,Phoenix,Taito Unique,,no,yes,1981,Petaco S.A.,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 ninjakun,Ninjakun Majou no Bouken,Japan,,no,,Taito Unique,,no,no,1984,UPL - Taito,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,2
+nmaster,Oni - The Ninja Master (Japan),Japan,,yes,Metamoqester,CAVE 68000,,no,no,1995,Banpresto / Pandorabox,Fighter - Versus Co-op,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
 nobb,Noboranka [bl],World,,no,,Sega System 1,,no,no,1986,Sega,Climbing - Tree - Plant,,15kHz,vertical (ccw),no,,2 (alternating),8-way,,2
 nomnlnd,No Mans Land,World,,no,,Universal Cosmic hardware,,no,no,1980,Universal,Shooter - Field,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,1
 nova2001,Nova 2001,World,,no,Nova 2001,Taito Unique,Nova 2001,no,no,1984,UPL - Taito,Shooter - Field,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,2
@@ -1288,6 +1290,8 @@ pitfall2u,"Pitfall II (Unencrypted, Cheat) [hb]",World,"Unencrypted, Cheat",yes,
 pkunwar,Penguin-Kun Wars (US),USA,,no,,UPL Unique,,no,no,1985,UPL,Sports - Misc.,,15kHz,horizontal,n-a,,2 (alternating),2-way horizontal,,1
 pkunwarj,Penguin-Kun Wars (JP),Japan,,no,,UPL Unique,,no,no,1985,UPL,Sports - Misc.,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,1
 playball,Playball (Prototype),World,Prototype,no,,Williams 1st Generation,,no,no,1983,Williams,Ball &amp; Paddle - Jump and Touch,,15kHz,vertical (ccw),no,,1,2-way horizontal,,0
+plegends,"Gogetsuji Legends (US, Ver. 95.06.20)",USA,Ver. 95.06.20,no,Gogetsuji Legends,CAVE 68000,,no,no,1995,Atlus,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+plegendsj,"Gouketsuji Gaiden - Saikyou Densetsu (Japan, Ver. 95.06.20)",Japan,Ver. 95.06.20,yes,Gogetsuji Legends,CAVE 68000,,no,no,1995,Atlus,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
 pleiadbl,Pleiades (Set 1) [bl],World,Set 1,yes,Pleiades,Taito Unique,,no,yes,1981,Tehkan,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,1
 pleiadce,Pleiades (Centuri),World,,yes,Pleiades,Taito Unique,,no,no,1981,Centuri,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 pleiads,Pleiades (Tehkan),World,,no,,Taito Unique,,no,no,1981,Tehkan,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
@@ -1363,6 +1367,10 @@ punisherbz,"Biaofeng Zhanjing (CN, CPS1) [bl]",China,"The Punisher, CPS1, Chines
 punisherh,"The Punisher (HS, 930422)",Hispanic,930422,yes,The Punisher,Capcom CPS-1.5,,no,no,1993,Capcom,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
 punisherj,"The Punisher (JP, 930422)",Japan,930422,yes,The Punisher,Capcom CPS-1.5,,no,no,1993,Capcom,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
 punisheru,"The Punisher (US, 930422)",USA,930422,yes,The Punisher,Capcom CPS-1.5,,no,no,1993,Capcom,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
+pwrinst2,"Power Instinct 2 (US, Ver. 94.04.08, set 1)",USA,"Ver. 94.04.08, set 1",no,Power Instinct 2,CAVE 68000,,no,no,1994,Atlus,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+pwrinst2a,"Power Instinct 2 (US, Ver. 94.04.08, set 2)",USA,"Ver. 94.04.08, set 2",yes,Power Instinct 2,CAVE 68000,,no,no,1994,Atlus,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+pwrinst2j,"Gouketsuji Ichizoku 2 (Japan, Ver. 94.04.08, set 1)",Japan,"Ver. 94.04.08, set 1",yes,Power Instinct 2,CAVE 68000,,no,no,1994,Atlus,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+pwrinst2ja,"Gouketsuji Ichizoku 2 (Japan, Ver. 94.04.08, set 2)",Japan,"Ver. 94.04.08, set 2",yes,Power Instinct 2,CAVE 68000,,no,no,1994,Atlus,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
 pzloop2,"Puzz Loop 2 (EU, 010302)",Europe,10302,no,,Capcom CPS-2,Puzz Loop,no,no,2001,Mitchell - Capcom,Puzzle - Toss,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,1
 pzloop2j,"Puzz Loop 2 (JP, 010226)",Japan,10226,yes,Puzz Loop 2,Capcom CPS-2,Puzz Loop,no,no,2001,Mitchell - Capcom,Puzzle - Toss,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,1
 pzloop2jd,"Puzz Loop 2 (JP, Phoenix Edition)",Japan,Phoenix Edition,yes,Puzz Loop 2,Capcom CPS-2,Puzz Loop,no,yes,2001,Mitchell - Capcom,Puzzle - Toss,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,1
@@ -1458,6 +1466,24 @@ rygar3,"Rygar (US, Set 3 Old Ver)",USA,Set 3,yes,Rygar,Tecmo hardware,Rygar,no,n
 rygarj,Arashi no Senshi,Japan,,no,Rygar,Tecmo hardware,Rygar,no,no,1986,Tecmo,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
 ryukyu,"RyuKyu (JP, Rev A) 317-5023A",Japan,"Rev A, FD1094 317-5023A",no,RyuKyu,Sega System 16,,no,no,1990,Sega,Puzzle - Cards,,15kHz,horizontal,n-a,,1,8-way,,2
 ryukyua,RyuKyu (JP) [FD1094 317-5023],Japan,FD1094 317-5023,yes,RyuKyu,Sega System 16,,no,no,1990,Sega,Puzzle - Cards,,15kHz,horizontal,n-a,,1,8-way,,2
+sailormn,"Pretty Soldier Sailor Moon (Version 95-03-22B, Europe)",Europe,Version 95-03-22B,no,Pretty Soldier Sailor Moon,CAVE 68000,,no,no,1995,Banpresto / Gazelle,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+sailormnh,"Bishoujo Senshi Sailor Moon (Version 95-03-22B, Hong Kong)",Hong Kong,Version 95-03-22B,yes,Pretty Soldier Sailor Moon,CAVE 68000,,no,no,1995,Banpresto / Gazelle,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+sailormnj,"Bishoujo Senshi Sailor Moon (Version 95-03-22B, Japan)",Japan,Version 95-03-22B,yes,Pretty Soldier Sailor Moon,CAVE 68000,,no,no,1995,Banpresto / Gazelle,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+sailormnk,"Pretty Soldier Sailor Moon (Version 95-03-22B, Korea)",Korea,Version 95-03-22B,yes,Pretty Soldier Sailor Moon,CAVE 68000,,no,no,1995,Banpresto / Gazelle,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+sailormnn,"Pretty Soldier Sailor Moon (Version 95-03-22, Europe)",Europe,Version 95-03-22,yes,Pretty Soldier Sailor Moon,CAVE 68000,,no,no,1995,Banpresto / Gazelle,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+sailormnnh,"Bishoujo Senshi Sailor Moon (Version 95-03-22, Hong Kong)",Hong Kong,Version 95-03-22,yes,Pretty Soldier Sailor Moon,CAVE 68000,,no,no,1995,Banpresto / Gazelle,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+sailormnnj,"Bishoujo Senshi Sailor Moon (Version 95-03-22, Japan)",Japan,Version 95-03-22,yes,Pretty Soldier Sailor Moon,CAVE 68000,,no,no,1995,Banpresto / Gazelle,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+sailormnnk,"Pretty Soldier Sailor Moon (Version 95-03-22, Korea)",Korea,Version 95-03-22,yes,Pretty Soldier Sailor Moon,CAVE 68000,,no,no,1995,Banpresto / Gazelle,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+sailormnnt,"Bishoujo Senshi Sailor Moon (Version 95-03-22, Taiwan)",Taiwan,Version 95-03-22,yes,Pretty Soldier Sailor Moon,CAVE 68000,,no,no,1995,Banpresto / Gazelle,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+sailormnnu,"Pretty Soldier Sailor Moon (Version 95-03-22, USA)",USA,Version 95-03-22,yes,Pretty Soldier Sailor Moon,CAVE 68000,,no,no,1995,Banpresto / Gazelle,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+sailormno,"Pretty Soldier Sailor Moon (Version 95-03-21, Europe)",Europe,Version 95-03-21,yes,Pretty Soldier Sailor Moon,CAVE 68000,,no,no,1995,Banpresto / Gazelle,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+sailormnoh,"Bishoujo Senshi Sailor Moon (Version 95-03-21, Hong Kong)",Hong Kong,Version 95-03-21,yes,Pretty Soldier Sailor Moon,CAVE 68000,,no,no,1995,Banpresto / Gazelle,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+sailormnoj,"Bishoujo Senshi Sailor Moon (Version 95-03-21, Japan)",Japan,Version 95-03-21,yes,Pretty Soldier Sailor Moon,CAVE 68000,,no,no,1995,Banpresto / Gazelle,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+sailormnok,"Pretty Soldier Sailor Moon (Version 95-03-21, Korea)",Korea,Version 95-03-21,yes,Pretty Soldier Sailor Moon,CAVE 68000,,no,no,1995,Banpresto / Gazelle,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+sailormnot,"Bishoujo Senshi Sailor Moon (Version 95-03-21, Taiwan)",Taiwan,Version 95-03-21,yes,Pretty Soldier Sailor Moon,CAVE 68000,,no,no,1995,Banpresto / Gazelle,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+sailormnou,"Pretty Soldier Sailor Moon (Version 95-03-21, USA)",USA,Version 95-03-21,yes,Pretty Soldier Sailor Moon,CAVE 68000,,no,no,1995,Banpresto / Gazelle,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+sailormnt,"Bishoujo Senshi Sailor Moon (Version 95-03-22B, Taiwan)",Taiwan,Version 95-03-22B,yes,Pretty Soldier Sailor Moon,CAVE 68000,,no,no,1995,Banpresto / Gazelle,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+sailormnu,"Pretty Soldier Sailor Moon (Version 95-03-22B, USA)",USA,Version 95-03-22B,yes,Pretty Soldier Sailor Moon,CAVE 68000,,no,no,1995,Banpresto / Gazelle,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 samesamenh,"Same! Same! Same! (1P set, New Ver)",Japan,New Ver,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
 samesame,Same! Same! Same! (1P set),Japan,,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
 samesame2,Same! Same! Same! (2P set),Japan,,no,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
