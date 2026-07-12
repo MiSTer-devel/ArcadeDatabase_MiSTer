@@ -601,6 +601,7 @@ eswatj,"E-Swat - Cyber Police (JP, Set 2)",Japan,"Set 2, FD1094 317-0128",yes,E-
 eswatj1,"E-Swat - Cyber Police (JP, Set 1)",Japan,"Set 1, FD1094 317-0131",yes,E-Swat,Sega System 16,,no,no,1989,Sega,Platform - Shooter Scrolling,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,3
 eswatu,"E-Swat - Cyber Police (US, Set 3)",USA,"Set 3, FD1094 317-0129",yes,E-Swat,Sega System 16,,no,no,1989,Sega,Platform - Shooter Scrolling,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,3
 europac,Euro Pac [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Stefano Priore,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+excthour,Exciting Hour,Japan,,yes,Mat Mania,Mat Mania hardware,,no,no,1985,Technos Japan (Taito License),Sports - Wrestling,,15kHz,vertical (ccw),no,,2 (alternating),8-way,,2
 exctleag,Excite League (W),World,FD1094 317-0079,no,Excite League,Sega System 16,,no,no,1988,Sega,Sports - Baseball,,15kHz,horizontal,n-a,,2 (simultaneous),,,3
 exedexes,Exed Exes,World,,no,Exed Exes,Capcom CPS-0,,no,no,1985,Capcom,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 exeriont,Exerion (Taito),World,,no,Exerion,Jaleco Exerion based,Exerion,no,no,1983,Jaleco (Taito America License),Shooter - Gallery,,15kHz,vertical (cw),,,2 (alternating),8-way,,2
@@ -801,6 +802,8 @@ gteikoku,Gingateikoku no Gyakushu,Japan,,yes,UniWar S,Irem Unique,,no,no,1980,Ir
 gteikokub,Gingateikoku no Gyakushu (Set 1) [bl],Japan,Set 1,yes,UniWar S,Irem Unique,,no,yes,1980,,Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),2-way horizontal,,1
 gteikokub2,Gingateikoku no Gyakushu (Set 2) [bl],Japan,Set 2,yes,UniWar S,Irem Unique,,no,yes,1980,,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 gteikokub3,Gingateikoku no Gyakushu (Set 3) [bl],Japan,Set 3,yes,UniWar S,Irem Unique,,no,yes,1980,Honly,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
+gulfwar2,Gulf War II (set 1),World,set 1,no,Gulf War II,Toaplan Twin Cobra hardware,,no,no,1991,Comad,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
+gulfwar2a,Gulf War II (set 2),World,set 2,yes,Gulf War II,Toaplan Twin Cobra hardware,,no,no,1991,Comad,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 gulunpa,"Gulun.Pa (931220 L, Prototype)",World,"931220 L, Prototype",no,,Capcom CPS-1,,no,no,1990,Capcom,Puzzle - Drop,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
 gunfight,Gun Fight,World,,no,,Midway 8080,,no,no,1975,Dave Nutting Associates - Midway,Shooter - Versus,,15kHz,horizontal,,,2 (alternating),8-way,,0
 gunforc2,Gun Force II (US),USA,,no,Gun Force II,Irem M92,Gun Force,no,no,1994,Irem,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
@@ -1004,12 +1007,15 @@ makaimurg,"Makai-Mura (JP, Rev G)",Japan,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985
 makaimurb,"Makai-Mura (JP, Rev B)",Japan,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
 mandinga,"Mandinga (Amidar, Artemi) [bl]",World,"Amidar, Artemi",yes,Amidar,Konami Scramble based,,no,yes,1982,Konami - Artemi,Maze - Outline,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 manhatan,Manhattan 24 Bunsyo (JP),Japan,,no,jailbrek,Konami Green Beret based,,no,no,1986,Konami,Platform - Shooter Scrolling,,15kHz,horizontal,no,,2 (alternating),8-way,,
+maniach,Mania Challenge (Set 1),US,Set 1,no,Mania Challenge,Mat Mania hardware,,no,no,1986,Technos Japan (Taito America License),Sports - Wrestling,,15kHz,vertical (ccw),no,,2 (simultaneous),8-way,,2
+maniach2,Mania Challenge (Set 2),US,Set 2,yes,Mania Challenge,Mat Mania hardware,,no,no,1986,Technos Japan (Taito America License),Sports - Wrestling,,15kHz,vertical (ccw),no,,2 (simultaneous),8-way,,2
 mappy,Mappy (US),USA,,no,,Namco Super Pac-Man hardware,,no,no,1983,Namco,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 mappyj,Mappy (JP),Japan,,yes,Mappy,Namco Super Pac-Man hardware,,no,no,1983,Namco,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 mario,"Mario Bros. (US, Rev G)",USA,Rev G,no,,Mario Bros. hardware,Mario,no,no,1983,Nintendo,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),2-way horizontal,,1
 marpy,Marpy [hb],World,,yes,Mappy,Namco Super Pac-Man hardware,,yes,no,1983,Namco,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 mars,Mars,World,,no,,Konami Scramble based,,no,no,1981,Artic,Shooter - Flying Horizontal,,15kHz,vertical (cw),yes,,2 (alternating),8-way,twin stick,4
 martmast,"Martial Masters (ver. 104, 102, 102US)",World,ver. 104,no,Martial Masters,IGS PGM,,no,no,2001,IGS,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
+matmania,Mat Mania,US,,no,Mat Mania,Mat Mania hardware,,no,no,1985,Technos Japan (Taito America License),Sports - Wrestling,,15kHz,vertical (ccw),no,,2 (alternating),8-way,,2
 maxrpm,Max RPM (v2),World,v2,no,,Midway MCR3,,no,no,1986,Bally - Midway,Driving - Race (chase view),,15kHz,horizontal,,,2 (simultaneous),2-way vertical,paddle - pedal,2
 mayday,Mayday (Set 1),World,Set 1,no,,Williams 1st Generation,,no,no,1980,Hoei,Shooter - Flying Horizontal,,15kHz,horizontal,,,1,8-way,,3
 maydaya,Mayday (Set 2),World,Set 2,yes,Mayday,Williams 1st Generation,,no,no,1980,Hoei,Shooter - Flying Horizontal,,15kHz,horizontal,,,1,8-way,,3
@@ -1245,6 +1251,7 @@ passsht,"Passing Shot (W, 2 Players)",World,"2 Players, FD1094 317-0080",no,Pass
 passsht16a,"Passing Shot (JP, 4 Players) 317-0071",Japan,"4 Players, FD1094 317-0071",yes,Passing Shot,Sega System 16,,no,no,1988,Sega,Sports - Tennis,,15kHz,vertical (ccw),no,,4 (simultaneous),8-way,,4
 passshta,"Passing Shot (W, 4 Players) 317-0074",World,"4 Players, FD1094 317-0074",yes,Passing Shot,Sega System 16,,no,no,1988,Sega,Sports - Tennis,,15kHz,vertical (ccw),no,,4 (simultaneous),8-way,,4
 passshtj,"Passing Shot (JP, 4 Players) 317-0070",Japan,"4 Players, FD1094 317-0070",yes,Passing Shot,Sega System 16,,no,no,1988,Sega,Sports - Tennis,,15kHz,vertical (ccw),no,,4 (simultaneous),8-way,,4
+pballoon,Pioneer Balloon,World,,no,Pioneer Balloon,SNK6502 hardware,,no,no,1982,SNK,Shooter - Flying Horizontal,,15kHz,vertical (cw),,,2 (alternating),8-way,,1
 pcrunchy,Pac-Man (Crunchy) [hb],World,Crunchy,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco - Midway,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 pengman,Pengo Man [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Scott Lawrence,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 pengo,"Pengo (Set 1, Rev C)",World,"Set 1, Rev C",no,,Sega Z80,,no,no,1982,Sega,Maze - Move and Sort,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
@@ -1338,6 +1345,7 @@ powa,"P.O.W. - Prisoners of War (US, Version 1, Mask ROM Sprites)",USA,,yes,P.O.
 powerdrv,Power Drive,World,,no,,Midway MCR3,,no,no,1986,Bally - Midway,Driving - Race,,15kHz,horizontal,,,3 (simultaneous),4-way,,1
 powj,Datsugoku - Prisoners of War (JP),Japan,,yes,P.O.W. Prisoners of War,SNK 68000,P.O.W. Prisoners of War,no,no,1988,SNK,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 pplusad,Pacman Plus After Dark [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Bally - Midway,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+pprobe,Planet Probe,World,,no,Planet Probe,Vastar hardware,,no,no,1985,Crux / Kyugo?,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),4-way,,2
 prehisle,Prehistoric Isle in 1930 (W),World,,no,Prehistoric Isle,SNK Unique,Prehistoric Isle,no,no,1989,SNK,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 prehislek,Wonsido 1930's (KR),Korea,,yes,Prehistoric Isle,SNK Unique,Prehistoric Isle,no,no,1989,SNK,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 prehisleu,Prehistoric Isle in 1930 (US),USA,,yes,Prehistoric Isle,SNK Unique,Prehistoric Isle,no,no,1989,SNK,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
@@ -1687,6 +1695,7 @@ skyrobo,Sky Robo,World,,yes,Tatakae! Big Fighter,Nichibutsu M68000 (Armed F),,no
 skyshark,"Sky Shark (US, Set 1)",USA,Set 1,yes,Flying Shark,Toaplan Twin Cobra hardware,,no,no,1987,Toaplan - Taito America Corporation (Romstar license),Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 skysharka,"Sky Shark (US, Set 2)",USA,Set 2,yes,Flying Shark,Toaplan Twin Cobra hardware,,no,no,1987,Toaplan - Taito America Corporation (Romstar license),Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 skyskipr,Sky Skipper,World,,no,,Nintendo Arcade,,no,no,1981,Nintendo,Shooter - Flying,,15kHz,horizontal,,,2 (alternating),8-way,,2
+skysmash,Sky Smasher,World,,no,Sky Smasher,SNK - Alpha Denshi,,no,no,1990,Nihon System,Shooter - Flying Vertical,,15kHz,vertical (ccw),no,,2 (simultaneous),8-way,,2
 skysoldr,Sky Soldiers (US),USA,,no,Sky Soldiers,SNK - Alpha Denshi,Sky Soldiers,no,no,1988,Alpha Denshi Co.,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
 slammast,"Saturday Night Slam Masters (W, 930713)",World,930713,no,,Capcom CPS-1.5,Slam Masters,no,no,1993,Capcom,Sports - Wrestling,,15kHz,horizontal,n-a,,4 (simultaneous),8-way,,3
 slammastu,"Saturday Night Slam Masters (US, 930713)",USA,930713,yes,Slam Masters,Capcom CPS-1.5,Slam Masters,no,no,1993,Capcom,Sports - Wrestling,,15kHz,horizontal,n-a,,4 (simultaneous),8-way,,3
@@ -1711,6 +1720,8 @@ sonsonj,SonSon (JP),Japan,,yes,SonSon,Capcom CPS-0,SonSon,no,no,1984,Capcom,Plat
 sosterm,S.O.S.,World,,no,,TIAMC1,,no,no,1988,Terminal,"Platform - Run, Jump &amp; Scrolling",,15kHz,horizontal,,,1,4-way,,1
 spacbat2,Space Battle (Set 2) [bl],World,Set 2,yes,UniWar S,Irem Unique,,no,yes,1980,,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 spacbatt,Space Battle (Set 1) [bl],World,Set 1,yes,UniWar S,Irem Unique,,no,yes,1980,,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
+SpaceDemon,Space Demon,World,,no,Space Firebird,Nintendo Arcade,,no,no,1980,Nintendo (Fortrek license),Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),2-way horizontal,,2
+spacefb,Space Firebird,World,,no,Space Firebird,Nintendo Arcade,,no,no,1980,Nintendo,Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),2-way horizontal,,2
 spacempr,Space Empire [bl],World,,yes,UniWar S,Irem Unique,,no,yes,1980,,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 spaceplt,Space Pilot (Time Pilot bootleg) [bl],World,,yes,,Konami Z80,,no,yes,1982,,Shooter - Field,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
 spacerace,Space Race,World,,no,,Atari Discrete hardware,,no,no,1973,Atari,Racing,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,,0
@@ -1933,6 +1944,7 @@ varthj,"Varth- Operation Thunderstorm (JP, 920714)",Japan,920714,yes,Varth,Capco
 varthjr,"Varth- Operation Thunderstorm (JP, Resale)",Japan,920714 Resale,yes,Varth,Capcom CPS-1,,no,no,1992,Capcom,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
 varthr1,"Varth- Operation Thunderstorm (W, 920612)",World,920612,yes,Varth,Capcom CPS-1,,no,no,1992,Capcom,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
 varthu,"Varth- Operation Thunderstorm (US, 920612)",USA,920612,yes,Varth,Capcom CPS-1,,no,no,1992,Capcom,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
+vastar,Vastar,World,,no,Vastar,Vastar hardware,,no,no,1983,Orca,Shooter - Flying Vertical,,15kHz,vertical (cw),no,,2 (alternating),4-way,,2
 vautour,"Vautour (Phoenix, 8085A CPU) [bl]",World,"Phoenix, 8085A CPU",yes,Phoenix,Taito Unique,,no,yes,1980,Tehkan,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,2
 vautourza,"Vautour (Phoenix, Z80 CPU, Single PROM) [bl]",World,"Phoenix, Z80 CPU, Single PROM",yes,Phoenix,Taito Unique,,no,yes,1980,Tehkan,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,2
 vball,U.S. Championship V'ball (US),USA,,no,,Taito Licensed,,no,no,1988,Technos,Sports - Volleyball,,15kHz,horizontal,,,4 (simultaneous),8-way,,2
