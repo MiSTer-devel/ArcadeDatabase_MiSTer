@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>snowbros</setname>
+	<name>Snow Bros. - Nick & Tom (Set 1)</name>
+	<region>World</region>
+	<version>Set 1</version>
+	<alternative>yes</alternative>
+	<parent_title>Snow Bros. - Nick & Tom</parent_title>
+	<platform>Toaplan Snow Bros hardware</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1990</year>
+	<manufacturer>Toaplan</manufacturer>
+	<category>Platform - Run Jump</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

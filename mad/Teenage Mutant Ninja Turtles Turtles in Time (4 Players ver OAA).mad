@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>tmnt2o</setname>
+	<name>Teenage Mutant Ninja Turtles Turtles in Time (4 Players ver OAA)</name>
+	<region>World</region>
+	<version>Version OAA</version>
+	<alternative>yes</alternative>
+	<parent_title>Teenage Mutant Ninja Turtles - Turtles in Time</parent_title>
+	<platform>Konami TMNT 2 based</platform>
+	<series>Teenage Mutant Ninja Turtles</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1991</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Fighter - 2.5D</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2-4 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>
