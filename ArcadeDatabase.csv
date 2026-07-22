@@ -329,8 +329,7 @@ cawingur1,"Carrier Air Wing (US, 901012)",USA,901012,yes,Carrier Air Wing,Capcom
 cbdash,Boulder Dash,USA,,no,Boulder Dash,Data East DECO Cassette,,no,no,1985,Data East,Maze - Digging,,15kHz,vertical (ccw),,,2 (alternating),4-way,,2
 cbnj,Bump n Jump,USA,,no,Bump n Jump,Data East DECO Cassette,,no,no,1982,Data East,Driving - Race,,15kHz,vertical (ccw),,,2 (alternating),8-way,,1
 cbtime,Burger Time,USA,,no,Burger Time,Data East DECO Cassette,,no,no,1983,Data East,Platform - Run Jump,,15kHz,vertical (ccw),,,2 (alternating),4-way,,1
-cburnrub,Burnin Rubber (set 1),USA,,no,Burnin Rubber,Data East DECO Cassette,,no,no,1982,Data East,Driving - Race,,15kHz,vertical (ccw),,,2 (alternating),8-way,,1
-cbuster,Crude Buster (W FX version),World,FX version,no,Crude Buster,Data East Crude Buster hardware,,no,no,1990,Data East Corporation,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+cburnrub,Burnin Rubber (Set 1),USA,,no,Burnin Rubber,Data East DECO Cassette,,no,no,1982,Data East,Driving - Race,,15kHz,vertical (ccw),,,2 (alternating),8-way,,1
 ccastles,Crystal Castles,World,,no,Crystal Castles,Atari 6502,Crystal Castles,no,no,1983,Atari,Maze - Collect,,15kHz,horizontal,,,2 (alternating),8-way,,3
 cclimber,Crazy Climber,World,,no,Crazy Climber,Taito Licensed,Crazy Climber,no,no,1980,Nichibutsu,Climbing - Building,,15kHz,horizontal,,,2 (alternating),8-way,twin stick,4
 cclimbera,"Crazy Climber (US, Set 2)",USA,Set 2,yes,Crazy Climber,Taito Licensed,Crazy Climber,no,no,1980,Nichibutsu,Climbing - Building,,15kHz,horizontal,,,2 (alternating),8-way,twin stick,4
@@ -390,12 +389,7 @@ cluckypo,Lucky Poker,USA,,no,Lucky Poker,Data East DECO Cassette,,no,no,1981,Dat
 cmanhat,Manhattan (Japan),Japan,,no,Manhattan,Data East DECO Cassette,,no,no,1981,Data East,,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cmissnx,Mission-X,USA,,no,Mission-X,Data East DECO Cassette,,no,no,1982,Data East,Shooter - Flying Horizontal,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cnebula,Nebula,UK,,no,Nebula,Data East DECO Cassette,,no,no,1981,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
-cnightst,Night Star (set 1),USA,,no,Night Star,Data East DECO Cassette,,no,no,1983,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
-cninja,Caveman Ninja (W ver 4),World,ver 4,no,Caveman Ninja,Data East Caveman Ninja hardware,,no,no,1991,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
-cobracom,"Cobra-Command (W, Rev. 5)",World,Rev. 5,no,Cobra-Command,Data East DEC8 hardware,,no,no,1988,Data East Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
-cobracoma,"Cobra-Command (W, Rev. 4)",World,Rev. 4,yes,Cobra-Command,Data East DEC8 hardware,,no,no,1988,Data East Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
-cobracomb,Cobra-Command (W),World,,yes,Cobra-Command,Data East DEC8 hardware,,no,no,1988,Data East Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
-cobracomj,Cobra-Command (JP),Japan,,yes,Cobra-Command,Data East DEC8 hardware,,no,no,1988,Data East Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
+cnightst,Night Star (Set 1),USA,,no,Night Star,Data East DECO Cassette,,no,no,1983,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cocean6b,Ocean to Ocean (US),USA,,no,Ocean to Ocean,Data East DECO Cassette,,no,no,1981,Data East,Casino - Cards,,15kHz,vertical (ccw),,,2 (alternating),,,2
 colony7,Colony 7 (Set 1),World,Set 1,no,Colony 7,Taito Unique,,no,no,1981,Taito,Shooter - Command,,15kHz,vertical (ccw),no,,1,8-way,,3
 colony7a,Colony 7 (Set 2),World,Set 2,yes,Colony 7,Taito Unique,,no,no,1981,Taito,Shooter - Command,,15kHz,vertical (ccw),no,,1,8-way,,3
@@ -431,7 +425,7 @@ cottonj,"Cotton (JP, Set 2, Rev B)",Japan,"Set 2, Rev B",yes,Cotton,Sega System 
 cottonja,"Cotton (JP, Set 1, Rev A)",Japan,"Set 1, Rev A",yes,Cotton,Sega System 16,Cotton,no,no,1991,Sega,Shooter - Flying Horizontal,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
 cottonu,"Cotton (US, Set 3)",USA,Set 3,yes,Cotton,Sega System 16,Cotton,no,no,1991,Sega,Shooter - Flying Horizontal,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
 countryc,Country Club,World,,no,Country Club,SNK Triple Z80,,no,no,1988,SNK,Sports - Golf,,15kHz,horizontal,,,2 (alternating),8-way,,2
-cppicf,Ice Cream Factory (set 1),USA,,no,Ice Cream Factory,Data East DECO Cassette,,no,no,1984,Data East,Platform - Run Jump,,15kHz,vertical (ccw),,,2 (alternating),4-way,,2
+cppicf,Ice Cream Factory (Set 1),USA,,no,Ice Cream Factory,Data East DECO Cassette,,no,no,1984,Data East,Platform - Run Jump,,15kHz,vertical (ccw),,,2 (alternating),4-way,,2
 cprobowl,Pro Bowling,USA,,no,Pro Bowling,Data East DECO Cassette,,no,no,1983,Data East,Sports - Misc.,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cprogolf,Pro Golf,USA,,no,Pro Golf,Data East DECO Cassette,,no,no,1981,Data East,Sports - Golf,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cprogolf18,18 Challenge Pro Golf,Japan,,no,18 Challenge Pro Golf,Data East DECO Cassette,,no,no,1982,Data East,Sports - Golf,,15kHz,vertical (ccw),,,2 (alternating),,,2
@@ -693,8 +687,8 @@ finalizra,Finalizer- Super Transformation (Set 2),World,Set 2,no,finalizr,Konami
 finalizrb,Finalizer- Super Transformation [bl],World,Set 2,yes,finalizr,Konami Double Dribble based,,no,yes,1986,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,
 fireshrk,Fire Shark,World,,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 fireshrka,Fire Shark (earlier),World,,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
-fireshrkd,"Fire Shark (KR, set 1, easier)",Korea,easier,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
-fireshrkdh,"Fire Shark (KR, set 2, harder)",Korea,harder,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
+fireshrkd,"Fire Shark (KR, Set 1, easier)",Korea,easier,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
+fireshrkdh,"Fire Shark (KR, Set 2, harder)",Korea,harder,yes,Fire Shark,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 fitegolf,Fighting Golf,World,,no,Fighting Golf,SNK Triple Z80,,no,no,1988,SNK,Sports - Golf,,15kHz,horizontal,,,2 (alternating),8-way,,2
 flicky,Flicky (128k Ver),World,"128k Version, 315-5051",no,,Sega System 1,,no,no,1984,Sega,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,1
 flkatck,Flak Attack (JP),Japan,,yes,,Konami 6309 based,,no,no,1987,Konami,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,
@@ -1444,7 +1438,7 @@ myqbert,Mello Yello Q'bert,World,,yes,,Konami Unique,Q'bert,no,no,1982,Gottlieb,
 qberttst,Q'bert (Early Test Version),World,Early Test Version,yes,,Konami Unique,Q'bert,no,no,1982,Gottlieb,Platform - Run Jump,,15kHz,vertical (ccw),yes,,2 (alternating),4-way diagonal,,0
 qbertqub,Q'bert Qubes,World,,no,,Konami Unique,Q'bert,no,no,1982,Gottlieb,Platform - Run Jump,,15kHz,vertical (ccw),,,2 (alternating),4-way diagonal,,0
 qbertj,Q'bert (JP),Japan,,yes,,Konami Unique,Q'bert,no,no,1982,Gottlieb,Platform - Run Jump,,15kHz,vertical (ccw),yes,,2 (alternating),4-way diagonal,,0
-qix,Qix (set 1),World,,no,,Taito Qix Hardware,Qix,no,no,1981,Taito America Corporation,Maze,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,2
+qix,Qix (Set 1),World,,no,,Taito Qix Hardware,Qix,no,no,1981,Taito America Corporation,Maze,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,2
 qix2,Qix II (Tournament),World,,no,,Taito Qix Hardware,Qix,no,no,1981,Taito America Corporation,Maze,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,2
 qndream,"Quiz Nanairo Dreams- Nijiirochou no Kiseki (JP, 960826)",Japan,960826,no,,Capcom CPS-2,Puzz Loop,no,no,1996,Capcom,Quiz - Questions in Japanese,,15kHz,horizontal,n-a,,2 (simultaneous),4-way,n-a,4
 qtono2j,"Quiz Tonosama no Yabou 2- Zenkoku-ban (JP, 950123)",Japan,950123,no,,Capcom CPS-1,,no,no,1995,Capcom,Quiz - Questions in Japanese,,15kHz,horizontal,n-a,,2 (simultaneous),4-way,,1
@@ -1736,8 +1730,8 @@ shangon3d,Super Hang-On (sitdown - upright) [bl],World,bootleg of FD1089B 317-00
 shangon3,Super Hang-On (sitdown - upright),World,,yes,Super Hang-On,Sega Out Run hardware,Hang-On,no,no,1987,Sega,Driving - Motorbike,,15kHz,horizontal,,,1,Wheel,,3
 shangonle,Limited Edition Hang-On,World,,no,Super Hang-On,Sega Out Run hardware,Hang-On,no,no,1987,Sega,Driving - Motorbike,,15kHz,horizontal,,,1,Wheel,,3
 shangon3,Super Hang-On (sitdown - upright) [bl],World,,yes,Super Hang-On,Sega Out Run hardware,Hang-On,no,yes,1987,Sega,Driving - Motorbike,,15kHz,horizontal,,,1,Wheel,,3
-shaolinb,Shao-lin's Road (set 2),World,,yes,,Konami 6809 based,,no,no,1985,Konami,Platform - Fighter,,15kHz,vertical (cw),,,2 (alternating),4-way,,2
-shaolins,Shao-lin's Road (set 1),World,,yes,,Konami 6809 based,,no,no,1985,Konami,Platform - Fighter,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
+shaolinb,Shao-lin's Road (Set 2),World,,yes,,Konami 6809 based,,no,no,1985,Konami,Platform - Fighter,,15kHz,vertical (cw),,,2 (alternating),4-way,,2
+shaolins,Shao-lin's Road (Set 1),World,,yes,,Konami 6809 based,,no,no,1985,Konami,Platform - Fighter,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
 shinobi,"Shinobi (W, S16A, Set 6)",World,"S16A, Set 6, No Protection",no,Shinobi,Sega System 16,Shinobi,no,no,1987,Sega,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,3
 shinobi1,"Shinobi (W, S16A, Set 1)",World,"S16B, Set 1",yes,Shinobi,Sega System 16,Shinobi,no,no,1987,Sega,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,3
 shinobi2,"Shinobi (W, S16B, Set 2)",World,"S16B, Set 2",yes,Shinobi,Sega System 16,Shinobi,no,no,1987,Sega,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,3
