@@ -2,7 +2,7 @@
 <misterarcadedescription>
 
 	<setname>porter</setname>
-	<name>Port Man (Moon Cresta hardware) [bl]</name>
+	<name>Port Man (bootleg on Moon Cresta hardware)</name>
 	<region>World</region>
 	<version>Moon Cresta hardware</version>
 	<alternative>no</alternative>
@@ -11,16 +11,16 @@
 	<series>Port Man</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1980</year>
+	<year>1982</year>
 	<manufacturer>bootleg</manufacturer>
 	<category>Platform - Run Jump</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>vertical (cw)</rotation>
-	<flip></flip>
+	<flip>yes</flip>
 
 	<players>2 (alternating)</players>
-	<move_inputs>8-way</move_inputs>
+	<move_inputs>2-way horizontal</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>1</num_buttons>
 </misterarcadedescription>
