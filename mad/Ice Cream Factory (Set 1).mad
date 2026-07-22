@@ -1,22 +1,22 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>shaolinb</setname>
-	<name>Shao-lin's Road (set 2)</name>
-	<region>World</region>
+	<setname>cppicf</setname>
+	<name>Ice Cream Factory (Set 1)</name>
+	<region>USA</region>
 	<version></version>
-	<alternative>yes</alternative>
-	<parent_title></parent_title>
-	<platform>Konami 6809 based</platform>
+	<alternative>no</alternative>
+	<parent_title>Ice Cream Factory</parent_title>
+	<platform>Data East DECO Cassette</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1985</year>
-	<manufacturer>Konami</manufacturer>
-	<category>Platform - Fighter</category>
+	<year>1984</year>
+	<manufacturer>Data East</manufacturer>
+	<category>Platform - Run Jump</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (cw)</rotation>
+	<rotation>vertical (ccw)</rotation>
 	<flip></flip>
 
 	<players>2 (alternating)</players>

@@ -1,23 +1,23 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>qix</setname>
-	<name>Qix (set 1)</name>
+	<setname>shaolinb</setname>
+	<name>Shao-lin's Road (Set 2)</name>
 	<region>World</region>
 	<version></version>
-	<alternative>no</alternative>
+	<alternative>yes</alternative>
 	<parent_title></parent_title>
-	<platform>Taito Qix Hardware</platform>
-	<series>Qix</series>
+	<platform>Konami 6809 based</platform>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1981</year>
-	<manufacturer>Taito America Corporation</manufacturer>
-	<category>Maze</category>
+	<year>1985</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Platform - Fighter</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (ccw)</rotation>
-	<flip>no</flip>
+	<rotation>vertical (cw)</rotation>
+	<flip></flip>
 
 	<players>2 (alternating)</players>
 	<move_inputs>4-way</move_inputs>

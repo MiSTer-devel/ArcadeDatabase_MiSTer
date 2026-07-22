@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>cppicf</setname>
-	<name>Ice Cream Factory (set 1)</name>
+	<setname>cnightst</setname>
+	<name>Night Star (Set 1)</name>
 	<region>USA</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Ice Cream Factory</parent_title>
+	<parent_title>Night Star</parent_title>
 	<platform>Data East DECO Cassette</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1984</year>
+	<year>1983</year>
 	<manufacturer>Data East</manufacturer>
-	<category>Platform - Run Jump</category>
+	<category>Shooter - Gallery</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>vertical (ccw)</rotation>
 	<flip></flip>
 
 	<players>2 (alternating)</players>
-	<move_inputs>4-way</move_inputs>
+	<move_inputs></move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>
 </misterarcadedescription>
