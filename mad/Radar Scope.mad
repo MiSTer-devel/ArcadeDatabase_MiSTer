@@ -16,8 +16,8 @@
 	<category>Shooter - Gallery</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (cw)</rotation>
-	<flip></flip>
+	<rotation>vertical (ccw)</rotation>
+	<flip>no</flip>
 
 	<players>2 (alternating)</players>
 	<move_inputs>2-way horizontal</move_inputs>
