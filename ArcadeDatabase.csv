@@ -610,8 +610,8 @@ extrmatnj,Extermination (JP),Japan,,yes,Extermination,Taito The NewZealand Story
 extrmatnu,"Extermination (US, World Games)",USA,World Games,yes,Extermination,Taito The NewZealand Story hardware,Extermination,no,no,1987,Taito (World Games license),Shooter - Walking,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 extrmatnur,"Extermination (US, Romstar)",USA,Romstar,yes,Extermination,Taito The NewZealand Story hardware,Extermination,no,no,1987,Taito America Corporation (Romstar license),Shooter - Walking,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 eyes,"Eyes (US, Set 1)",USA,Set 1,no,,Namco Pac-Man hardware,,no,no,1982,Techstar - Rock-Ola,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
-eyes2,Eyes (US set 2),USA,Set 2,yes,Eyes,Namco Pac-Man hardware,,no,no,1982,Techstar - Rock-Ola,Maze - Collect,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-eyeszac,Eyes (Italy),Italy,,yes,Eyes,Namco Pac-Man hardware,,no,no,1982,Techstar - Zaccaria,Maze - Collect,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
+eyes2,Eyes (US Set 2),USA,Set 2,yes,Eyes,Namco Pac-Man hardware,,no,no,1982,Techstar - Rock-Ola,Maze - Collect,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
+eyeszac,Eyes (IT),Italy,,yes,Eyes,Namco Pac-Man hardware,,no,no,1982,Techstar - Zaccaria,Maze - Collect,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 f1dream,F-1 Dream,World,,no,F-1 Dream,Capcom CPS-0,,no,no,1988,Capcom,Driving - Race,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
 falcon,Falcon (8085A CPU) [bl],World,8085A CPU,yes,Phoenix,Taito Unique,,no,yes,1980,,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 fantzn2,Fantasy Zone II - The Tears of Opa-Opa (SSE),Japan,"MC8123, 317-0057",no,,Sega System E,,no,no,1988,Sega,Shooter - Flying Horizontal,,15kHz,horizontal,,,1,8-way,,2
