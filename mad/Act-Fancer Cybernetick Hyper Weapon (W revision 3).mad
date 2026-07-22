@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>actfancr</setname>
+	<name>Act-Fancer Cybernetick Hyper Weapon (W revision 3)</name>
+	<region>World</region>
+	<version>revision 3</version>
+	<alternative>no</alternative>
+	<parent_title>Act-Fancer Cybernetick Hyper Weapon</parent_title>
+	<platform>Data East Act-Fancer hardware</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1989</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<category>Platform - Shooter Scrolling</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

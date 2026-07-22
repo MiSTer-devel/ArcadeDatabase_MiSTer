@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>eyeszac</setname>
-	<name>Eyes (IT)</name>
-	<region>Italy</region>
+	<setname></setname>
+	<name>Pac-Manic Miner</name>
+	<region></region>
 	<version></version>
-	<alternative>yes</alternative>
-	<parent_title>Eyes</parent_title>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Namco Pac-Man hardware</platform>
-	<series></series>
-	<homebrew>no</homebrew>
+	<series>Pac-Man</series>
+	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>
-	<year>1982</year>
-	<manufacturer>Techstar - Zaccaria</manufacturer>
-	<category>Maze - Collect</category>
+	<year>2013</year>
+	<manufacturer>Jim Bagley</manufacturer>
+	<category>Platform - Run Jump</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>vertical (cw)</rotation>
-	<flip>no</flip>
+	<flip>yes</flip>
 
 	<players>2 (alternating)</players>
 	<move_inputs>4-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>1</num_buttons>
+	<num_buttons>0</num_buttons>
 </misterarcadedescription>

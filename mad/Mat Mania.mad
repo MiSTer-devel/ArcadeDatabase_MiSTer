@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>matmania</setname>
+	<name>Mat Mania</name>
+	<region>US</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>Mat Mania</parent_title>
+	<platform>Mat Mania hardware</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1985</year>
+	<manufacturer>Technos Japan (Taito America License)</manufacturer>
+	<category>Sports - Wrestling</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

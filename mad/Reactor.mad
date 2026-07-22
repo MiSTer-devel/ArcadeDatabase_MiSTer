@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>reactor</setname>
+	<name>Reactor</name>
+	<region>World</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>Reactor</parent_title>
+	<platform>Konami Unique</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1982</year>
+	<manufacturer>Gottlieb</manufacturer>
+	<category>Maze - Shooter Small</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs></move_inputs>
+	<special_controls>trackball</special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

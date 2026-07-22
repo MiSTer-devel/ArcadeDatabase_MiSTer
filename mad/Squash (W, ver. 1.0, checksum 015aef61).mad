@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>squash</setname>
+	<name>Squash (W, ver. 1.0, checksum 015aef61)</name>
+	<region>World</region>
+	<version>ver. 1.0</version>
+	<alternative>no</alternative>
+	<parent_title>Squash</parent_title>
+	<platform>Gaelco hardware</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1992</year>
+	<manufacturer>Gaelco</manufacturer>
+	<category>Sports - Tennis</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>
