@@ -134,8 +134,8 @@ astrofl,Astro Flash (JP),Japan,,no,Astro Flash,Sega System E,,no,no,1986,Sega,Sh
 astropd2,Astropede II [hb],World,,yes,Centipede,Atari Centipede based,,yes,no,1980,Atari,Shooter - Gallery,,15kHz,vertical (ccw),no,,1,,trackball,1
 astroped,Astropede [hb],World,,yes,Centipede,Atari Centipede based,,yes,no,1980,Atari,Shooter - Gallery,,15kHz,vertical (ccw),no,,1,,trackball,1
 atetris,Tetris,World,,no,,Atari 6502,Tetris,no,no,1988,Atari,Puzzle - Drop,,15kHz,horizontal,no,,2 (simultaneous),4-way,,1
-atetrisa,Tetris (Set 2),World,Set 2,yes,Tetris,Atari 6502,Tetris,no,no,1988,Atari,Puzzle - Drop,,15kHz,vertical (ccw),no,,2 (simultaneous),4-way,,1
-atetrisb,Tetris (Set 1) [bl],World,Set 1,yes,Tetris,Atari 6502,Tetris,no,yes,1988,Atari,Puzzle - Drop,,15kHz,vertical (ccw),no,,2 (simultaneous),4-way,,1
+atetrisa,Tetris (Set 2),World,Set 2,yes,Tetris,Atari 6502,Tetris,no,no,1988,Atari,Puzzle - Drop,,15kHz,horizontal,no,,2 (simultaneous),4-way,,1
+atetrisb,Tetris (Set 1) [bl],World,Set 1,yes,Tetris,Atari 6502,Tetris,no,yes,1988,Atari,Puzzle - Drop,,15kHz,horizontal,no,,2 (simultaneous),4-way,,1
 atetrisc,"Tetris (Cocktail, Set 1)",World,"Cocktail, Set 1",yes,Tetris,Atari 6502,Tetris,no,no,1989,Atari,Puzzle - Drop,,15kHz,vertical (ccw),no,,2 (simultaneous),4-way,,1
 atetrisc2,"Tetris (Cocktail, Set 2)",World,"Cocktail, Set 2",yes,Tetris,Atari 6502,Tetris,no,no,1989,Atari,Puzzle - Drop,,15kHz,vertical (ccw),no,,2 (simultaneous),4-way,,1
 athena,Athena,Japan,,no,Athena,SNK Triple Z80,,no,no,1986,SNK,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
@@ -2635,8 +2635,8 @@ tehkanwcb,"Tehkan World Cup (Set 2, bootleg) [bl]",World,"Set 2, bootleg?",yes,T
 tehkanwcc,"Tehkan World Cup (Set 3, bootleg) [bl]",World,"Set 3, bootleg",yes,Tehkan World Cup,Tecmo Tehkan hardware,,no,yes,1985,Tecmo,Sports - Soccer,,15kHz,horizontal,,,2 (simultaneous),8-way,,1
 tehkanwcd,"Tehkan World Cup (Set 4, earlier)",World,"Set 4, earlier",yes,Tehkan World Cup,Tecmo Tehkan hardware,,no,no,1985,Tecmo,Sports - Soccer,,15kHz,horizontal,,,2 (simultaneous),8-way,,1
 gridiron,Gridiron Fight,World,,no,,Tecmo Tehkan hardware,,no,no,1985,Tecmo,Sports - Football,,15kHz,horizontal,,,2 (simultaneous),8-way,Trackball,1
-teedoff,Tee'd Off (W),World,,no,,Tecmo Tehkan hardware,,no,no,1987,Tecmo,Sports - Golf,,15kHz,horizontal,,,2 (alternating),8-way,Trackball,1
-teedoffj,Tee'd Off (JP),Japan,,yes,Tee'd Off,Tecmo Tehkan hardware,,no,no,1987,Tecmo,Sports - Golf,,15kHz,horizontal,,,2 (alternating),8-way,Trackball,1
+teedoff,Tee'd Off (W),World,,no,,Tecmo Tehkan hardware,,no,no,1987,Tecmo,Sports - Golf,,15kHz,vertical (cw),,,2 (alternating),8-way,Trackball,1
+teedoffj,Tee'd Off (JP),Japan,,yes,Tee'd Off,Tecmo Tehkan hardware,,no,no,1987,Tecmo,Sports - Golf,,15kHz,vertical (cw),,,2 (alternating),8-way,Trackball,1
 flstory,The FairyLand Story,World,,no,,Taito The FairyLand Story hardware,,no,no,1985,Taito,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),2-way,,2
 flstoryo,The FairyLand Story (Earlier),World,Earlier,yes,The FairyLand Story,Taito The FairyLand Story hardware,,no,no,1985,Taito,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),2-way,,2
 devilw,Devil World,World,,yes,,Konami Twin16 hardware,,no,no,1987,Konami,Shooter - Walking,,15kHz,horizontal,,,2-3 (simultaneous),8-way,,3
