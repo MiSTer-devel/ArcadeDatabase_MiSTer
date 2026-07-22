@@ -1,18 +1,18 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ddp2</setname>
-	<name>DoDonPachi II - Bee Storm (World, ver. 102)</name>
-	<region>World</region>
-	<version>ver. 102</version>
-	<alternative>no</alternative>
-	<parent_title>DoDonPachi II - Bee Storm</parent_title>
-	<platform>IGS PGM</platform>
-	<series>DonPachi</series>
+	<setname>samesamecn</setname>
+	<name>Jiao! Jiao! Jiao! (CN, 2P set)</name>
+	<region>China</region>
+	<version></version>
+	<alternative>yes</alternative>
+	<parent_title>Fire Shark</parent_title>
+	<platform>Toaplan 1</platform>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>2001</year>
-	<manufacturer>IGS</manufacturer>
+	<year>1989</year>
+	<manufacturer>Toaplan</manufacturer>
 	<category>Shooter - Flying Vertical</category>
 
 	<resolution>15kHz</resolution>
@@ -22,5 +22,5 @@
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>4</num_buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>olds103t</setname>
-	<name>Xiyou Shi E Zhuan Super (ver. 103, China, Tencent) (unprotected)</name>
+	<setname>killbldp</setname>
+	<name>The Killing Blade Plus (CN, ver. 300)</name>
 	<region>China</region>
-	<version>ver. 103</version>
+	<version>ver. 300</version>
 	<alternative>no</alternative>
-	<parent_title>Oriental Legend Special</parent_title>
+	<parent_title>The Killing Blade Plus</parent_title>
 	<platform>IGS PGM</platform>
-	<series>Oriental Legend</series>
+	<series></series>
 	<homebrew>no</homebrew>
-	<bootleg>yes</bootleg>
-	<year>1998</year>
+	<bootleg>no</bootleg>
+	<year>2005</year>
 	<manufacturer>IGS</manufacturer>
-	<category>Fighter - 2.5D</category>
+	<category>Fighter - Versus</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>2-4 (simultaneous)</players>
+	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>4</num_buttons>

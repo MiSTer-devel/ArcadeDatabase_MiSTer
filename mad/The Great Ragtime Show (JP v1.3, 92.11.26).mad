@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>boogwingu</setname>
-	<name>Boogie Wings (USA v1.7, 92.12.14)</name>
-	<region>USA</region>
-	<version>v1.7, 92.12.14</version>
+	<setname>ragtimea</setname>
+	<name>The Great Ragtime Show (JP v1.3, 92.11.26)</name>
+	<region>Japan</region>
+	<version>v1.3, 92.11.26</version>
 	<alternative>yes</alternative>
 	<parent_title>Boogie Wings</parent_title>
 	<platform>Data East DE-0379 hardware</platform>

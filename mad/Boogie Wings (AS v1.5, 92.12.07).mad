@@ -1,9 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ragtime</setname>
-	<name>The Great Ragtime Show (Japan v1.5, 92.12.07)</name>
-	<region>Japan</region>
+	<setname>boogwinga</setname>
+	<name>Boogie Wings (AS v1.5, 92.12.07)</name>
+	<region>Asia</region>
 	<version>v1.5, 92.12.07</version>
 	<alternative>yes</alternative>
 	<parent_title>Boogie Wings</parent_title>

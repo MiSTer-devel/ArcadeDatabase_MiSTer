@@ -1,23 +1,23 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>killbldp</setname>
-	<name>The Killing Blade Plus (China, ver. 300)</name>
-	<region>China</region>
-	<version>ver. 300</version>
+	<setname>ddp2</setname>
+	<name>DoDonPachi II - Bee Storm (W, ver. 102)</name>
+	<region>World</region>
+	<version>ver. 102</version>
 	<alternative>no</alternative>
-	<parent_title>The Killing Blade Plus</parent_title>
+	<parent_title>DoDonPachi II - Bee Storm</parent_title>
 	<platform>IGS PGM</platform>
-	<series></series>
+	<series>DonPachi</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>2005</year>
+	<year>2001</year>
 	<manufacturer>IGS</manufacturer>
-	<category>Fighter - Versus</category>
+	<category>Shooter - Flying Vertical</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>horizontal</rotation>
-	<flip></flip>
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>

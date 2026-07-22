@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>boogwinga</setname>
-	<name>Boogie Wings (Asia v1.5, 92.12.07)</name>
-	<region>Asia</region>
-	<version>v1.5, 92.12.07</version>
+	<setname>boogwingu</setname>
+	<name>Boogie Wings (US v1.7, 92.12.14)</name>
+	<region>USA</region>
+	<version>v1.7, 92.12.14</version>
 	<alternative>yes</alternative>
 	<parent_title>Boogie Wings</parent_title>
 	<platform>Data East DE-0379 hardware</platform>
