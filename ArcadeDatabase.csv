@@ -772,13 +772,13 @@ gigawingh,"Giga Wing (HS, 990222)",Hispanic,990222,yes,Giga Wing,Capcom CPS-2,,n
 gigawingj,"Giga Wing (JP, 990222)",Japan,990222,yes,Giga Wing,Capcom CPS-2,,no,no,1999,Takumi - Takumi,Shooter - Flying Vertical,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,2
 gigawingjd,"Giga Wing (JP, Phoenix Edition) [bl]",Japan,Phoenix Edition,yes,Giga Wing,Capcom CPS-2,,no,no,1999,Takumi - Takumi,Shooter - Flying Vertical,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,2
 gmahou,"Great Mahou Daisakusen (JP, 000121)",Japan,121,yes,Dimahoo,Capcom CPS-2,,no,no,2000,Eighting - Raizing - Capcom,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,n-a,3
-gng,Ghosts'n Goblins (W),World,"JT, Set 1",no,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
-gnga,"Ghosts'n Goblins (W, Set 2)",World,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
-gngbl,Ghosts'n Goblins (Bootleg with Cross) [bl],World,,yes,,Capcom CPS-0,Ghosts 'n,no,yes,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
-gngblita,"Ghosts'n Goblins (IT, Harder) [bl]",World,"Italian Bootleg, Harder",yes,,Capcom CPS-0,Ghosts 'n,no,yes,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
-gngc,"Ghosts'n Goblins (W, Set 3)",World,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
-gngprot,Ghosts'n Goblins (Prototype),World,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
-gngt,Ghosts'n Goblins (US),USA,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
+gng,Ghosts'n Goblins (W),World,"JT, Set 1",no,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),4-way,,2
+gnga,"Ghosts'n Goblins (W, Set 2)",World,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),4-way,,2
+gngbl,Ghosts'n Goblins (Bootleg with Cross) [bl],World,,yes,,Capcom CPS-0,Ghosts 'n,no,yes,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),4-way,,2
+gngblita,"Ghosts'n Goblins (IT, Harder) [bl]",World,"Italian Bootleg, Harder",yes,,Capcom CPS-0,Ghosts 'n,no,yes,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),4-way,,2
+gngc,"Ghosts'n Goblins (W, Set 3)",World,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),4-way,,2
+gngprot,Ghosts'n Goblins (Prototype),World,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),4-way,,2
+gngt,Ghosts'n Goblins (US),USA,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),4-way,,2
 goldmedl,"Gold Medalist (Set 1, Alpha68k II PCB)",World,"Set 1, Alpha68k II PCB",no,Gold Medalist,SNK - Alpha Denshi,Gold Medalist,no,no,1988,Alpha Denshi Co.,Sports - Track &amp; Field,,15kHz,horizontal,,,4 (simultaneous),8-way,,3
 goldnaxe,"Golden Axe (US, Set 6)",USA,"Set 6, 8751 317-123A",no,Golden Axe,Sega System 16,Golden Axe,no,no,1989,Sega,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,3
 goldnaxe1,"Golden Axe (W, Set 1)",USA,"Set 1, FD1094 317-0110",yes,Golden Axe,Sega System 16,Golden Axe,no,no,1989,Sega,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,3
@@ -998,10 +998,10 @@ lwingsja,"Ares no Tsubasa (JP, Rev A)",Japan,Rev A,yes,,Capcom CPS-0,,no,no,1986
 mach9,Mach-9 (Vulgus) [bl],World,Vulgus,yes,Vulgus,Capcom CPS-0,,no,yes,1984,Capcom,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 magspot,Magical Spot,World,,no,,Universal Cosmic hardware,,no,no,1980,Universal,Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),2-way,,1
 mahoudai,Mahou Daisakusen (JP),Japan,,yes,Sorcer Striker,Toaplan 2,,no,no,1993,Raizing,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
-makaimur,Makai-Mura (JP),Japan,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
-makaimurc,"Makai-Mura (JP, Rev C)",Japan,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
-makaimurg,"Makai-Mura (JP, Rev G)",Japan,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
-makaimurb,"Makai-Mura (JP, Rev B)",Japan,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
+makaimur,Makai-Mura (JP),Japan,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),4-way,,2
+makaimurc,"Makai-Mura (JP, Rev C)",Japan,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),4-way,,2
+makaimurg,"Makai-Mura (JP, Rev G)",Japan,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),4-way,,2
+makaimurb,"Makai-Mura (JP, Rev B)",Japan,,yes,,Capcom CPS-0,Ghosts 'n,no,no,1985,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),4-way,,2
 mandinga,"Mandinga (Amidar, Artemi) [bl]",World,"Amidar, Artemi",yes,Amidar,Konami Scramble based,,no,yes,1982,Konami - Artemi,Maze - Outline,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 manhatan,Manhattan 24 Bunsyo (JP),Japan,,no,jailbrek,Konami Green Beret based,,no,no,1986,Konami,Platform - Shooter Scrolling,,15kHz,horizontal,no,,2 (alternating),8-way,,
 mappy,Mappy (US),USA,,no,,Namco Super Pac-Man hardware,,no,no,1983,Namco,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
