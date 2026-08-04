@@ -331,6 +331,8 @@ cbnj,Bump n Jump,USA,,no,Bump n Jump,Data East DECO Cassette,,no,no,1982,Data Ea
 cbtime,Burger Time,USA,,no,Burger Time,Data East DECO Cassette,,no,no,1983,Data East,Platform - Run Jump,,15kHz,vertical (ccw),,,2 (alternating),4-way,,1
 cburnrub,Burnin Rubber (Set 1),USA,,no,Burnin Rubber,Data East DECO Cassette,,no,no,1982,Data East,Driving - Race,,15kHz,vertical (ccw),,,2 (alternating),8-way,,1
 cbuster,Crude Buster (W FX version),World,FX version,no,Crude Buster,Data East Crude Buster hardware,,no,no,1990,Data East Corporation,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+cbusterj,"Crude Buster (JP, FR Revision 1)",Japan,FR Revision 1,yes,Crude Buster,Data East Crude Buster hardware,,no,no,1990,Data East Corporation,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+cbusterw,"Crude Buster (W, FU Version)",World,FU Version,yes,Crude Buster,Data East Crude Buster hardware,,no,no,1990,Data East Corporation,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 ccastles,Crystal Castles,World,,no,Crystal Castles,Atari 6502,Crystal Castles,no,no,1983,Atari,Maze - Collect,,15kHz,horizontal,,,2 (alternating),8-way,,3
 cclimber,Crazy Climber,World,,no,Crazy Climber,Taito Licensed,Crazy Climber,no,no,1980,Nichibutsu,Climbing - Building,,15kHz,horizontal,,,2 (alternating),8-way,twin stick,4
 cclimbera,"Crazy Climber (US, Set 2)",USA,Set 2,yes,Crazy Climber,Taito Licensed,Crazy Climber,no,no,1980,Nichibutsu,Climbing - Building,,15kHz,horizontal,,,2 (alternating),8-way,twin stick,4
@@ -392,6 +394,8 @@ cmissnx,Mission-X,USA,,no,Mission-X,Data East DECO Cassette,,no,no,1982,Data Eas
 cnebula,Nebula,UK,,no,Nebula,Data East DECO Cassette,,no,no,1981,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cnightst,Night Star (Set 1),USA,,no,Night Star,Data East DECO Cassette,,no,no,1983,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cninja,Caveman Ninja (W ver 4),World,ver 4,no,Caveman Ninja,Data East Caveman Ninja hardware,,no,no,1991,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+cninja1,"Caveman Ninja (W, Ver. 1)",World,Ver. 1,yes,Caveman Ninja,Data East Caveman Ninja hardware,,no,no,1991,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+cninjau,"Caveman Ninja (US, Ver. 4)",USA,Ver. 4,yes,Caveman Ninja,Data East Caveman Ninja hardware,,no,no,1991,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 cobracom,"Cobra-Command (W, Rev. 5)",World,Rev. 5,no,Cobra-Command,Data East DEC8 hardware,,no,no,1988,Data East Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
 cobracoma,"Cobra-Command (W, Rev. 4)",World,Rev. 4,yes,Cobra-Command,Data East DEC8 hardware,,no,no,1988,Data East Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
 cobracomb,Cobra-Command (W),World,,yes,Cobra-Command,Data East DEC8 hardware,,no,no,1988,Data East Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
@@ -484,6 +488,13 @@ dariusj,"Darius (JP, rev 1)",Japan,rev 1,yes,Darius,Taito Darius hardware,Darius
 dariuso,Darius (JP),Japan,,yes,Darius,Taito Darius hardware,Darius,no,no,1986,Taito Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 dariusu,Darius (US),USA,,yes,Darius,Taito Darius hardware,Darius,no,no,1986,Taito America Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 darkplnt,Dark Planet,World,,no,,Konami Scramble based,,no,no,1982,Stern,Shooter - Field,,15kHz,horizontal,,,1,2-way horizontal,,2
+darkseal,"Dark Seal (W, Rev. 3)",World,Rev. 3,no,Dark Seal,Data East Dark Seal hardware,,no,no,1990,Data East Corporation,Maze - Fighter,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+darkseal1,"Dark Seal (W, Rev. 1)",World,Rev. 1,yes,Dark Seal,Data East Dark Seal hardware,,no,no,1990,Data East Corporation,Maze - Fighter,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+darkseal2,"Dark Seal 2 (JP, v2.1)",Japan,v2.1,yes,Wizard Fire,Data East Rohga hardware,,no,no,1992,Data East Corporation,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+darksealj,"Dark Seal (JP, Rev. 4)",Japan,Rev. 4,yes,Dark Seal,Data East Dark Seal hardware,,no,no,1990,Data East Corporation,Maze - Fighter,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+dblewing,"Double Wings (W, Set 1)",World,Set 1,yes,Double Wings,Data East Double Wings hardware,,no,no,1993,Mitchell,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,3
+dblewinga,"Double Wings (W, Set 2)",World,Set 2,yes,Double Wings,Data East Double Wings hardware,,no,no,1993,Mitchell,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,3
+dblewingb,Double Wings (AS),Asia,,no,Double Wings,Data East Double Wings hardware,,no,no,1994,Mitchell,Shooter - Flying Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,3
 dbreedjm72,Dragon Breed (JP),Japan,,no,Dragon Breed,Irem M72,,no,no,1989,Irem,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
 dcon,D-Con,World,,no,D-Con,Seibu D-Con hardware,,no,no,1992,Success,Shooter - Command,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 ddonpach,DoDonPachi,World,,no,DoDonPachi,CAVE 68000,DonPachi,no,no,1997,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
@@ -533,6 +544,7 @@ ddtodur1,"Dungeons &amp; Dragons- Tower of Doom (US, 940113)",USA,940113,yes,Dun
 ddux,"Dynamite Dux (W, Set 3)",World,"Set 3, FD1094 317-0096",no,Dynamite Dux,Sega System 16,,no,no,1988,Sega,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,2
 ddux1,"Dynamite Dux (W, Set 1)",World,"Set 1, 8751 317-0095",yes,Dynamite Dux,Sega System 16,,no,no,1988,Sega,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,2
 dduxj,"Dynamite Dux (JP, Set 2)",Japan,"Set 2, FD1094 317-0094",yes,Dynamite Dux,Sega System 16,,no,no,1988,Sega,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,2
+deathbrd,"Death Brade (JP, Ver. JM-3)",Japan,Ver. JM-3,yes,Mutant Fighter,Data East Caveman Ninja hardware,,no,no,1991,Data East Corporation,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 decodark,DECO Multigame (Darksoft v17),,,no,DECO Multigame,Data East DECO Cassette,,no,yes,2022,bootleg (Darksoft),MultiGame - Compilation,,15kHz,vertical (ccw),,,2 (alternating),,,2
 defender,Defender (Red Label),World,Red Label,no,,Williams 1st Generation,,no,no,1980,Williams,Shooter - Flying Horizontal,,15kHz,horizontal,,,1,2-way vertical,,5
 defense,"Defense (W, S16B)",World,"S16B, FD1089A 317-0028",yes,SDI,Sega System 16,,no,no,1987,Sega,Shooter - Command,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,1
@@ -541,6 +553,12 @@ devilfsg,Devil Fish (Galaxian Hardware),World,Galaxian Hardware,no,,Namco Galaxi
 devzone,Devil Zone,World,,no,,Universal Cosmic hardware,,no,no,1980,Universal,Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),2-way,,1
 dfeveron,Dangun Feveron,World,,no,,CAVE 68000,,no,no,1998,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 dfjail,The Destroyer From Jail (KR),Korea,,no,The Destroyer From Jail,Sega System 16,,no,no,1991,Philko,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
+dietgo,"Diet Go Go (EU, Set 1)",Europe,Set 1,no,Diet Go Go,Data East Diet Go Go hardware,,no,no,1992,Data East Corporation,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+dietgoe,"Diet Go Go (EU, Set 2)",Europe,Set 2,yes,Diet Go Go,Data East Diet Go Go hardware,,no,no,1992,Data East Corporation,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+dietgoea,"Diet Go Go (EU, Set 3)",Europe,Set 3,yes,Diet Go Go,Data East Diet Go Go hardware,,no,no,1992,Data East Corporation,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+dietgoeb,"Diet Go Go (EU, Set 4)",Europe,Set 4,yes,Diet Go Go,Data East Diet Go Go hardware,,no,no,1992,Data East Corporation,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+dietgoj,Diet Go Go (JP),Japan,,yes,Diet Go Go,Data East Diet Go Go hardware,,no,no,1992,Data East Corporation,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+dietgou,Diet Go Go (US),USA,,yes,Diet Go Go,Data East Diet Go Go hardware,,no,no,1992,Data East Corporation,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 digdug,Dig Dug (Rev 2),World,Rev 2,no,,Namco Galaga based,Dig Dug,no,no,1982,Namco,Maze - Digging,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 digdug1,Dig Dug (Rev 1),World,Rev 1,yes,Dig Dug,Namco Galaga based,Dig Dug,no,no,1982,Namco,Maze - Digging,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 digdug2,Dig Dug II (New Ver),World,New Ver,no,Dig Dug II,Namco Super Pac-Man hardware,Dig Dug,no,no,1985,Namco,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
@@ -627,6 +645,10 @@ ecofghtrd,"Eco Fighters (W, Phoenix Edition) [bl]",World,Phoenix Edition,yes,,Ca
 ecofghtrh,"Eco Fighters (HS, 931203)",Hispanic,931203,yes,Eco Fighters,Capcom CPS-2,,no,no,1993,Capcom,Shooter - Flying Horizontal,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,3
 ecofghtru,"Eco Fighters (US, 940215)",USA,940215,yes,Eco Fighters,Capcom CPS-2,,no,no,1993,Capcom,Shooter - Flying Horizontal,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,3
 ecofghtru1,"Eco Fighters (US, 931203)",USA,931203,yes,Eco Fighters,Capcom CPS-2,,no,no,1993,Capcom,Shooter - Flying Horizontal,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,3
+edrandy,"The Cliffhanger - Edward Randy (W, Ver. 3)",World,Ver. 3,no,The Cliffhanger - Edward Randy,Data East Caveman Ninja hardware,,no,no,1990,Data East Corporation,Fighter - 2D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+edrandy1,"The Cliffhanger - Edward Randy (W, Ver. 1)",World,Ver. 1,yes,The Cliffhanger - Edward Randy,Data East Caveman Ninja hardware,,no,no,1990,Data East Corporation,Fighter - 2D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+edrandy2,"The Cliffhanger - Edward Randy (W, Ver. 2)",World,Ver. 2,yes,The Cliffhanger - Edward Randy,Data East Caveman Ninja hardware,,no,no,1990,Data East Corporation,Fighter - 2D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+edrandyj,"The Cliffhanger - Edward Randy (JP, Ver. 3)",Japan,Ver. 3,yes,The Cliffhanger - Edward Randy,Data East Caveman Ninja hardware,,no,no,1990,Data East Corporation,Fighter - 2D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 eeekkp,Eeek! (Pac-Man Conversion),World,Pac-Man Conversion,no,,Namco Pac-Man hardware,,no,no,1984,Epos Corporation,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 eggor,Eggor,World,,no,,Namco Pac-Man hardware,,no,no,1983,Telko,Maze - Shooter Small,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 eltonpac,Elton Pac [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Marcel Silvius,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
@@ -768,6 +790,8 @@ gaplusa,Gaplus (GP2),World,GP2,yes,Gaplus,Namco Galaga based,Galaxian,no,no,1984
 gaplust,Gaplus (Tecfri PCB),World,Tecfri PCB,yes,Gaplus,Namco Galaga based,Galaxian,no,no,1984,Namco,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
 gardia,Gardia (317-0006),World,317-0006,no,,Sega System 1,,no,no,1986,Sega - Coreland,Shooter - Flying Vertical,,15kHz,vertical (ccw),no,,2 (alternating),8-way,,2
 gardiaj,"Gardia (JP, 317-0006)",Japan,317-0006,yes,Gardia,Sega System 1,,no,no,1986,Sega - Coreland,Shooter - Flying Vertical,,15kHz,vertical (ccw),no,,2 (alternating),8-way,,2
+gatedoom,"Gate of Doom (US, Rev. 4)",USA,Rev. 4,yes,Dark Seal,Data East Dark Seal hardware,,no,no,1990,Data East Corporation,Maze - Fighter,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+gatedoom1,"Gate of Doom (US, Rev. 1)",USA,Rev. 1,yes,Dark Seal,Data East Dark Seal hardware,,no,no,1990,Data East Corporation,Maze - Fighter,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 gatsbee,Gatsbee,World,,yes,Galaga,Namco Galaga based,,no,no,1984,Uchida,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,1
 gaunt2,Gauntlet II,World,,no,Gauntlet II,Atari Gauntlet based,Gauntlet,no,no,1985,Atari,Maze - Shooter Large,,15kHz,horizontal,,,4 (simultaneous),8-way,,2
 gaunt22p,"Gauntlet II (2 Players, Rev 2)",World,"2 Players, Rev 2",yes,Gauntlet II,Atari Gauntlet based,Gauntlet,no,no,1985,Atari,Maze - Shooter Large,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
@@ -845,6 +869,7 @@ gteikokub3,Gingateikoku no Gyakushu (Set 3) [bl],Japan,Set 3,yes,UniWar S,Irem U
 gulfwar2,Gulf War II (Set 1),World,set 1,no,Gulf War II,Toaplan Twin Cobra hardware,,no,no,1991,Comad,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 gulfwar2a,Gulf War II (Set 2),World,set 2,yes,Gulf War II,Toaplan Twin Cobra hardware,,no,no,1991,Comad,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 gulunpa,"Gulun.Pa (931220 L, Prototype)",World,"931220 L, Prototype",no,,Capcom CPS-1,,no,no,1993,Capcom,Puzzle - Drop,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
+gunball,Gun Ball (JP),Japan,,yes,Nitro Ball,Data East Rohga hardware,,no,no,1992,Data East Corporation,Shooter - Walking,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
 gunfight,Gun Fight,World,,no,,Midway 8080,,no,no,1975,Dave Nutting Associates - Midway,Shooter - Versus,,15kHz,horizontal,,,2 (alternating),8-way,,0
 gunforc2,Gun Force II (US),USA,,no,Gun Force II,Irem M92,Gun Force,no,no,1994,Irem,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 gunforce,Gun Force (W),World,,yes,Gun Force,Irem M92,Gun Force,no,no,1991,Irem,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
@@ -940,6 +965,7 @@ jackalr,"Jackal (W, Rotary)",World,Rotary,no,Jackal,Konami Double Dribble based,
 jacman,Jacman [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Brent Cobb,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 jailbrek,Jailbreak,World,,no,,Konami Green Beret based,,no,no,1986,Konami,Platform - Shooter Scrolling,,15kHz,horizontal,yes,,2 (alternating),8-way,,2
 jin,Jin,World,,no,,Williams 1st Generation,,no,no,1982,Falcon,Puzzle - Outline,,15kHz,vertical (cw),no,,1,8-way,,2
+joemac,"Tatakae Genshijin Joe & Mac (JP, Ver. 1)",Japan,Ver. 1,yes,Caveman Ninja,Data East Caveman Ninja hardware,,no,no,1991,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 journey,Journey,World,,no,,Midway MCR3,,no,no,1984,Bally - Midway,Maze - Collect,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 joust,Joust,World,,no,Joust,Williams 1st Generation,Joust,no,no,1982,Williams,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),2-way horizontal,,1
 joust2,Joust 2 - Survival of the Fittest (Rev 2),World,Rev. 2,no,Joust 2,Williams 2nd Generation,Joust,no,no,1986,Williams,Platform - Run Jump,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,
@@ -1000,6 +1026,7 @@ kovsh,"Knights of Valour Super Heroes (ver. 104, CN)",China,ver. 104,no,Knights 
 kozure,Kozure Ookami (JP),Japan,,no,Kozure Ookami,Nichibutsu M68000 (Armed F),,no,no,1987,Nichibutsu,Fighter - 2.5D,,15kHz,horizontal,,,2 (alternating),8-way,,2
 kram,Kram,World,,no,Kram,Taito Qix Hardware,,no,no,1982,Taito America Corporation,Maze - Collect,,15kHz,horizontal,,,2 (alternating),8-way,,2
 kroozr,Kozmik Krooz'r,World,,no,,Midway MCR2,,no,no,1983,Bally - Midway,Shooter - Field,,15kHz,horizontal,,,1,8-way,rotary,1
+kuhga,"Kuhga - Operation Code 'Vapor Trail' (JP, Rev. 3)",Japan,Rev. 3,yes,Vapor Trail - Hyper Offence Formation,Data East Vapor Trail hardware,,no,no,1989,Data East Corporation,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
 kungfub,Kung-Fu Master (Set 1) [bl],World,Set 1,yes,Kung-Fu Master,Irem M62,,no,yes,1984,Irem,Fighter - 2D,,15kHz,horizontal,,,2 (alternating),8-way,,2
 kungfub2,Kung-Fu Master (Set 2) [bl],World,Set 2,yes,Kung-Fu Master,Irem M62,,no,yes,1984,Irem,Fighter - 2D,,15kHz,horizontal,,,2 (alternating),8-way,,2
 kungfum,Kung-Fu Master (W),World,,no,Kung-Fu Master,Irem M62,,no,no,1984,Irem,Fighter - 2D,,15kHz,horizontal,,,2 (alternating),8-way,,2
@@ -1162,6 +1189,11 @@ mswordj,"Magic Sword- Heroic Fantasy (JP, 900623)",Japan,900623,yes,Magic Sword,
 mswordr1,"Magic Sword- Heroic Fantasy (W, 900623)",World,900623,yes,Magic Sword,Capcom CPS-1,,no,no,1990,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
 mswordu,"Magic Sword- Heroic Fantasy (US, 900715)",USA,900715,yes,Magic Sword,Capcom CPS-1,,no,no,1990,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
 mtwins,"Mega Twins (W, 900619)",World,900619,no,,Capcom CPS-1,Mega Twins,no,no,1990,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
+mutantf,"Mutant Fighter (W, Ver. EM-5)",World,Ver. EM-5,no,Mutant Fighter,Data East Caveman Ninja hardware,,no,no,1991,Data East Corporation,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+mutantf1,"Mutant Fighter (W, Ver. EM-1)",World,Ver. EM-1,yes,Mutant Fighter,Data East Caveman Ninja hardware,,no,no,1991,Data East Corporation,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+mutantf2,"Mutant Fighter (W, Ver. EM-2)",World,Ver. EM-2,yes,Mutant Fighter,Data East Caveman Ninja hardware,,no,no,1991,Data East Corporation,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+mutantf3,"Mutant Fighter (W, Ver. EM-3)",World,Ver. EM-3,yes,Mutant Fighter,Data East Caveman Ninja hardware,,no,no,1991,Data East Corporation,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+mutantf4,"Mutant Fighter (W, Ver. EM-4)",World,Ver. EM-4,yes,Mutant Fighter,Data East Caveman Ninja hardware,,no,no,1991,Data East Corporation,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 mvp,"MVP (US, Set 2)",USA,"Set 2, FD1094 317-0143",no,MVP,Sega System 16,,no,no,1989,Sega,Sports - Baseball,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 mvpj,"MVP (JP, Set 1)",Japan,"Set 1, FD1094 317-0142",yes,MVP,Sega System 16,,no,no,1989,Sega,Sports - Baseball,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 mvsc,"Marvel Vs. Capcom- Clash of Super Heroes (EU, 980123)",Europe,980123,no,,Capcom CPS-2,Marvel - Capcom,no,no,1998,Capcom,Fighter - Versus,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,6
@@ -1205,6 +1237,9 @@ ninjaw,The Ninja Warriors (W),World,,no,The Ninja Warriors,Taito Ninja Warriors 
 ninjaw1,"The Ninja Warriors (W, earlier version)",World,earlier version,yes,The Ninja Warriors,Taito Ninja Warriors hardware,,no,no,1987,Taito Corporation Japan,Fighter - 2D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 ninjawj,The Ninja Warriors (JP),Japan,,yes,The Ninja Warriors,Taito Ninja Warriors hardware,,no,no,1987,Taito Corporation,Fighter - 2D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 ninjawu,"The Ninja Warriors (US, Romstar license)",USA,,yes,The Ninja Warriors,Taito Ninja Warriors hardware,,no,no,1987,Taito America Corporation (Romstar license),Fighter - 2D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+nitrobal,"Nitro Ball (W, Set 1)",World,Set 1,no,Nitro Ball,Data East Rohga hardware,,no,no,1992,Data East Corporation,Shooter - Walking,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
+nitrobala,"Nitro Ball (W, Set 2)",World,Set 2,yes,Nitro Ball,Data East Rohga hardware,,no,no,1992,Data East Corporation,Shooter - Walking,,15kHz,vertical (ccw),,,3 (simultaneous),8-way,,2
+nitrobalb,"Nitro Ball (W, Set 3)",World,Set 3,yes,Nitro Ball,Data East Rohga hardware,,no,no,1992,Data East Corporation,Shooter - Walking,,15kHz,vertical (ccw),,,3 (simultaneous),8-way,,2
 nmaster,Oni - The Ninja Master (JP),Japan,,yes,Metamoqester,CAVE 68000,,no,no,1995,Banpresto / Pandorabox,Fighter - Versus Co-op,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
 nobb,Noboranka [bl],World,,no,,Sega System 1,,no,no,1986,Sega,Climbing - Tree - Plant,,15kHz,vertical (ccw),no,,2 (alternating),8-way,,2
 nomnlnd,No Mans Land,World,,no,,Universal Cosmic hardware,,no,no,1980,Universal,Shooter - Field,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,1
@@ -1492,6 +1527,10 @@ roadf2,Road Fighter (Set 2),World,Set 2,yes,,Konami 6809 based,,no,no,1984,Konam
 roadfu,"Road Fighter (Set 3, unencrypted)",World,Set 3,yes,,Konami 6809 based,,no,no,1984,Konami,Driving - Race,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,
 robby,The Adventures of Robby Roto!,World,,no,,Midway Astrocade,,no,no,1981,Dave Nutting Associates - Bally - Midway,Maze - Digging,,15kHz,horizontal,,,2 (alternating),4-way,,1
 robocop,"Robocop (W, Rev 4)",World,Rev. 4,no,Robocop,Data East MEC-M1,Robocop,no,no,1988,Data East,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
+robocop2,"Robocop 2 (W, v0.10)",World,v0.10,yes,Robocop 2,Data East Caveman Ninja hardware,,no,no,1991,Data East Corporation,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+robocop2j,"Robocop 2 (JP, v0.11)",Japan,v0.11,yes,Robocop 2,Data East Caveman Ninja hardware,,no,no,1991,Data East Corporation,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+robocop2u,"Robocop 2 (US, v0.10)",USA,v0.10,no,Robocop 2,Data East Caveman Ninja hardware,,no,no,1991,Data East Corporation,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+robocop2ua,"Robocop 2 (US, v0.05)",USA,v0.05,yes,Robocop 2,Data East Caveman Ninja hardware,,no,no,1991,Data East Corporation,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 robocopj,Robocop (JP),Japan,,yes,Robocop,Data East MEC-M1,Robocop,no,no,1988,Data East,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
 robocopu,"Robocop (US, Rev 1)",USA,Rev 1,yes,Robocop,Data East MEC-M1,Robocop,no,no,1988,Data East,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
 robocopu0,"Robocop (US, Rev 0)",USA,Rev 0,yes,Robocop,Data East MEC-M1,Robocop,no,no,1988,Data East,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
@@ -1509,6 +1548,11 @@ rockman2j,"Rockman 2- The Power Fighters (JP, 960708)",Japan,960708,yes,Mega Man
 rockmanj,"Rockman- The Power Battle (JP, 950922)",Japan,950922,yes,Mega Man- The Power Battle,Capcom CPS-1,Mega Man,no,no,1995,Capcom,Fighter - Versus Co-op,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
 rocnrope,Roc'n Rope,World,,no,Roc'n Rope,Konami 6809 based,,no,no,1983,Konami,Platform - Run Jump,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,2
 rocnropek,Roc'n Rope (Kosuka),World,,yes,Roc'n Rope,Konami 6809 based,,no,no,1983,Konami,Platform - Run Jump,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,2
+rohga,"Rohga - Armor Force (W, v5.0)",World,v5.0,no,Rohga - Armor Force,Data East Rohga hardware,,no,no,1991,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+rohga1,"Rohga - Armor Force (W, v3.0 set 1)",World,v3.0 set 1,yes,Rohga - Armor Force,Data East Rohga hardware,,no,no,1991,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+rohga2,"Rohga - Armor Force (W, v3.0 set 2)",World,v3.0 set 2,yes,Rohga - Armor Force,Data East Rohga hardware,,no,no,1991,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+rohgah,"Rohga - Armor Force (HK, v3.0)",Hong Kong,v3.0,yes,Rohga - Armor Force,Data East Rohga hardware,,no,no,1991,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+rohgau,"Rohga - Armor Force (US, v1.0)",USA,v1.0,yes,Rohga - Armor Force,Data East Rohga hardware,,no,no,1991,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 rpatroln,"River Patrol (JP, Unprotected)",Japan,Unprotected,no,,Taito Licensed,,no,no,1981,Orca,Driving - Boat,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,1
 rtype,R-Type (W),World,,no,R-Type,Irem M72,R-Type,no,no,1987,IREM,Shooter - Flying Horizontal,,15kHz,horizontal,,,1,8-way,,2
 rtype2,R-Type II (W),World,,no,R-Type II,Irem M72,R-Type,no,no,1989,Irem,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
@@ -1903,6 +1947,9 @@ strongx,Strong X,World,,yes,Strategy X,Konami Scramble based,,no,no,1982,,Shoote
 subs,Subs,World,,no,subs,Atari 6502,Subs,no,no,1978,Atari,Shooter - Field,,15kHz,horizontal,,,1,2-way horizontal,,
 sumeltob,Summertime Elton (Old) [hb],World,Old,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Staizitto,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 sumelton,Summertime Elton [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Staizitto,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+supbtime,"Super Burger Time (W, Set 1)",World,Set 1,no,Super Burger Time,Data East Super Burger Time hardware,,no,no,1990,Data East Corporation,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+supbtimea,"Super Burger Time (W, Set 2)",World,Set 2,yes,Super Burger Time,Data East Super Burger Time hardware,,no,no,1990,Data East Corporation,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+supbtimej,Super Burger Time (JP),Japan,,yes,Super Burger Time,Data East Super Burger Time hardware,,no,no,1990,Data East Corporation,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 superdog,Superdog [hb],World,,yes,Scramble,Konami Scramble based,,yes,no,1981,Jerky,Shooter - Flying Horizontal,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 superpac,Super Pac-Man,World,,no,,Namco Super Pac-Man hardware,,no,no,1982,Namco,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 superpacm,Super Pac-Man (Midway),USA,Midway,yes,Super Pac-Man,Namco Super Pac-Man hardware,,no,no,1982,Namco - Midway,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
@@ -2009,6 +2056,8 @@ tumblep,Tumble Pop (W),World,,no,Tumble Pop,Data East Tumble Pop hardware,,no,no
 tumblepj,Tumble Pop (JP),Japan,,yes,Tumble Pop,Data East Tumble Pop hardware,,no,no,1991,Data East Corporation,Platform - Run Jump,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 turbotag,Turbo Tag (Prototype),World,Prototype,no,,Midway MCR3,,no,no,1985,Bally,Driving - Demolition Derby,,15kHz,vertical (cw),no,,1,,trackball,4
 turtles,Turtles,World,,no,,Konami Scramble based,,no,no,1981,Konami,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
+twocrude,"Two Crude (US, FT Revision 1)",USA,FT Revision 1,yes,Crude Buster,Data East Crude Buster hardware,,no,no,1990,Data East USA,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
+twocrudea,"Two Crude (US, FT Version)",USA,FT Version,yes,Crude Buster,Data East Crude Buster hardware,,no,no,1990,Data East USA,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 twotigerc,Two Tigers (Tron Conversion),World,Tron Conversion,no,,Midway MCR2,,no,no,1984,Bally - Midway,Shooter - Field,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,2
 uccops,Undercover Cops (W),World,,yes,Undercover Cops,Irem M92,Underconver Cops,no,no,1992,Irem,Fighter - 2.5D,,15kHz,horizontal,,,3 (simultaneous),8-way,,2
 uccopsar,Undercover Cops - Alpha Renewal Version (W),World,,no,Undercover Cops,Irem M92,Underconver Cops,no,no,1992,Irem,Fighter - 2.5D,,15kHz,horizontal,,,3 (simultaneous),8-way,,2
@@ -2034,6 +2083,8 @@ vampjr1,"Vampire- The Night Warriors (JP, 940630)",Japan,940630,yes,Vampire- The
 vanvan,Van-Van Car,World,,no,,Namco Pac-Man hardware,,no,no,1983,Sanritsu,Maze - Collect,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
 vanvanb,"Van-Van Car (Karateco, Set 2)",World,"Karateco, Set 2",yes,Van-Van Car,Namco Pac-Man hardware,,no,no,1983,Sanritsu - Karateco,Maze - Collect,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
 vanvank,"Van-Van Car (Karateco, Set 1)",World,"Karateco, Set 1",yes,Van-Van Car,Namco Pac-Man hardware,,no,no,1983,Sanritsu - Karateco,Maze - Collect,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
+vaportra,"Vapor Trail - Hyper Offence Formation (W, Rev. 1)",World,Rev. 1,no,Vapor Trail - Hyper Offence Formation,Data East Vapor Trail hardware,,no,no,1989,Data East Corporation,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
+vaportrau,Vapor Trail - Hyper Offence Formation (US),USA,,yes,Vapor Trail - Hyper Offence Formation,Data East Vapor Trail hardware,,no,no,1989,Data East USA,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
 varth,"Varth- Operation Thunderstorm (W, 920714)",World,920714,no,,Capcom CPS-1,,no,no,1992,Capcom,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
 varthj,"Varth- Operation Thunderstorm (JP, 920714)",Japan,920714,yes,Varth,Capcom CPS-1,,no,no,1992,Capcom,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
 varthjr,"Varth- Operation Thunderstorm (JP, Resale)",Japan,920714 Resale,yes,Varth,Capcom CPS-1,,no,no,1992,Capcom,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
@@ -2134,6 +2185,9 @@ willow,Willow (W),World,,no,,Capcom CPS-1,,no,no,1989,Capcom,Platform - Shooter 
 willowj,Willow (JP),Japan,,yes,Willow,Capcom CPS-1,,no,no,1989,Capcom,Platform - Shooter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,3
 willowu,Willow (US),USA,,yes,Willow,Capcom CPS-1,,no,no,1989,Capcom,Platform - Shooter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,3
 willowuo,"Willow (US, Old Ver)",USA,Old Ver,yes,Willow,Capcom CPS-1,,no,no,1989,Capcom,Platform - Shooter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,3
+wizdfire,"Wizard Fire (W, v2.1)",World,v2.1,no,Wizard Fire,Data East Rohga hardware,,no,no,1992,Data East Corporation,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+wizdfirea,"Wizard Fire (W, v1.0)",World,v1.0,yes,Wizard Fire,Data East Rohga hardware,,no,no,1992,Data East Corporation,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+wizdfireu,"Wizard Fire (US, v1.1)",USA,v1.1,yes,Wizard Fire,Data East Rohga hardware,,no,no,1992,Data East Corporation,Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 wmatch,Water Match (315-5064),World,315-5064,no,,Sega System 1,,no,no,1984,Sega,Sports - Track &amp; Field,,15kHz,vertical (ccw),no,,2 (alternating),8-way,twin stick,1
 wndrplnt,Wonder Planet (JP),World,,no,Wonder Planet,Data East Karnov hardware,Wonder Planet,no,no,1987,Data East Corporation,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,2
 wofr1,"Warriors of Fate (W, 921002)",World,921002,yes,,Capcom CPS-1.5,Dynasty Wars,no,no,1992,Capcom,Fighter - 2.5D,,15kHz,horizontal,n-a,,3 (simultaneous),8-way,,2
@@ -2143,6 +2197,7 @@ wofhfh,"Huo Feng Huang (CN, Sangokushi II) [bl]",China,"Chinese, Sangokushi II",
 wofj,"Tenchi wo Kurau II- Sekiheki no Tatakai (JP, 921031)",Japan,921031,yes,Dynasty Wars,Capcom CPS-1.5,Dynasty Wars,no,no,1992,Capcom,Fighter - 2.5D,,15kHz,horizontal,n-a,,3 (simultaneous),8-way,,2
 wofu,"Warriors of Fate (US, 921031)",USA,921031,yes,Dynasty Wars,Capcom CPS-1.5,Dynasty Wars,no,no,1992,Capcom,Fighter - 2.5D,,15kHz,horizontal,n-a,,3 (simultaneous),8-way,,2
 wofch,"Tenchi wo Kurau II- Sekiheki no Tatakai (JP, CPS Changer, 921031)",Japan,CPS Changer,yes,Dynasty Wars,Capcom CPS-1.5,Dynasty Wars,no,no,1994,Capcom,Fighter - 2.5D,,15kHz,horizontal,n-a,,3 (simultaneous),8-way,,2
+wolffang,Wolf Fang - Kuuga 2001 (JP),Japan,,yes,Rohga - Armor Force,Data East Rohga hardware,,no,no,1991,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 wonder3,"Wonder 3 (JP, 910520)",Japan,910520,yes,Three Wonders,Capcom CPS-1,,no,no,1991,Capcom,MultiGame - Compilation,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
 woodpeck,Woodpecker (Set 1),World,Set 1,no,,Namco Pac-Man hardware,,no,no,1981,Amenip - Palcom Queen River,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 wow,Wizard of Wor,World,,no,,Midway Astrocade,,no,no,1980,Dave Nutting Associates - Midway,Maze - Shooter Small,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
