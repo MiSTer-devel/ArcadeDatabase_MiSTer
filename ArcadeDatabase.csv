@@ -330,6 +330,7 @@ cbdash,Boulder Dash,USA,,no,Boulder Dash,Data East DECO Cassette,,no,no,1985,Dat
 cbnj,Bump n Jump,USA,,no,Bump n Jump,Data East DECO Cassette,,no,no,1982,Data East,Driving - Race,,15kHz,vertical (ccw),,,2 (alternating),8-way,,1
 cbtime,Burger Time,USA,,no,Burger Time,Data East DECO Cassette,,no,no,1983,Data East,Platform - Run Jump,,15kHz,vertical (ccw),,,2 (alternating),4-way,,1
 cburnrub,Burnin Rubber (Set 1),USA,,no,Burnin Rubber,Data East DECO Cassette,,no,no,1982,Data East,Driving - Race,,15kHz,vertical (ccw),,,2 (alternating),8-way,,1
+cbuster,Crude Buster (W FX version),World,FX version,no,Crude Buster,Data East Crude Buster hardware,,no,no,1990,Data East Corporation,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 ccastles,Crystal Castles,World,,no,Crystal Castles,Atari 6502,Crystal Castles,no,no,1983,Atari,Maze - Collect,,15kHz,horizontal,,,2 (alternating),8-way,,3
 cclimber,Crazy Climber,World,,no,Crazy Climber,Taito Licensed,Crazy Climber,no,no,1980,Nichibutsu,Climbing - Building,,15kHz,horizontal,,,2 (alternating),8-way,twin stick,4
 cclimbera,"Crazy Climber (US, Set 2)",USA,Set 2,yes,Crazy Climber,Taito Licensed,Crazy Climber,no,no,1980,Nichibutsu,Climbing - Building,,15kHz,horizontal,,,2 (alternating),8-way,twin stick,4
@@ -390,6 +391,11 @@ cmanhat,Manhattan (JP),Japan,,no,Manhattan,Data East DECO Cassette,,no,no,1981,D
 cmissnx,Mission-X,USA,,no,Mission-X,Data East DECO Cassette,,no,no,1982,Data East,Shooter - Flying Horizontal,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cnebula,Nebula,UK,,no,Nebula,Data East DECO Cassette,,no,no,1981,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cnightst,Night Star (Set 1),USA,,no,Night Star,Data East DECO Cassette,,no,no,1983,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
+cninja,Caveman Ninja (W ver 4),World,ver 4,no,Caveman Ninja,Data East Caveman Ninja hardware,,no,no,1991,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+cobracom,"Cobra-Command (W, Rev. 5)",World,Rev. 5,no,Cobra-Command,Data East DEC8 hardware,,no,no,1988,Data East Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
+cobracoma,"Cobra-Command (W, Rev. 4)",World,Rev. 4,yes,Cobra-Command,Data East DEC8 hardware,,no,no,1988,Data East Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
+cobracomb,Cobra-Command (W),World,,yes,Cobra-Command,Data East DEC8 hardware,,no,no,1988,Data East Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
+cobracomj,Cobra-Command (JP),Japan,,yes,Cobra-Command,Data East DEC8 hardware,,no,no,1988,Data East Corporation,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
 cocean6b,Ocean to Ocean (US),USA,,no,Ocean to Ocean,Data East DECO Cassette,,no,no,1981,Data East,Casino - Cards,,15kHz,vertical (ccw),,,2 (alternating),,,2
 colony7,Colony 7 (Set 1),World,Set 1,no,Colony 7,Taito Unique,,no,no,1981,Taito,Shooter - Command,,15kHz,vertical (ccw),no,,1,8-way,,3
 colony7a,Colony 7 (Set 2),World,Set 2,yes,Colony 7,Taito Unique,,no,no,1981,Taito,Shooter - Command,,15kHz,vertical (ccw),no,,1,8-way,,3
