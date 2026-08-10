@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>mayjin3</setname>
+	<name>Mayjinsen 3</name>
+	<region>World</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>Mayjinsen 3</parent_title>
+	<platform>Nintendo Aleck64 hardware</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>2000</year>
+	<manufacturer>Seta</manufacturer>
+	<manufacturer>Able Corporation</manufacturer>
+	<category></category>
+
+	<resolution></resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>1</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons></num_buttons>
+</misterarcadedescription>

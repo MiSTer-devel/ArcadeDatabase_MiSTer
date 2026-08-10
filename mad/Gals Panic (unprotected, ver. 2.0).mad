@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>galpanic</setname>
+	<name>Gals Panic (unprotected, ver. 2.0)</name>
+	<region>World</region>
+	<version>unprotected, ver. 2.0</version>
+	<alternative>no</alternative>
+	<parent_title>Gals Panic</parent_title>
+	<platform>Kaneko Gals Panic hardware</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1990</year>
+	<manufacturer>Kaneko</manufacturer>
+	<category>Puzzle - Outline</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>4-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>calibr50</setname>
+	<name>Caliber 50 (Ver. 1.01)</name>
+	<region>World</region>
+	<version>Ver. 1.01</version>
+	<alternative>no</alternative>
+	<parent_title>Caliber 50</parent_title>
+	<platform>Seta 68000 based</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1989</year>
+	<manufacturer>Seta</manufacturer>
+	<category>Shooter - Walking</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

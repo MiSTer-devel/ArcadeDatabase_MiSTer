@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>robocop2ua</setname>
+	<name>Robocop 2 (US, v0.05)</name>
+	<region>USA</region>
+	<version>v0.05</version>
+	<alternative>yes</alternative>
+	<parent_title>Robocop 2</parent_title>
+	<platform>Data East Caveman Ninja hardware</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1991</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<category>Fighter - 2.5D</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>

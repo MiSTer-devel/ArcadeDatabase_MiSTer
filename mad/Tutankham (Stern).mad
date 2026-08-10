@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>tutankhms</setname>
+	<name>Tutankham (Stern)</name>
+	<region>World</region>
+	<version>Stern</version>
+	<alternative>yes</alternative>
+	<parent_title>Tutankham</parent_title>
+	<platform>Konami Tutankham hardware</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1982</year>
+	<manufacturer>Konami (Stern Electronics license)</manufacturer>
+	<category>Maze - Shooter Large</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>2-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

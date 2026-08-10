@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>starsldr</setname>
+	<name>Star Soldier - Vanishing Earth</name>
+	<region>World</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>Star Soldier - Vanishing Earth</parent_title>
+	<platform>Nintendo Aleck64 hardware</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1998</year>
+	<manufacturer>Hudson Soft</manufacturer>
+	<manufacturer>Seta</manufacturer>
+	<category>Shooter - Flying Vertical</category>
+
+	<resolution></resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>1</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>4</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>darkseal2</setname>
+	<name>Dark Seal 2 (JP, v2.1)</name>
+	<region>Japan</region>
+	<version>v2.1</version>
+	<alternative>yes</alternative>
+	<parent_title>Wizard Fire</parent_title>
+	<platform>Data East Rohga hardware</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1992</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<category>Fighter - 2.5D</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

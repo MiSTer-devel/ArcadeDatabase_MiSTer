@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>twocrudea</setname>
+	<name>Two Crude (US, FT Version)</name>
+	<region>USA</region>
+	<version>FT Version</version>
+	<alternative>yes</alternative>
+	<parent_title>Crude Buster</parent_title>
+	<platform>Data East Crude Buster hardware</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1990</year>
+	<manufacturer>Data East USA</manufacturer>
+	<category>Platform - Fighter Scrolling</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>fantasyu</setname>
+	<name>Fantasy</name>
+	<region>USA</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>Fantasy</parent_title>
+	<platform>SNK6502 hardware</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1981</year>
+	<manufacturer>SNK (Rock-Ola license)</manufacturer>
+	<category>Maze - Fighter</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>0</num_buttons>
+</misterarcadedescription>

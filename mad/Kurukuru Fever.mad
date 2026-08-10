@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>kurufev</setname>
+	<name>Kurukuru Fever</name>
+	<region>World</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>Kurukuru Fever</parent_title>
+	<platform>Nintendo Aleck64 hardware</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>2003</year>
+	<manufacturer>Aruze</manufacturer>
+	<manufacturer>Takumi</manufacturer>
+	<category>Puzzle - Drop</category>
+
+	<resolution></resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>
