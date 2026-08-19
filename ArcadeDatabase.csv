@@ -611,6 +611,7 @@ dkpace,Donkey Kong Pace (Pace) [hb],World,Pace,yes,Donkey Kong,Donkey Kong hardw
 dkrainbow,Rainbow Donkey Kong [hb],World,,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 dkrdemo,"Donkey Kong (Remix, Rev 1.8) [hb]",World,"Remix, Rev 1.8",yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 dktrainer,Donkey Kong Trainer (v1.01) [hb],World,v1.01,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Run Jump,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
+dlair,Dragon's Lair,USA,,no,Dragon's Lair,Cinematronics Laserdisc,,no,no,1983,Cinematronics,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),8-way,,1
 dland,Dream Land- Super Dream Land (Bubble Bobble) [bl],World,Bubble Bobble,yes,Bubble Bobble,Taito Bubble Booble based,Bubble Bobble,no,yes,1986,Taito,Platform - Run Jump,,15kHz,horizontal,n-a,,2 (simultaneous),2-way horizontal,,2
 dmnfrnt,Demon Front (ver. 105),World,ver. 105,no,Demon Front,IGS PGM,,no,no,2002,IGS,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (simultaneous),8-way,,4
 dogosoke,Dogou Souken,Japan,,yes,Victory Road,SNK Triple Z80,,no,no,1986,SNK,Shooter - Walking,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
@@ -881,6 +882,7 @@ gradius3a,Gradius III (AS),Asia,,yes,Gradius III,Konami Gradius III hardware,Gra
 gradius3j,"Gradius III Densetsu kara Shinwa e (JP, version 3, newer)",Japan,"version 3, newer",yes,Gradius III Densetsu kara Shinwa e,Konami Gradius III hardware,Gradius,no,no,1989,Konami,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,3
 gradius3ja,"Gradius III Densetsu kara Shinwa e (JP, version S)",Japan,version S,yes,Gradius III Densetsu kara Shinwa e,Konami Gradius III hardware,Gradius,no,no,1989,Konami,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,3
 gradius3jas,"Gradius III Densetsu kara Shinwa e (JP, version S, split)",Japan,"version S, split",yes,Gradius III Densetsu kara Shinwa e,Konami Gradius III hardware,Gradius,no,no,1989,Konami,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,3
+grainbow,SD Gundam Sangokushi Rainbow Tairiku Senki (JP),Japan,,no,SD Gundam Sangokushi Rainbow Tairiku Senki,Seibu Legionnaire hardware,,no,no,1993,Banpresto,Platform - Shooter Scrolling,,15kHz,horizontal,,,4 (simultaneous),8-way,,3
 grasspin,Grasspin (Jaleco),World,,no,Grasspin,Blue Print hardware,,no,no,1983,Zilec Electronics / Jaleco,,,15kHz,vertical (ccw),,,2 (alternating),8-way,,2
 gravitar,Gravitar (Ver 3),World,Ver 3,no,,Atari Vector,,no,no,1982,Atari,Shooter - Field,,31kHz,horizontal,,,1,2-way horizontal,,3
 grobda,"Grobda (W, New Ver.)",World,New Ver.,no,,Namco Super Pac-Man hardware,,no,no,1984,Namco,Maze - Shooter Small,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
@@ -1047,6 +1049,7 @@ killiped,Killipede [hb],World,,yes,Centipede,Atari Centipede based,,yes,no,1980,
 kingball,King and Balloon (US),USA,,no,,Namco Galaxian based,,no,no,1980,Namco,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 kingballj,King and Balloon,World,,no,,Namco Galaxian based,,no,no,1980,Namco,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 kingdmgp,Kingdom Grandprix,World,,no,Kingdom Grandprix,Toaplan 2,,no,no,1994,Raizing - Eighting,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+klax,Klax,World,,no,Klax,Atari Klax hardware,,no,no,1990,Atari Games,Puzzle - Drop,,15kHz,horizontal,,,2 (simultaneous),4-way,,1
 knights,"Knights of the Round (W, 911127)",World,911127,no,,Capcom CPS-1,,no,no,1991,Capcom,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
 knightsj,"Knights of the Round (JP, 911127, B-Board 91634B-2)",Japan,"911127, B-Board 91634B-2",yes,Knights of the Round,Capcom CPS-1,,no,no,1991,Capcom,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
 knightsja,"Knights of the Round (JP, 911127, B-Board 89625B-1)",Japan,"911127, B-Board 89625B-1",yes,Knights of the Round,Capcom CPS-1,,no,no,1991,Capcom,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,2
@@ -1932,6 +1935,7 @@ sonsonj,SonSon (JP),Japan,,yes,SonSon,Capcom CPS-0,SonSon,no,no,1984,Capcom,Plat
 sosterm,S.O.S.,World,,no,,TIAMC1,,no,no,1988,Terminal,"Platform - Run, Jump &amp; Scrolling",,15kHz,horizontal,,,1,4-way,,1
 spacbat2,Space Battle (Set 2) [bl],World,Set 2,yes,UniWar S,Irem Unique,,no,yes,1980,,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 spacbatt,Space Battle (Set 1) [bl],World,Set 1,yes,UniWar S,Irem Unique,,no,yes,1980,,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
+spaceace,Space Ace,USA,,no,Space Ace,Cinematronics Laserdisc,,no,no,1983,Cinematronics,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),8-way,,1
 SpaceDemon,Space Demon,World,,no,Space Firebird,Nintendo Arcade,,no,no,1980,Nintendo (Fortrek license),Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),2-way horizontal,,2
 spacefb,Space Firebird,World,,no,Space Firebird,Nintendo Arcade,,no,no,1980,Nintendo,Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),2-way horizontal,,2
 spacempr,Space Empire [bl],World,,yes,UniWar S,Irem Unique,,no,yes,1980,,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
@@ -2016,6 +2020,7 @@ starjack,Star Jacker (Sega),World,Sega,no,,Sega System 1,,no,no,1983,Sega,Shoote
 starjacks,Star Jacker (Alt),World,Alt,yes,Star Jacker,Sega System 1,,no,no,1983,Sega,Shooter - Flying Vertical,,15kHz,vertical (ccw),no,,2 (alternating),8-way,,2
 starslayer,Starslayer (Asteroids) [hb],World,Asteroids,yes,Asteroids,Atari Vector,,yes,no,1979,Atari,Shooter - Field,,31kHz,horizontal,,,1,2-way horizontal,,3
 starsldr,Star Soldier - Vanishing Earth,World,,no,Star Soldier - Vanishing Earth,Nintendo Aleck64 hardware,,no,no,1998,Hudson Soft / Seta,Shooter - Flying Vertical,,,horizontal,,,1,8-way,,4
+startrek,Star Trek,World,,no,Star Trek,Sega G80 Vector,,no,no,1982,Sega,Shooter - Flying 1st Person,,31kHz,horizontal (180),,,2 (alternating),,spinner,4
 starwars,Star Wars (Rev 2),World,Rev 2,no,Star Wars,Atari Vector,Star Wars,no,no,1983,Atari,Shooter - Flying 1st Person,,31kHz,horizontal,,,1,,Stick,4
 stratgys,Strategy X (Stern),World,Stern,yes,Strategy X,Konami Scramble based,,no,no,1981,Konami - Stern,Shooter - Driving Vertical,,15kHz,horizontal,,,2 (alternating),8-way,,3
 stratgyx,Strategy X,World,,no,,Konami Scramble based,,no,no,1981,Konami,Shooter - Driving Vertical,,15kHz,horizontal,,,2 (alternating),8-way,,3
@@ -2046,6 +2051,7 @@ swarm,Swarm [bl],World,,yes,Galaxian,Namco Galaxian based,,no,yes,1979,Subelectr
 swat,SWAT (315-5048),World,315-5048,no,,Sega System 1,,no,no,1984,Sega,Shooter - Field,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,2
 sxevious,Super Xevious,World,,no,xevious,Namco Galaga based,,no,no,1984,Namco,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 szaxxon,Super Zaxxon,World,,no,,Sega Zaxxon based,,no,no,1982,Sega-Gremlin,Shooter - Flying Diagonal,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,1
+tacscan,Tac-Scan,World,,no,Tac-Scan,Sega G80 Vector,,no,no,1982,Sega,Shooter - Flying Vertical,,31kHz,vertical (ccw),,,2 (alternating),,spinner,2
 tankbatt,Tank Battalion,World,,no,Tank Battalion,Namco Unique,Tank Battalion,no,no,1980,Namco,Maze - Shooter Small,,15kHz,vertical (cw),,,2 (alternating),4-way,,1
 tapper,"Tapper (Budweiser, 840127)",World,"Budweiser, 840127",no,,Midway MCR3,,no,no,1983,Bally - Midway,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),4-way,,1
 tappera,"Tapper (Budweiser, 831209)",World,"Budweiser, 831209",yes,Tapper,Midway MCR3,,no,no,1983,Bally - Midway,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),4-way,,1
@@ -2097,6 +2103,7 @@ tokioo,Tokio (Scramble Formation) (Older),World,Older,yes,Scramble Formation,Tai
 tokiou,Tokio (Scramble Formation) (US),USA,,yes,Scramble Formation,Taito Bubble Booble based,,no,no,1986,Taito,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 tokisens,"Toki no Senshi - Chrono Soldier [MC-8123, 317-0040]",Japan,"MC-8123, 317-0040",no,,Sega System 1,,no,no,1987,Sega,Shooter - Walking,,15kHz,vertical (cw),,,1,8-way,,2
 tokisensa,Toki no Senshi - Chrono Soldier (prototype),Japan,"MC-8123, 317-0040",yes,Toki no Senshi - Chrono Soldier,Sega System 1,,no,no,1987,Sega,Shooter - Walking,,15kHz,vertical (cw),,,1,8-way,,2
+toobin,Toobin,World,,no,Toobin,Atari System-1,,no,no,1988,Atari Games,Sports - Misc.,,15kHz,vertical (ccw),,,2 (simultaneous),,,5
 topgunbl,Top Gunner (US) [bl],USA,,yes,Jackal,Konami Double Dribble based,,no,yes,1986,Konami,Shooter - Driving Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 topgunr,Top Gunner (US),USA,,yes,Jackal,Konami Double Dribble based,,no,no,1986,Konami,Shooter - Driving Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 topsecrt,"Top Secret (JP, Rev Old)",Japan,Rev Old,yes,Bionic Commando,Capcom CPS-0,,no,no,1987,Capcom,Platform - Shooter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),8-way,,2
