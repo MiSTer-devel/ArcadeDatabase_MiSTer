@@ -96,6 +96,7 @@ andromd,Andromeda [hb],World,,yes,Galaxian,Namco Galaxian based,,yes,no,1979,hac
 anteater,Anteater,World,,no,Anteater,Konami Scramble based,,no,no,1982,Tago Electronics,Maze - Collect,,15kHz,vertical (cw),yes,,1,4-way,,1
 apb,APB - All Points Bulletin (rev 7),World,rev 7,no,APB - All Points Bulletin,Atari System-2,,no,no,1987,Atari Games,,,31kHz,vertical (ccw),,,1,,dial,2
 aponow,Apocaljpse Now (Rescue) [bl],World,Rescue,yes,Rescue,Konami Scramble based,,no,yes,1982,,Shooter - Flying,,15kHz,vertical (cw),yes,,2 (alternating),8-way,twin stick,4
+arabian,Arabian,World,,no,Arabian,Sun Electronics Arabian hardware,,no,no,1983,Sun Electronics,Platform - Run Jump,,15kHz,vertical (ccw),,,2 (alternating),8-way,,1
 area88,Area 88 (JP),Japan,,yes,U.N. Squadron,Capcom CPS-1,U.N. Squadron,no,no,1989,Capcom,Shooter - Flying Horizontal,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
 area88r,"Area 88 (JP, Resale)",Japan,Resale,yes,U.N. Squadron,Capcom CPS-1,U.N. Squadron,no,no,1989,Capcom,Shooter - Flying Horizontal,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
 arian,Arian Mission,World,,yes,ASO - Armored Scrum Object,SNK Triple Z80,,no,no,1985,SNK,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
@@ -363,6 +364,8 @@ cflyball,Flying Ball,USA,,no,Flying Ball,Data East DECO Cassette,,no,no,1985,Dat
 cgraplop,Cluster Buster,USA,,no,Cluster Buster,Data East DECO Cassette,,no,no,1983,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
 chamburger,Hamburger (JP),Japan,,no,Hamburger,Data East DECO Cassette,,no,no,1982,Data East,Platform - Run Jump,,15kHz,vertical (ccw),,,2 (alternating),4-way,,1
 chameleo,Chameleon,Japan,,no,Chameleon,Jaleco Unique,,no,no,1983,Jaleco,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),4-way,,1
+champbas,Champion Base Ball,World,,no,Champion Base Ball,Alpha Denshi Champion Base Ball hardware,,no,no,1983,Alpha Denshi Co. (Sega license),Sports - Baseball,,15kHz,horizontal,,,2 (alternating),8-way,,3
+champbb2,Champion Base Ball Part-2,World,,no,Champion Base Ball Part-2,Alpha Denshi Champion Base Ball hardware,,no,no,1983,Alpha Denshi Co. (Sega license),Sports - Baseball,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 chelnov,Chelnov - Atomic Runner (W),World,,no,Chelnov - Atomic Runner,Data East Karnov hardware,Chelnov,no,no,1988,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,3
 chelnovj,Chelnov - Atomic Runner (JP),Japan,,yes,Chelnov - Atomic Runner,Data East Karnov hardware,Chelnov,no,no,1988,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,3
 chelnovjbl,"Chelnov - Atomic Runner (JP, Set 1) [bl]",Japan,Set 1 bootleg with I8031,yes,Chelnov - Atomic Runner,Data East Karnov hardware,Chelnov,no,yes,1988,Data East Corporation,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,3
@@ -564,6 +567,7 @@ decodark,DECO Multigame (Darksoft v17),,,no,DECO Multigame,Data East DECO Casset
 defender,Defender (Red Label),World,Red Label,no,,Williams 1st Generation,,no,no,1980,Williams,Shooter - Flying Horizontal,,15kHz,horizontal,,,1,2-way vertical,,5
 defense,"Defense (W, S16B)",World,"S16B, FD1089A 317-0028",yes,SDI,Sega System 16,,no,no,1987,Sega,Shooter - Command,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,1
 demoderm,Demolition Derby (MCR-3 Mono Board Version),World,MCR-3 Mono Board Version,no,,Midway MCR3,,no,no,1984,Bally - Midway,Driving - Demolition Derby,,15kHz,horizontal,,,4 (simultaneous),2-way horizontal,,2
+denjinmk,Denjin Makai (Set 1),World,Set 1,no,Denjin Makai,Seibu Legionnaire hardware,,no,no,1994,Winkysoft (Banpresto license),Fighter - 2.5D,,15kHz,horizontal,,,2 (simultaneous),8-way,,3
 devilfsg,Devil Fish (Galaxian Hardware),World,Galaxian Hardware,no,,Namco Galaxian based,,no,no,1984,Vision - Artic,Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
 devzone,Devil Zone,World,,no,,Universal Cosmic hardware,,no,no,1980,Universal,Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),2-way,,1
 dfeveron,Dangun Feveron,World,,no,,CAVE 68000,,no,no,1998,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
@@ -683,6 +687,8 @@ eswatu,"E-Swat - Cyber Police (US, Set 3)",USA,"Set 3, FD1094 317-0129",yes,E-Sw
 europac,Euro Pac [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Stefano Priore,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 excthour,Exciting Hour,Japan,,yes,Mat Mania,Mat Mania hardware,,no,no,1985,Technos Japan (Taito License),Sports - Wrestling,,15kHz,vertical (ccw),no,,2 (alternating),8-way,,2
 exctleag,Excite League (W),World,FD1094 317-0079,no,Excite League,Sega System 16,,no,no,1988,Sega,Sports - Baseball,,15kHz,horizontal,n-a,,2 (simultaneous),,,3
+exctscc2,Exciting Soccer II,World,,no,Exciting Soccer II,Alpha Denshi Champion Base Ball hardware,,no,no,1984,Alpha Denshi Co.,Sports - Soccer,,15kHz,vertical (ccw),,,2 (alternating),8-way,,2
+exctsccr,Exciting Soccer,World,,no,Exciting Soccer,Alpha Denshi Champion Base Ball hardware,,no,no,1983,Alpha Denshi Co.,Sports - Soccer,,15kHz,vertical (ccw),,,2 (alternating),8-way,,2
 exedexes,Exed Exes,World,,no,Exed Exes,Capcom CPS-0,,no,no,1985,Capcom,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 exeriont,Exerion (Taito),World,,no,Exerion,Jaleco Exerion based,Exerion,no,no,1983,Jaleco (Taito America License),Shooter - Gallery,,15kHz,vertical (cw),,,2 (alternating),8-way,,2
 exprraid,"Express Raider (W, Rev 4)",World,Rev 4,no,Express Raider,Data East Unique,Express Raider,no,no,1986,Data East USA,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
@@ -1564,6 +1570,8 @@ raflesia,Rafflesia (315-5162),Japan,315-5162,no,,Sega System 1,,no,no,1986,Sega,
 ragtime,"The Great Ragtime Show (JP v1.5, 92.12.07)",Japan,"v1.5, 92.12.07",yes,Boogie Wings,Data East DE-0379 hardware,,no,no,1992,Data East Corporation,Shooter - Misc. Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 ragtimea,"The Great Ragtime Show (JP v1.3, 92.11.26)",Japan,"v1.3, 92.11.26",yes,Boogie Wings,Data East DE-0379 hardware,,no,no,1992,Data East Corporation,Shooter - Misc. Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 raiden,Raiden (W),World,,no,Raiden,Seibu Raiden hardware,,no,no,1990,Seibu Kaihatsu,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
+raiden2,"Raiden II (US, Set 1)",USA,Set 1,no,Raiden II,Seibu Raiden 2 hardware,,no,no,1993,Seibu Kaihatsu (Fabtek license),Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
+raidendx,Raiden DX (UK),UK,,no,Raiden DX,Seibu Raiden 2 hardware,,no,no,1994,Seibu Kaihatsu,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,3
 raidenj,Raiden (JP),Japan,,yes,Raiden,Seibu Raiden hardware,,no,no,1990,Seibu Kaihatsu,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
 raidenk,Raiden (KR),Korea,,yes,Raiden,Seibu Raiden hardware,,no,no,1990,Seibu Kaihatsu (IBL Corporation license),Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
 raident,Raiden (TW),Taiwan,,yes,Raiden,Seibu Raiden hardware,,no,no,1990,Seibu Kaihatsu (Liang HWA Electronics license),Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
@@ -2063,6 +2071,7 @@ swat,SWAT (315-5048),World,315-5048,no,,Sega System 1,,no,no,1984,Sega,Shooter -
 sxevious,Super Xevious,World,,no,xevious,Namco Galaga based,,no,no,1984,Namco,Shooter - Flying Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 szaxxon,Super Zaxxon,World,,no,,Sega Zaxxon based,,no,no,1982,Sega-Gremlin,Shooter - Flying Diagonal,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,1
 tacscan,Tac-Scan,World,,no,Tac-Scan,Sega G80 Vector,,no,no,1982,Sega,Shooter - Flying Vertical,,31kHz,vertical (ccw),,,2 (alternating),,spinner,2
+talbot,Talbot,World,,no,Talbot,Alpha Denshi Champion Base Ball hardware,,no,no,1982,Alpha Denshi Co. (Volt Electronics license),Maze - Collect,,15kHz,vertical (ccw),,,2 (simultaneous),8-way,,2
 tankbatt,Tank Battalion,World,,no,Tank Battalion,Namco Unique,Tank Battalion,no,no,1980,Namco,Maze - Shooter Small,,15kHz,vertical (cw),,,2 (alternating),4-way,,1
 tapper,"Tapper (Budweiser, 840127)",World,"Budweiser, 840127",no,,Midway MCR3,,no,no,1983,Bally - Midway,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),4-way,,1
 tappera,"Tapper (Budweiser, 831209)",World,"Budweiser, 831209",yes,Tapper,Midway MCR3,,no,no,1983,Bally - Midway,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),4-way,,1
