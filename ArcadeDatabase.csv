@@ -44,6 +44,7 @@ setname,name,region,version,alternative,parent_title,platform,series,homebrew,bo
 3wondersr1,"Three Wonders (W, 910513)",World,910513,yes,Three Wonders,Capcom CPS-1,,no,no,1991,Capcom,MultiGame - Compilation,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
 3wondersu,"Three Wonders (US, 920520)",USA,920520,yes,Three Wonders,Capcom CPS-1,,no,no,1991,Capcom,MultiGame - Compilation,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
 4dwarrio,4-D Warriors (315-5162),World,315-5162,no,4-D Warriors,Sega System 1,,no,no,1985,Sega,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (alternating),4-way,,2
+720,720 Degrees (rev 4),World,rev 4,no,720 Degrees,Atari System-2,,no,no,1986,Atari Games,Sports - Misc.,,31kHz,horizontal,,,2 (alternating),,dial,2
 abortman,Abortman,World,,yes,Pac-Man,Namco Pac-Man hardware,,no,no,1980,Atari,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 aceattac,"Ace Attacker (W, 317-0059)",World,FD1094 317-0059,yes,Ace Attacker,Sega System 16,,no,no,1988,Sega,Sports - Volleyball,,15kHz,vertical (ccw),yes,,1,,,
 aceattaca,"Ace Attacker (JP, 317-0060)",Japan,FD1094 317-0060,no,Ace Attacker,Sega System 16,,no,no,1988,Sega,Sports - Volleyball,,15kHz,vertical (ccw),yes,,1,,,
@@ -93,6 +94,7 @@ amazont,Soldier Girl Amazon (Tecfri license),World,Tecfri license,yes,Sei Senshi
 amidars,Amidar (Scramble),World,Scramble ver,no,Amidar,Konami Scramble based,,no,no,1982,Konami,Maze - Outline,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 andromd,Andromeda [hb],World,,yes,Galaxian,Namco Galaxian based,,yes,no,1979,hack,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 anteater,Anteater,World,,no,Anteater,Konami Scramble based,,no,no,1982,Tago Electronics,Maze - Collect,,15kHz,vertical (cw),yes,,1,4-way,,1
+apb,APB - All Points Bulletin (rev 7),World,rev 7,no,APB - All Points Bulletin,Atari System-2,,no,no,1987,Atari Games,,,31kHz,vertical (ccw),,,1,,dial,2
 aponow,Apocaljpse Now (Rescue) [bl],World,Rescue,yes,Rescue,Konami Scramble based,,no,yes,1982,,Shooter - Flying,,15kHz,vertical (cw),yes,,2 (alternating),8-way,twin stick,4
 area88,Area 88 (JP),Japan,,yes,U.N. Squadron,Capcom CPS-1,U.N. Squadron,no,no,1989,Capcom,Shooter - Flying Horizontal,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
 area88r,"Area 88 (JP, Resale)",Japan,Resale,yes,U.N. Squadron,Capcom CPS-1,U.N. Squadron,no,no,1989,Capcom,Shooter - Flying Horizontal,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,3
@@ -468,6 +470,7 @@ csclubjy,"Capcom Sports Club (JP, Rental Version)",Japan,Rental Version,yes,Capc
 cscrtry,Scrum Try,USA,,no,Scrum Try,Data East DECO Cassette,,no,no,1984,Data East,Sports - Misc.,,15kHz,vertical (ccw),,,2 (alternating),,,2
 csdtenis,Super Doubles Tennis,Japan,,no,Super Doubles Tennis,Data East DECO Cassette,,no,no,1983,Data East,Sports - Tennis,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cskater,Skater,Japan,,no,Skater,Data East DECO Cassette,,no,no,1983,Data East,Sports - Misc.,,15kHz,vertical (ccw),,,2 (alternating),,,2
+csprint,Championship Sprint (rev 3),World,rev 3,no,Championship Sprint,Atari System-2,,no,no,1986,Atari Games,Driving - Race Track,,31kHz,horizontal,,,2 (simultaneous),,dial,0
 csuperas,Super Astro Fighter,USA,,no,Super Astro Fighter,Data East DECO Cassette,,no,no,1981,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
 csweetht,Sweet Heart,USA,,no,Sweet Heart,Data East DECO Cassette,,no,no,1982,Data East,,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cterrani,Terranean,USA,,no,Terranean,Data East DECO Cassette,,no,no,1981,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
@@ -1396,6 +1399,7 @@ pang3b,Pang! 3 [bl],World,,yes,Pang! 3,Capcom CPS-1,Pang!,no,yes,1995,Capcom,Sho
 pang3j,"Pang! 3- Kaitou Tachi no Karei na Gogo (JP, 920312)",Japan,920312,yes,Pang! 3,Capcom CPS-1,Pang!,no,no,1995,Capcom,Shooter - 3rd Person,,15kHz,horizontal,n-a,,2 (simultaneous),4-way,,1
 pang3r1,"Pang! 3 (EU, 950511)",Europe,950511,yes,Pang! 3,Capcom CPS-1,Pang!,no,no,1995,Capcom,Shooter - 3rd Person,,15kHz,horizontal,n-a,,2 (simultaneous),4-way,,1
 panic,Space Panic,World,,no,,Universal Cosmic hardware,,no,no,1981,Universal,Platform - Run Jump,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,2
+paperboy,Paperboy (rev 3),World,rev 3,no,Paperboy,Atari System-2,,no,no,1984,Atari Games,Maze - Driving,,31kHz,horizontal,,,2 (alternating),,,2
 passsht,"Passing Shot (W, 2 Players)",World,"2 Players, FD1094 317-0080",no,Passing Shot,Sega System 16,,no,no,1988,Sega,Sports - Tennis,,15kHz,vertical (ccw),no,,2 (simultaneous),8-way,,4
 passsht16a,"Passing Shot (JP, 4 Players) 317-0071",Japan,"4 Players, FD1094 317-0071",yes,Passing Shot,Sega System 16,,no,no,1988,Sega,Sports - Tennis,,15kHz,vertical (ccw),no,,4 (simultaneous),8-way,,4
 passshta,"Passing Shot (W, 4 Players) 317-0074",World,"4 Players, FD1094 317-0074",yes,Passing Shot,Sega System 16,,no,no,1988,Sega,Sports - Tennis,,15kHz,vertical (ccw),no,,4 (simultaneous),8-way,,4
@@ -2014,6 +2018,7 @@ ssf2xj,"Super Street Fighter II X- Grand Master Challenge (JP, 940311)",Japan,94
 ssf2xjr1,"Super Street Fighter II X- Grand Master Challenge (JP, 940223)",Japan,940223,yes,Super Street Fighter II X- Grand Master Challenge,Capcom CPS-2,Street Fighter,no,no,1994,Capcom,Fighter - Versus,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,6
 ssf2xjr1d,"Super Street Fighter II X- Grand Master Challenge (JP, Phoenix Edition)",Japan,Phoenix Edition,yes,Super Street Fighter II X- Grand Master Challenge,Capcom CPS-2,Street Fighter,no,yes,1994,Capcom,Fighter - Versus,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,6
 ssf2xjr1r,"Super Street Fighter II X- Grand Master Challenge (JP, 940223, Rental)",Japan,940223,yes,Super Street Fighter II X- Grand Master Challenge,Capcom CPS-2,Street Fighter,no,no,1994,Capcom,Fighter - Versus,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,6
+ssprint,Super Sprint (rev 4),World,rev 4,no,Super Sprint,Atari System-2,,no,no,1986,Atari Games,Driving - Race Track,,31kHz,horizontal,,,3 (simultaneous),,dial,0
 sstriker,Sorcer Striker,World,,no,Sorcer Striker,Toaplan 2,,no,no,1993,Raizing,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 sstrikerk,Sorcer Striker (KR),Korea,,yes,Sorcer Striker,Toaplan 2,,no,no,1993,Raizing,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 stapper,Tapper (Simpsons),World,Simpsons,yes,Tapper,Midway MCR3,,no,no,1983,Bally - Midway,Platform - Run Jump,,15kHz,horizontal,,,2 (alternating),4-way,,1
