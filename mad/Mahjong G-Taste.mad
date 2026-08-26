@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>mjgtaste</setname>
+	<name>Mahjong G-Taste</name>
+	<region>World</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>Mahjong G-Taste</parent_title>
+	<platform>Psikyo SH-2 hardware</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>2002</year>
+	<manufacturer>Psikyo</manufacturer>
+	<category>Tabletop - Mahjong</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>1</players>
+	<move_inputs></move_inputs>
+	<special_controls>mahjong</special_controls>
+	<num_buttons></num_buttons>
+</misterarcadedescription>

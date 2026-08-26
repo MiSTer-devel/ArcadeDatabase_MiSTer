@@ -1,22 +1,22 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>snowbrosj</setname>
-	<name>Snow Bros. - Nick &amp; Tom (JP)</name>
-	<region>Japan</region>
+	<setname>s1945ii</setname>
+	<name>Strikers 1945 II</name>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Snow Bros. - Nick &amp; Tom</parent_title>
-	<platform>Toaplan Snow Bros hardware</platform>
+	<parent_title>Strikers 1945 II</parent_title>
+	<platform>Psikyo SH-2 hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1990</year>
-	<manufacturer>Toaplan</manufacturer>
-	<category>Platform - Run Jump</category>
+	<year>1997</year>
+	<manufacturer>Psikyo</manufacturer>
+	<category>Shooter - Flying Vertical</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>horizontal</rotation>
+	<rotation>vertical (ccw)</rotation>
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>

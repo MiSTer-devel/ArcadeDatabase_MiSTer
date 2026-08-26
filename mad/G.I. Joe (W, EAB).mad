@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>gijoe</setname>
+	<name>G.I. Joe (W, EAB)</name>
+	<region>World</region>
+	<version>EAB</version>
+	<alternative>no</alternative>
+	<parent_title>G.I. Joe</parent_title>
+	<platform>Konami G.I. Joe hardware</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1992</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Shooter - 3rd Person</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>4 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>

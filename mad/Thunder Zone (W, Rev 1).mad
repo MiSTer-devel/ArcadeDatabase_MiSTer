@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>joemac</setname>
-	<name>Tatakae Genshijin Joe &amp; Mac (JP, Ver. 1)</name>
-	<region>Japan</region>
-	<version>Ver. 1</version>
-	<alternative>yes</alternative>
-	<parent_title>Caveman Ninja</parent_title>
-	<platform>Data East Caveman Ninja hardware</platform>
+	<setname>thndzone</setname>
+	<name>Thunder Zone (W, Rev 1)</name>
+	<region>World</region>
+	<version>Rev 1</version>
+	<alternative>no</alternative>
+	<parent_title>Thunder Zone</parent_title>
+	<platform>Data East Thunder Zone hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1991</year>
 	<manufacturer>Data East Corporation</manufacturer>
-	<category>Platform - Shooter Scrolling</category>
+	<category>Shooter - Walking</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>2 (simultaneous)</players>
+	<players>4 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

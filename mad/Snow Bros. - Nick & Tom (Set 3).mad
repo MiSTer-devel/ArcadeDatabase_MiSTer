@@ -2,11 +2,11 @@
 <misterarcadedescription>
 
 	<setname>snowbrosb</setname>
-	<name>Snow Bros. - Nick & Tom (Set 3)</name>
+	<name>Snow Bros. - Nick &amp; Tom (Set 3)</name>
 	<region>World</region>
 	<version>Set 3</version>
 	<alternative>yes</alternative>
-	<parent_title>Snow Bros. - Nick & Tom</parent_title>
+	<parent_title>Snow Bros. - Nick &amp; Tom</parent_title>
 	<platform>Toaplan Snow Bros hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>

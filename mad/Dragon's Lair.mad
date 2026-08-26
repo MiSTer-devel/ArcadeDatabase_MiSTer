@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>twrshaft</setname>
-	<name>Tower &amp; Shaft</name>
-	<region>World</region>
+	<setname>dlair</setname>
+	<name>Dragon's Lair</name>
+	<region>USA</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Tower &amp; Shaft</parent_title>
-	<platform>Nintendo Aleck64 hardware</platform>
+	<parent_title>Dragon's Lair</parent_title>
+	<platform>Cinematronics Laserdisc</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>2003</year>
-	<manufacturer>Aruze</manufacturer>
+	<year>1983</year>
+	<manufacturer>Cinematronics</manufacturer>
 	<category>Platform - Run Jump</category>
 
-	<resolution></resolution>
+	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>1</players>
+	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>1</num_buttons>

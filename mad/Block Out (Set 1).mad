@@ -1,19 +1,20 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>snowbros</setname>
-	<name>Snow Bros. - Nick &amp; Tom (Set 1)</name>
+	<setname>blockout</setname>
+	<name>Block Out (Set 1)</name>
 	<region>World</region>
 	<version>Set 1</version>
-	<alternative>yes</alternative>
-	<parent_title>Snow Bros. - Nick &amp; Tom</parent_title>
-	<platform>Toaplan Snow Bros hardware</platform>
+	<alternative>no</alternative>
+	<parent_title>Block Out</parent_title>
+	<platform>Technos Block Out hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1990</year>
-	<manufacturer>Toaplan</manufacturer>
-	<category>Platform - Run Jump</category>
+	<year>1989</year>
+	<manufacturer>Technos Japan</manufacturer>
+	<manufacturer>California Dreams</manufacturer>
+	<category>Puzzle - Drop</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
@@ -22,5 +23,5 @@
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>2</num_buttons>
+	<num_buttons>4</num_buttons>
 </misterarcadedescription>

@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>snowbrosj</setname>
-	<name>Snow Bros. - Nick &amp; Tom (JP)</name>
-	<region>Japan</region>
+	<setname>daraku</setname>
+	<name>Daraku Tenshi The Fallen Angels</name>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Snow Bros. - Nick &amp; Tom</parent_title>
-	<platform>Toaplan Snow Bros hardware</platform>
+	<parent_title>Daraku Tenshi The Fallen Angels</parent_title>
+	<platform>Psikyo SH-2 hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1990</year>
-	<manufacturer>Toaplan</manufacturer>
-	<category>Platform - Run Jump</category>
+	<year>1998</year>
+	<manufacturer>Psikyo</manufacturer>
+	<category>Fighter - Versus</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
@@ -22,5 +22,5 @@
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>2</num_buttons>
+	<num_buttons>4</num_buttons>
 </misterarcadedescription>
