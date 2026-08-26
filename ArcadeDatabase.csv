@@ -358,6 +358,7 @@ centiped,Centipede (Rev 4),World,Rev 4,no,Centipede,Atari Centipede based,Centip
 centiped1,Centipede (Rev 1),World,Rev 1,yes,Centipede,Atari Centipede based,Centipede,no,no,1980,Atari,Shooter - Gallery,,15kHz,vertical (ccw),yes,,1,,trackball,1
 centiped2,Centipede (Rev 2),World,Rev 2,yes,Centipede,Atari Centipede based,Centipede,no,no,1980,Atari,Shooter - Gallery,,15kHz,vertical (ccw),yes,,1,,trackball,1
 centiped3,Centipede (Rev 3),World,Rev 3,yes,Centipede,Atari Centipede based,Centipede,no,no,1980,Atari,Shooter - Gallery,,15kHz,vertical (ccw),yes,,1,,trackball,1
+cexplore,Explorer (DECO),World,,no,Explorer,Data East DECO Cassette,,no,no,1982,Data East Corporation,Shooter - Flying Vertical,,15kHz,vertical (ccw),,,2 (alternating),8-way,,2
 cfboy0a1,Flash Boy,Japan,,no,Flash Boy,Data East DECO Cassette,,no,no,1981,Data East,Platform - Fighter Scrolling,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cfghtice,Fighting Ice Hockey,USA,,no,Fighting Ice Hockey,Data East DECO Cassette,,no,no,1984,Data East,Sports - Hockey,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cflyball,Flying Ball,USA,,no,Flying Ball,Data East DECO Cassette,,no,no,1985,Data East,,,15kHz,vertical (ccw),,,2 (alternating),,,2
@@ -477,6 +478,7 @@ csprint,Championship Sprint (rev 3),World,rev 3,no,Championship Sprint,Atari Sys
 csuperas,Super Astro Fighter,USA,,no,Super Astro Fighter,Data East DECO Cassette,,no,no,1981,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
 csweetht,Sweet Heart,USA,,no,Sweet Heart,Data East DECO Cassette,,no,no,1982,Data East,,,15kHz,vertical (ccw),,,2 (alternating),,,2
 cterrani,Terranean,USA,,no,Terranean,Data East DECO Cassette,,no,no,1981,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
+ctisland,Treasure Island (DECO),World,,no,Treasure Island,Data East DECO Cassette,,no,no,1981,Data East Corporation,Maze - Collect,,15kHz,vertical (ccw),,,2 (alternating),8-way,,2
 ctornado,Tornado,USA,,no,Tornado,Data East DECO Cassette,,no,no,1982,Data East,Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,,2
 ctower,The Tower,Europe,,no,The Tower,Data East DECO Cassette,,no,no,1981,Data East,Climbing - Building,,15kHz,vertical (ccw),,,2 (alternating),,,2
 ctsttape,Test Tape,USA,,no,Test Tape,Data East DECO Cassette,,no,no,1981,Data East,,,15kHz,vertical (ccw),,,2 (alternating),,,2
@@ -489,6 +491,7 @@ cybotsj,"Cyberbots- Fullmetal Madness (JP, 950420)",Japan,950420,yes,Cyberbots F
 cybotsjd,"Cyberbots- Fullmetal Madness (JP, 940524)",Japan,940524,yes,Cyberbots Fullmetal Madness,Capcom CPS-2,,no,no,1995,Capcom,Fighter - Versus,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,4
 cybotsu,"Cyberbots- Fullmetal Madness (US, 950420)",USA,950420,yes,Cyberbots Fullmetal Madness,Capcom CPS-2,,no,no,1995,Capcom,Fighter - Versus,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,4
 cybotsud,"Cyberbots- Fullmetal Madness (US, Phoenix Edition) [bl]",USA,950420,yes,Cyberbots Fullmetal Madness,Capcom CPS-2,,no,yes,1995,Capcom,Fighter - Versus,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,4
+czeroize,Zeroize (DECO),World,,no,Zeroize,Data East DECO Cassette,,no,no,1983,Data East Corporation,Maze - Outline,,15kHz,vertical (ccw),,,2 (alternating),8-way,,2
 daimakai,Daimakaimura (JP),Japan,,no,,Capcom CPS-0,Ghosts 'n,no,no,1988,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),4-way,,2
 daimakair,"Daimakaimura (JP, Resale)",Japan,Resale,yes,Ghouls 'n Ghosts,Capcom CPS-0,Ghosts 'n,no,no,1988,Capcom,Platform - Fighter Scrolling,,15kHz,horizontal,n-a,,2 (alternating),4-way,,2
 dairesya,Dai Ressya Goutou (Ver. K),Japan,,yes,,Konami Double Dribble based,,no,no,1986,Konami,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,3
@@ -564,6 +567,7 @@ ddux1,"Dynamite Dux (W, Set 1)",World,"Set 1, 8751 317-0095",yes,Dynamite Dux,Se
 dduxj,"Dynamite Dux (JP, Set 2)",Japan,"Set 2, FD1094 317-0094",yes,Dynamite Dux,Sega System 16,,no,no,1988,Sega,Fighter - 2.5D,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,n-a,2
 deathbrd,"Death Brade (JP, Ver. JM-3)",Japan,Ver. JM-3,yes,Mutant Fighter,Data East Caveman Ninja hardware,,no,no,1991,Data East Corporation,Fighter - Versus,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 decodark,DECO Multigame (Darksoft v17),,,no,DECO Multigame,Data East DECO Cassette,,no,yes,2022,bootleg (Darksoft),MultiGame - Compilation,,15kHz,vertical (ccw),,,2 (alternating),,,2
+decomult,DECO Widel Multigame (DECO),World,,no,DECO Widel Multigame,Data East DECO Cassette,,no,yes,2008,David Widel,MultiGame - Compilation,,15kHz,vertical (ccw),,,2 (alternating),8-way,,2
 defender,Defender (Red Label),World,Red Label,no,,Williams 1st Generation,,no,no,1980,Williams,Shooter - Flying Horizontal,,15kHz,horizontal,,,1,2-way vertical,,5
 defense,"Defense (W, S16B)",World,"S16B, FD1089A 317-0028",yes,SDI,Sega System 16,,no,no,1987,Sega,Shooter - Command,,15kHz,horizontal,n-a,,2 (simultaneous),8-way,,1
 demoderm,Demolition Derby (MCR-3 Mono Board Version),World,MCR-3 Mono Board Version,no,,Midway MCR3,,no,no,1984,Bally - Midway,Driving - Demolition Derby,,15kHz,horizontal,,,4 (simultaneous),2-way horizontal,,2
@@ -673,6 +677,7 @@ edrandy2,"The Cliffhanger - Edward Randy (W, Ver. 2)",World,Ver. 2,yes,The Cliff
 edrandyj,"The Cliffhanger - Edward Randy (JP, Ver. 3)",Japan,Ver. 3,yes,The Cliffhanger - Edward Randy,Data East Caveman Ninja hardware,,no,no,1990,Data East Corporation,Fighter - 2D,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 eeekkp,Eeek! (Pac-Man Conversion),World,Pac-Man Conversion,no,,Namco Pac-Man hardware,,no,no,1984,Epos Corporation,Platform - Run Jump,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 eggor,Eggor,World,,no,,Namco Pac-Man hardware,,no,no,1983,Telko,Maze - Shooter Small,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
+elecyoyo,The Electric Yo-Yo,World,,no,The Electric Yo-Yo,Taito Qix Hardware,,no,no,1982,Taito America,Maze - Collect,,15kHz,vertical (ccw),,,2 (alternating),4-way,,0
 eltonpac,Elton Pac [hb],World,,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Marcel Silvius,Maze - Collect,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 esb,Empire Strikes Back,World,,no,Empire Strikes Back,Atari Vector,Star Wars,no,no,1985,Atari Games,Shooter - Flying 1st Person,,31kHz,horizontal,,,1,,Stick,4
 espgal,Espgaluda (2003.10.15 Master Ver),Japan,2003.10.15 Master Ver,no,Espgaluda,IGS PGM,,no,no,2003,CAVE,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,4
@@ -1927,6 +1932,7 @@ slammast,"Saturday Night Slam Masters (W, 930713)",World,930713,no,,Capcom CPS-1
 slammastu,"Saturday Night Slam Masters (US, 930713)",USA,930713,yes,Slam Masters,Capcom CPS-1.5,Slam Masters,no,no,1993,Capcom,Sports - Wrestling,,15kHz,horizontal,n-a,,4 (simultaneous),8-way,,3
 slapfighb1,Slap Fight [bl],Japan,,no,Slap Fight,Toaplan Slap Fight hardware,Slap Fight,no,no,1986,Toaplan - Taito,Shooter - Flying Vertical,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,2
 slapshtr,Slap Shooter,World,,no,,Sega System E,,no,no,1986,Sega,Sports - Hockey,,15kHz,horizontal,,,1,8-way,,2
+slither,Slither,World,,no,Slither,Taito Qix Hardware,,no,no,1982,Century II (GDI license),Shooter - Gallery,,15kHz,vertical (ccw),,,2 (alternating),,trackball,2
 slyspy,"Sly Spy (US, Rev 4)",USA,Rev. 4,yes,Secret Agent,Data East MEC-M1,,no,no,1989,Data East,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
 slyspy2,"Sly Spy (US, Rev 2)",USA,Rev. 2,yes,Secret Agent,Data East MEC-M1,,no,no,1989,Data East,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
 slyspy3,"Sly Spy (US, Rev 3)",USA,Rev. 3,yes,Secret Agent,Data East MEC-M1,,no,no,1989,Data East,Platform - Shooter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
@@ -2376,6 +2382,7 @@ yiear,Yie Ar Kung-Fu (program code I),World,Program code I,no,,Konami 6809 based
 yiear2,Yie Ar Kung-Fu (program code G),World,Program code G,yes,,Konami 6809 based,,no,no,1985,Konami,Fighter - Versus,,15kHz,horizontal,,,2 (alternating),8-way,,
 youjyudn,Youjyuden (JP),Japan,,no,Youjyuden,Irem M62,,no,no,1986,Irem,Shooter - Walking,,15kHz,vertical (ccw),,,2 (alternating),8-way,,2
 zaxxon,Zaxxon,World,,no,,Sega Zaxxon based,Zaxxon,no,no,1982,Sega,Shooter - Flying Diagonal,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,1
+zektor,Zektor (revision B),World,revision B,no,Zektor,Sega G80 Vector,,no,no,1982,Sega,Shooter - Field,,31kHz,horizontal (180),,,2 (alternating),,spinner,2
 zerotime,Zero Time (Petaco S.A.),World,Petaco S.A.,yes,Galaxian,Namco Galaxian based,,no,yes,1979,Petaco S.A.,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 zerotimemc,Zero Time (Marti Colls),World,Marti Colls,yes,Galaxian,Namco Galaxian based,,no,yes,1979,Marti Colls,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 zerowing,Zero Wing (2P set),World,,no,Zero Wing,Toaplan 1,,no,no,1989,Toaplan,Shooter - Flying Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
