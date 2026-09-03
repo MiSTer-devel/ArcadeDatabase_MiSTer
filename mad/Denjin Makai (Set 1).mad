@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>denjinmk</setname>
+	<name>Denjin Makai (Set 1)</name>
+	<region>World</region>
+	<version>Set 1</version>
+	<alternative>no</alternative>
+	<parent_title>Denjin Makai</parent_title>
+	<platform>Seibu Legionnaire hardware</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1994</year>
+	<manufacturer>Winkysoft (Banpresto license)</manufacturer>
+	<category>Fighter - 2.5D</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>

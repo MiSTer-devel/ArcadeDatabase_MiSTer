@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>720</setname>
+	<name>720 Degrees (rev 4)</name>
+	<region>World</region>
+	<version>rev 4</version>
+	<alternative>no</alternative>
+	<parent_title>720 Degrees</parent_title>
+	<platform>Atari System-2</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1986</year>
+	<manufacturer>Atari Games</manufacturer>
+	<category>Sports - Misc.</category>
+
+	<resolution>31kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs></move_inputs>
+	<special_controls>dial</special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>apb</setname>
+	<name>APB - All Points Bulletin (rev 7)</name>
+	<region>World</region>
+	<version>rev 7</version>
+	<alternative>no</alternative>
+	<parent_title>APB - All Points Bulletin</parent_title>
+	<platform>Atari System-2</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1987</year>
+	<manufacturer>Atari Games</manufacturer>
+	<category></category>
+
+	<resolution>31kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip></flip>
+
+	<players>1</players>
+	<move_inputs></move_inputs>
+	<special_controls>dial</special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>
